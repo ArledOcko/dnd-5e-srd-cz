@@ -1,5 +1,7 @@
 # MÁGOVA ZBROJ
 
+*Mage armor*
+
 ***Příručka hráče***
 
 *Vymítání 1. úrovně*

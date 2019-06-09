@@ -1,5 +1,7 @@
 # MAGICKÝ KRUH
 
+*Magic circle*
+
 ***Příručka hráče***
 
 *Vymítání 3. úrovně*

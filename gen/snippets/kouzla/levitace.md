@@ -1,5 +1,7 @@
 # LEVITACE
 
+*Levitate*
+
 ***Příručka hráče***
 
 *Transmutace 2. úrovně*
@@ -18,4 +20,4 @@ Jeden tvor či předmět dle tvé volby, který vidíš v dosahu, se vznese svis
 
 Cíl se může pohybovat pouze přitahováním nebo odstrkováním od pevného předmětu nebo povrchu v dosahu (například zdi nebo stropu), což mu umožňuje se pohybovat, jako by šplhal. Ve svém tahu můžeš upravit výšku cíle až o 4 sáhy. Jsi-li cílem ty sám, můžeš se pohybovat nahoru nebo dolů jako součást svého pohybu. V opačném případě můžeš pohnout cílem jako svou akci, ale musí zůstat v dosahu kouzla. 
 
-Když kouzlo skončí a cíl je stále ve vzduchu, pozvolna sestoupá na Zem.
+Když kouzlo skončí a cíl je stále ve vzduchu, pozvolna sestoupá na zem.

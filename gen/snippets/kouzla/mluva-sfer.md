@@ -1,5 +1,7 @@
 # MLUVA SFÉR
 
+*Contact other plane*
+
 ***Příručka hráče***
 
 *Věštění 5. úrovně* (*(rituál)*)

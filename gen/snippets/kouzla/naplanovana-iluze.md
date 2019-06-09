@@ -1,5 +1,7 @@
 # NAPLÁNOVANÁ ILUZE
 
+*Programmed illusion*
+
 ***Příručka hráče***
 
 *Iluze 6. úrovně*

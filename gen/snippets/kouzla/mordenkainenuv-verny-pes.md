@@ -1,5 +1,7 @@
 # MORDENKAINENŮV VĚRNÝ PES
 
+*Mordenkainen's faithful hound*
+
 ***Příručka hráče***
 
 *Vyvolávání 4. úrovně*

@@ -1,5 +1,7 @@
 # MOCNÉ NAVRÁCENÍ
 
+*Greater restoration*
+
 ***Příručka hráče***
 
 *Vymítání 5. úrovně*

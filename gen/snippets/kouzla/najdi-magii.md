@@ -1,5 +1,7 @@
 # NAJDI MAGII
 
+*Detect magic*
+
 ***Příručka hráče***
 
 *Věštění 1. úrovně (rituál)*

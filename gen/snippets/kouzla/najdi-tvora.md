@@ -1,5 +1,7 @@
 # NAJDI TVORA
 
+*Locate creature*
+
 ***Příručka hráče***
 
 *Věštění 4. úrovně*

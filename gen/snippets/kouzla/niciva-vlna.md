@@ -1,5 +1,7 @@
 # NIČIVÁ VLNA
 
+*Destruction wave*
+
 ***Příručka hráče***
 
 *Zaklínání 5. úrovně*

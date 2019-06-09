@@ -1,5 +1,7 @@
 # MRAZIVÝ PAPRSEK
 
+*Ray of frost*
+
 ***Příručka hráče***
 
 *Zaklínací trik*

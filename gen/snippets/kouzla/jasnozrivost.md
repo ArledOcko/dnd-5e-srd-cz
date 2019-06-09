@@ -6,7 +6,9 @@
 
 *Věštění 3. úrovně*
 
-**Vyvolání:** 10 minut Dosaih: 1 míle
+**Vyvolání:** 10 minut 
+
+**Dosah:** 1 míle
 
 **Složky:** V, P, S (ohniskový předmět v hodnotě aspoň 100 zl, buď drahokamový roh pro sluch, nebo skleněné oko pro zrak)
 

@@ -1,5 +1,7 @@
 # MORDENKAINENŮV MEČ
 
+*Mordenkainen's sword*
+
 ***Příručka hráče***
 
 *Zaklínání 7. úrovně*

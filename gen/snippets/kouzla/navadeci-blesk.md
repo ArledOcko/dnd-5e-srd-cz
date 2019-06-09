@@ -1,5 +1,7 @@
 # NAVÁDĚCÍ BLESK
 
+*Guiding bolt*
+
 ***Příručka hráče***
 
 *Zaklínání 1. úrovně*

@@ -1,5 +1,7 @@
 # MLŽNÁ PODOBA
 
+*Gaseous form*
+
 ***Příručka hráče***
 
 *Transmutace 3. úrovně*

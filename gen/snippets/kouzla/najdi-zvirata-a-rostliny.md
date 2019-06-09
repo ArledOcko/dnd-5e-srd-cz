@@ -1,5 +1,7 @@
 # NAJDI ZVÍŘATA A ROSTLINY
 
+*Locate animals or plants*
+
 ***Příručka hráče***
 
 *Věštění 2. úrovně (rituál)*

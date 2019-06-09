@@ -1,5 +1,7 @@
 # MAJÁK NADĚJE
 
+*Beacon of hope*
+
 ***Příručka hráče***
 
 *Vymítání 3. úrovně*
@@ -8,7 +10,7 @@
 
 **Dosah:** 6 sáhů
 
-**Složky: **V, P
+**Složky:** V, P
 
 **Trvání:** Soustředění, až 1 minuta
 

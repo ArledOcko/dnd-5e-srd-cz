@@ -1,5 +1,7 @@
 # NELIBOZVUČNY ŠEPOT
 
+*Dissonant whispers*
+
 ***Příručka hráče***
 
 *Očarování 1. úrovně*

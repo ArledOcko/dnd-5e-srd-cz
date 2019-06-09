@@ -1,5 +1,7 @@
 # MÁGOVA RUKA
 
+*Mage hand*
+
 ***Příručka hráče***
 
 *Vyvolávací trik*

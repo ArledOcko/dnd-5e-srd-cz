@@ -1,5 +1,7 @@
 # LÉČIVÉ SLOVO
 
+*Healing word*
+
 ***Příručka hráče***
 
 *Zaklínání 1. úrovně*

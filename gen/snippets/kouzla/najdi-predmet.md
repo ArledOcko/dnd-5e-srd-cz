@@ -1,5 +1,7 @@
 # NAJDI PŘEDMĚT
 
+*Locate object*
+
 ***Příručka hráče***
 
 *Věštění 2. úrovně*

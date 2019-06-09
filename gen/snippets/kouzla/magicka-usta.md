@@ -1,5 +1,7 @@
 # MAGICKÁ ÚSTA
 
+*Magic mouth*
+
 ***Příručka hráče***
 
 *Iluze 2. úrovně (rituál)*

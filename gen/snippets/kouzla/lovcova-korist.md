@@ -1,5 +1,7 @@
 # LOVCOVA KOŘIST
 
+*Hunter's mark*
+
 ***Příručka hráče***
 
 *Věštění 1. úrovně*

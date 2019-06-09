@@ -1,5 +1,7 @@
 # NIŽŠÍ NAVRÁCENÍ
 
+*Lesser restoration*
+
 ***Příručka hráče***
 
 *Vymítání 2. úrovně*

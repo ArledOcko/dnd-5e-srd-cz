@@ -1,5 +1,7 @@
 # NAJDI JED A NEMOC
 
+*Detect poison and disease*
+
 ***Příručka hráče***
 
 *Věštění 1. úrovně (rituál)*

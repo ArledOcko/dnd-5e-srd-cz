@@ -1,5 +1,7 @@
 # MYSTICKÉ OKO
 
+*Arcane eye*
+
 ***Příručka hráče***
 
 *Věštění 4. úrovně*

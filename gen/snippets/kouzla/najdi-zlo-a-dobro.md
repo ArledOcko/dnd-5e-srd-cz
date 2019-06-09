@@ -1,5 +1,7 @@
 # NAJDI ZLO A DOBRO
 
+*Detect evil and good*
+
 ***Příručka hráče***
 
 *Věštění 1. úrovně*

@@ -1,5 +1,7 @@
 # NAJDI PŘÍTELÍČKA
 
+*Find familiar*
+
 ***Příručka hráče***
 
 *Vyvolávání 1. úrovně (rituál)*
@@ -26,4 +28,4 @@ Jako akci můžeš svého přítelíčka dočasně odvolat. Zmizí do kapesní d
 
 V jednu chvíli můžeš mít jen jednoho přítelíčka. Sešleš-li toto kouzlo, když už přítelíčka máš, dáš mu novou podobu, místo abys vyvolal nového. Vyber jednu z podob ze seznamu výše. Tvůj přítelíček se přemění do zvoleného tvora. 
 
-Když sesíláš kouzlo s dosahem dotyk, může ho uštědřit tvůj přítelíček, jako by ho sesílal on. Přítelíček musí být do 20 sáhů od tebe a pro uštědření kouzla musí použít svou reakci, když ho sesíláš. Vyžaduje-li kouzlo hod na útok, použiješ k hodu svou útočnou Opravu.
+Když sesíláš kouzlo s dosahem dotyk, může ho uštědřit tvůj přítelíček, jako by ho sesílal on. Přítelíček musí být do 20 sáhů od tebe a pro uštědření kouzla musí použít svou reakci, když ho sesíláš. Vyžaduje-li kouzlo hod na útok, použiješ k hodu svou útočnou opravu.

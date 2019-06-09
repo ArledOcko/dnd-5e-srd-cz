@@ -1,5 +1,7 @@
 # MAGICKÁ STŘELA
 
+*Magic missile*
+
 ***Příručka hráče***
 
 *Zaklínání 1. úrovně*

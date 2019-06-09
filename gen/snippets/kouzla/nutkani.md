@@ -1,5 +1,7 @@
 # NUTKÁNÍ
 
+*Compulsion*
+
 ***Příručka hráče***
 
 *Očarování 4. úrovně*

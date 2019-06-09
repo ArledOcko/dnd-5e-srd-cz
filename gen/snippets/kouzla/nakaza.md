@@ -1,5 +1,7 @@
 # NÁKAZA
 
+*Contagion*
+
 ***Příručka hráče***
 
 *Nekromancie 5. úrovně*

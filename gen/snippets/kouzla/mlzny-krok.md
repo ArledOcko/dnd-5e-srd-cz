@@ -1,5 +1,7 @@
 # MLŽNÝ KROK
 
+*Misty step*
+
 ***Příručka hráče***
 
 *Vyvolávání 2. úrovně*

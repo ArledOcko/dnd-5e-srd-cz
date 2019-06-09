@@ -1,5 +1,7 @@
 # NEVIDITELNOST
 
+*Invisibility*
+
 ***Příručka hráče***
 
 *Iluze 2. úrovně*

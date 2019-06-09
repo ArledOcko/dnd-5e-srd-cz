@@ -20,7 +20,7 @@ Dotkneš se tvora a propůjčíš mu magické zlepšení. Zvol jeden z následuj
 
 ***Kočičí grácie.*** Cíl má výhodu k ověřením Obratnosti. Také neutrpí zranění z pádu z výšky 4 nebo méně sáhů, pokud není neschopný.
 
-***Liščí chytrost.** Cíl má výhodu k ověřením Inteligence.
+***Liščí chytrost.*** Cíl má výhodu k ověřením Inteligence.
 
 ***Medvědí houževnatost.*** Cíl má výhodu k ověřením Odolnosti. Také získá 2k6 dočasných životů, které zmizí, když kouzlo skončí.
 

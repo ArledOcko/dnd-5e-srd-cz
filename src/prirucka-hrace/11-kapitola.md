@@ -24,19 +24,19 @@ Tato kapitola popisuje nejběžnější kouzla ve světech Dungeons & Dragons. K
 | **1. úroveň**             | **1. úroveň**           | **1. úroveň**               | **1. úroveň**             | **1. úroveň**             | **1. úroveň**               | **1. úroveň**               | **1. úroveň**               |
 | Dlouhokrok                | Barevná koule           | Čarodějnický blesk          | Dlouhokrok                | Dlouhokrok                | Azyl                        | Barevná koule               | Hrdinství                   |
 | Hrdinství                 | Barevná sprška          | Hadarovy paže               | Dobrůvka                  | Dobrůvka                  | Léčivé slovo                | Barevná sprška              | Hromový úder                |
-| Hromová vlna              | Čarodějnický blesk      | Iluzorní text               | Hromová vlna              | Krupobití trnů            | Najdi jed a?nemoc           | Čarodějnický blesk          | Najdi jed a?nemoc           |
+| Hromová vlna              | Čarodějnický blesk      | Iluzorní text               | Hromová vlna              | Krupobití trnů            | Najdi jed a nemoc           | Čarodějnický blesk          | Najdi jed a nemoc           |
 | Iluzorní text             | Falešný život           | Kletba                      | Léčivé slovo              | Lovcova kořist            | Najdi magii                 | Dlouhokrok                  | Najdi magii                 |
-| Léčivé slovo              | Hořící ruce             | Neviditelný služebník       | Mluv se zvířaty           | Mluv se zvířaty           | Najdi zlo a?dobro           | Falešný život               | Najdi zlo a?dobro           |
-| Mluv se zvířaty           | Hromová vlna            | Ochrana před zlem a?dobrem  | Najdi jed a?nemoc         | Najdi jed a?nemoc         | Naváděcí blesk              | Hořící ruce                 | Očisti jídlo a?pití         |
-| Najdi magii               | Magická střela          | Pekelné pokárání            | Najdi magii               | Najdi magii               | Očisti jídlo a?pití         | Hromová vlna                | Ochrana před zlem a?dobrem  |
-| Nelibozvučný šepot        | Mágova zbroj            | Porozumění jazykům          | Oblak mlhy                | Oblak mlhy                | Ochrana před zlem a?dobrem  | Iluzorní text               | Požehnání                   |
-| Neviditelný služebník     | Najdi magii             | Spěšný ústup                | Očisti jídlo a?pití       | Polapující úder           | Požehnání                   | Magická střela              | Přízeň bohů                 |
+| Léčivé slovo              | Hořící ruce             | Neviditelný služebník       | Mluv se zvířaty           | Mluv se zvířaty           | Najdi zlo a dobro           | Falešný život               | Najdi zlo a dobro           |
+| Mluv se zvířaty           | Hromová vlna            | Ochrana před zlem a dobrem  | Najdi jed a nemoc         | Najdi jed a nemoc         | Naváděcí blesk              | Hořící ruce                 | Očisti jídlo a pití         |
+| Najdi magii               | Magická střela          | Pekelné pokárání            | Najdi magii               | Najdi magii               | Očisti jídlo a pití         | Hromová vlna                | Ochrana před zlem a dobrem  |
+| Nelibozvučný šepot        | Mágova zbroj            | Porozumění jazykům          | Oblak mlhy                | Oblak mlhy                | Ochrana před zlem a dobrem  | Iluzorní text               | Požehnání                   |
+| Neviditelný služebník     | Najdi magii             | Spěšný ústup                | Očisti jídlo a pití       | Polapující úder           | Požehnání                   | Magická střela              | Přízeň bohů                 |
 | Pomalý pád                | Oblak mlhy              | Zbroj Agathysu              | Přátelství zvířat         | Poplach                   | Rozkaz                      | Mágova zbroj                | Rozkaz                      |
 | Porozumění jazykům        | Paprsek otrávení        | Zmam osobu                  | Skok                      | Přátelství zvířat         | Stvoř nebo znič vodu        | Najdi magii                 | Spalující úder              |
 | Přátelství zvířat         | Pomalý pád              |                             | Stvoř nebo znič vodu      | Skok                      | Štít víry                   | Najdi přítelíčka            | Štít víry                   |
 | Přestrojení               | Porozumění jazykům      |                             | Vílí oheň                 | Zhoj zranění              | Zhoj zranění                | Neviditelný služebník       | Úder zloby                  |
 | Spánek                    | Přestrojení             |                             | Zapletení                 |                           | Zhouba                      | Oblak mlhy                  | Vynucený duel               |
-| Tašin děsivý smích        | Skok                    |                             | Zhoj zranění              |                           | Způsob zranění              | Ochrana před zlem a?dobrem  | Zhoj zranění                |
+| Tašin děsivý smích        | Skok                    |                             | Zhoj zranění              |                           | Způsob zranění              | Ochrana před zlem a dobrem  | Zhoj zranění                |
 | Tichý obraz               | Spánek                  |                             | Zmam osobu                |                           |                             | Paprsek otrávení            |                             |
 | Určení                    | Spěšný ústup            |                             |                           |                           |                             | Pomalý pád                  |                             |
 | Vílí oheň                 | Štít                    |                             |                           |                           |                             | Poplach                     |                             |
@@ -57,7 +57,7 @@ Tato kapitola popisuje nejběžnější kouzla ve světech Dungeons & Dragons. K
 | Koruna šílenství          | Levitace                | Koruna šílenství            | Měsíční paprsek           | Kůrokůže                  | Důstojný odpočinek          | Koruna šílenství            | Magická zbraň               |
 | Magická ústa              | Mlžný krok              | Mlžný krok                  | Najdi pasti               | Najdi pasti               | Léčivá modlitba             | Levitace                    | Najdi oře                   |
 | Najdi předmět             | Neviditelnost           | Neviditelnost               | Najdi předmět             | Najdi předmět             | Najdi pasti                 | Magická ústa                | Najdi předmět               |
-| Najdi zvířata a?rostliny  | Oblak dýk               | Oblak dýk                   | Najdi zvířata a?rostliny  | Najdi zvířata a?rostliny  | Najdi předmět               | Magická zbraň               | Nižší navrácení             |
+| Najdi zvířata a rostliny  | Oblak dýk               | Oblak dýk                   | Najdi zvířata a rostliny  | Najdi zvířata a rostliny  | Najdi předmět               | Magická zbraň               | Nižší navrácení             |
 | Neviditelnost             | Odhal myšlenky          | Paprsek slabosti            | Nižší navrácení           | Nižší navrácení           | Nižší navrácení             | Melfův kyselinový šíp       | Ochrana před jedem          |
 | Nižší navrácení           | Pavoučí šplh            | Pavoučí šplh                | Ohnivá čepel              | Ochrana před jedem        | Ochrana před jedem          | Mlžný krok                  | Podpora                     |
 | Oblak dýk                 | Pavučina                | Roztříštění                 | Ochrana před jedem        | Projdi beze stop          | Podpora                     | Mystický zámek              | Zóna pravdy                 |
@@ -79,7 +79,7 @@ Tato kapitola popisuje nejběžnější kouzla ve světech Dungeons & Dragons. K
 |                           | Zvětšení nebo zmenšení  |                             |                           |                           |                             | Spatři neviditelné          |                             |
 |                           |                         |                             |                           |                           |                             | Sugesce                     |                             |
 |                           |                         |                             |                           |                           |                             | Tma                         |                             |
-|                           |                         |                             |                           |                           |                             | Trik s?lanem                |                             |
+|                           |                         |                             |                           |                           |                             | Trik s lanem                |                             |
 |                           |                         |                             |                           |                           |                             | Věčný plamen                |                             |
 |                           |                         |                             |                           |                           |                             | Vidění ve tmě               |                             |
 |                           |                         |                             |                           |                           |                             | Zaklep                      |                             |
@@ -90,13 +90,13 @@ Tato kapitola popisuje nejběžnější kouzla ve světech Dungeons & Dragons. K
 | **3. úroveň**             | **3. úroveň**           | **3. úroveň**               | **3. úroveň**             | **3. úroveň**             | **3. úroveň**               | **3. úroveň**               | **3. úroveň**               |
 | Hypnotický vzor           | Blesk                   | Hadarova touha              | Denní světlo              | Bleskový šíp              | Denní světlo                | Blesk                       | Aura vitality               |
 | Jasnozřivost              | Denní světlo            | Hypnotický vzor             | Chůze po vodě             | Denní světlo              | Hromadné léčivé slovo       | Hypnotický vzor             | Denní světlo                |
-| Jazyky                    | Hypnotický vzor         | Jazyky                      | Mluv s?rostlinami         | Chůze po vodě             | Chůze po vodě               | Jasnozřivost                | Křižákova pelerína          |
-| Leomundova chatka         | Chůze po vodě           | Leť                         | Ochrana před energií      | Mluv s?rostlinami         | Jasnozřivost                | Jazyky                      | Magický kruh                |
-| Mluv s?mrtvými            | Jasnozřivost            | Magický kruh                | Předstírej smrt           | Nezjistitelnost           | Jazyky                      | Leomundova chatka           | Obrození                    |
-| Mluv s?rostlinami         | Jazyky                  | Mlžná podoba                | Rozptyl magii             | Ochrana před energií      | Magický kruh                | Leť                         | Oslepující úder             |
+| Jazyky                    | Hypnotický vzor         | Jazyky                      | Mluv s rostlinami         | Chůze po vodě             | Chůze po vodě               | Jasnozřivost                | Křižákova pelerína          |
+| Leomundova chatka         | Chůze po vodě           | Leť                         | Ochrana před energií      | Mluv s rostlinami         | Jasnozřivost                | Jazyky                      | Magický kruh                |
+| Mluv s mrtvými            | Jasnozřivost            | Magický kruh                | Předstírej smrt           | Nezjistitelnost           | Jazyky                      | Leomundova chatka           | Obrození                    |
+| Mluv s rostlinami         | Jazyky                  | Mlžná podoba                | Rozptyl magii             | Ochrana před energií      | Magický kruh                | Leť                         | Oslepující úder             |
 | Nezjistitelnost           | Leť                     | Protikouzlo                 | Růst rostlin              | Růst rostlin              | Maják naděje                | Magický kruh                | Rozptyl magii               |
-| Páchnoucí oblak           | Mihotání                | Rozptyl magii               | Svolej blesky             | Větrná zeď                | Mluv s?mrtvými              | Mihotání                    | Sejmi kletbu                |
-| Poselství                 | Mlžná podoba            | Sejmi kletbu                | Vejdi do kamene           | Vodní dech                | Obrození                    | Mlžná podoba                | Stvoř jídlo a?vodu          |
+| Páchnoucí oblak           | Mihotání                | Rozptyl magii               | Svolej blesky             | Větrná zeď                | Mluv s mrtvými              | Mihotání                    | Sejmi kletbu                |
+| Poselství                 | Mlžná podoba            | Sejmi kletbu                | Vejdi do kamene           | Vodní dech                | Obrození                    | Mlžná podoba                | Stvoř jídlo a vodu          |
 | Předstírej smrt           | Ohnivá koule            | Strach                      | Větrná zeď                | Vyvolej palbu             | Ochrana před energií        | Nezjistitelnost             | Živelná zbraň               |
 | Rozptyl magii             | Ochrana před energií    | Upíří dotyk                 | Vodní dech                | Vyvolej zvířata           | Oživ mrtvého                | Ohnivá koule                |                             |
 | Růst rostlin              | Páchnoucí oblak         | Velký obraz                 | Vyvolej zvířata           |                           | Poselství                   | Ochrana před energií        |                             |
@@ -105,7 +105,7 @@ Tato kapitola popisuje nejběžnější kouzla ve světech Dungeons & Dragons. K
 | Uvrhni kletbu             | Rychlost                |                             |                           |                           | Rozptyl magii               | Poselství                   |                             |
 | Velký obraz               | Strach                  |                             |                           |                           | Sejmi kletbu                | Protikouzlo                 |                             |
 |                           | Velký obraz             |                             |                           |                           | Strážný znak                | Předstírej smrt             |                             |
-|                           | Vodní dech              |                             |                           |                           | Stvoř jídlo a?vodu          | Přízračný oř                |                             |
+|                           | Vodní dech              |                             |                           |                           | Stvoř jídlo a vodu          | Přízračný oř                |                             |
 |                           | Zmrzlý déšť             |                             |                           |                           | Uvrhni kletbu               | Rozptyl magii               |                             |
 |                           | Zpomalení               |                             |                           |                           | Vejdi do kamene             | Rychlost                    |                             |
 |                           |                         |                             |                           |                           |                             | Sejmi kletbu                |                             |
@@ -144,15 +144,15 @@ Tato kapitola popisuje nejběžnější kouzla ve světech Dungeons & Dragons. K
 | **5. úroveň**                 | **5. úroveň**          | **5. úroveň**        | **5. úroveň**             | **5. úroveň**          | **5. úroveň**             | **5. úroveň**                     | **5. úroveň**        |
 | Dvojník                       | Hmyzí zhouba           | Mluva sfér           | Hmyzí zhouba              | Chůze stromy           | Hmyzí zhouba              | Bigbyho ruka                      | Kruh moci            |
 | Hromadné přestrojení          | Hromadné přestrojení   | Sen                  | Hromadné zhojení zranění  | Rychlý toulec          | Hromadné zhojení zranění  | Dvojník                           | Ničivá vlna          |
-| Hromadné zhojení zranění      | Kamenná zeď            | Sledování            | Chůze stromy              | Spojení s?přírodou     | Mocné navrácení           | Hromadné přestrojení              | Rozptyl zlo a?dobro  |
+| Hromadné zhojení zranění      | Kamenná zeď            | Sledování            | Chůze stromy              | Spojení s přírodou     | Mocné navrácení           | Hromadné přestrojení              | Rozptyl zlo a dobro  |
 | Mocné navrácení               | Kužel mrazu            | Znehybni nestvůru    | Kamenná zeď               | Vyvolej salvu          | Nákaza                    | Kamenná zeď                       | Úkol                 |
 | Oživlé předměty               | Oblak smrti            |                      | Mocné navrácení           |                        | Plamenný úder             | Kužel mrazu                       | Vypuzující úder      |
 | Podrob osobu                  | Oživlé předměty        |                      | Nákaza                    |                        | Poslyš mýty               | Mluva sfér                        | Vzkříšení            |
 | Poslyš mýty                   | Podrob osobu           |                      | Probuzení                 |                        | Posvátná půda             | Oblak smrti                       |                      |
-| Probuzení                     | Telekineze             |                      | Reinkarnace               |                        | Rozptyl zlo a?dobro       | Oživlé předměty                   |                      |
+| Probuzení                     | Telekineze             |                      | Reinkarnace               |                        | Rozptyl zlo a dobro       | Oživlé předměty                   |                      |
 | Sen                           | Teleportační kruh      |                      | Sférická vazba            |                        | Sférická vazba            | Podrob osobu                      |                      |
 | Sférická vazba                | Tvorba                 |                      | Sledování                 |                        | Sledování                 | Poslyš mýty                       |                      |
-| Sledování                     | Znehybni nestvůru      |                      | Spojení s?přírodou        |                        | Spojení                   | Projdi zdí                        |                      |
+| Sledování                     | Znehybni nestvůru      |                      | Spojení s přírodou        |                        | Spojení                   | Projdi zdí                        |                      |
 | Teleportační kruh             |                        |                      | Štít proti živým          |                        | Úkol                      | Raryho telepatické pouto          |                      |
 | Úkol                          |                        |                      | Úkol                      |                        | Vzkříšení                 | Sen                               |                      |
 | Vzkříšení                     |                        |                      | Vyvolej elementála        |                        |                           | Sférická vazba                    |                      |
@@ -166,8 +166,8 @@ Tato kapitola popisuje nejběžnější kouzla ve světech Dungeons & Dragons. K
 |                               |                        |                      |                           |                        |                           | Změň paměť                        |                      |
 |                               |                        |                      |                           |                        |                           | Znehybni nestvůru                 |                      |
 | **6. úroveň**                 | **6. úroveň**          | **6. úroveň**        | **6. úroveň**             |                        | **6. úroveň**             | **6. úroveň**                     |                      |
-| Hlídej a?střež                | Hromadná sugesce       | Hromadná sugesce     | Najdi cestu               |                        | Bariéra čepelí            | Drawmijovo okamžité přivolání     |                      |
-| Hromadná sugesce              | Koule nezranitelnosti  | Kruh smrti           | Pohni zemí                |                        | Najdi cestu               | Hlídej a?střež                    |                      |
+| Hlídej a střež                | Hromadná sugesce       | Hromadná sugesce     | Najdi cestu               |                        | Bariéra čepelí            | Drawmijovo okamžité přivolání     |                      |
+| Hromadná sugesce              | Koule nezranitelnosti  | Kruh smrti           | Pohni zemí                |                        | Najdi cestu               | Hlídej a střež                    |                      |
 | Najdi cestu                   | Kruh smrti             | Maso na kámen        | Přesun sférami            |                        | Pravdivé vidění           | Hromadná sugesce                  |                      |
 | Naplánovaná iluze             | Mystická brána         | Mystická brána       | Sluneční paprsek          |                        | Sférický spojenec         | Koule nezranitelnosti             |                      |
 | Otův neodolatelný tanec       | Pohni zemí             | Pravdivé vidění      | Trnová zeď                |                        | Slovo návratu             | Kruh smrti                        |                      |
@@ -272,7 +272,7 @@ Obklopí tě neviditelná koule antimagie o poloměru 2 sáhy. Tato oblast se od
 
 **Dosah:** 12 sáhů
 
-**Složky:** V, P, S (bud kus kamence namoõeny voctu pro účinek *antipatie*, nebo kapka medu pro účinek *sympatie*)
+**Složky:** V, P, S (buď kus kamence namočený v octu pro účinek *antipatie*, nebo kapka medu pro účinek *sympatie*)
 
 **Trvání:** 10 dní
 
@@ -282,7 +282,13 @@ Toto kouzlo přitahuje, nebo odpuzuje tvory dle tvé volby. Zacílíš něco v d
 
 ***Antipatie.*** Očarování způsobuje, že tvorové tebou určeného druhu cítí intenzivní potřebu opustit oblast a vyhnout se cíli. Když takový tvor vidí cíl, nebo je do 12 sáhů od něj, musí uspět v záchranném hodu na Moudrost, jinak se stane vystrašený. Tvor zůstává vystrašený, dokud vidí cíl, nebo dokud je do 12 sáhů od něj. Zatímco je tvor vystrašený, musí použít svůj pohyb, aby se dostal na nejbližší bezpečné místo, ze kterého neuvidí cíl. Pokud se tvor vzdálí více než 12 sáhů od cíle a nevidí ho, přestane být vystrašený, ale pokud se znovu podívá na cíl, nebo pokud se přiblíží do 12 sáhů od cíle, stane se znovu vystrašený.
 
-***Sympatie.*** Očarování způsobuje, že tvorové tebou určeného druhu cítí intenzivní potřebu přiblížit se k cíli, když jsou do 12 sáhů od cíle nebo když ho vidí. Když takový tvor vidí cíl, nebo se přiblíží do 12 sáhů od cíle, musí uspět v záchranném hodu na Moudrost, jinak v každém svém tahu musí použít svůj pohyb, aby vstoupil do oblasti, nebo se pohnul do dosahu cíle. Když to tvor udělá, nemůže se dobrovolně vzdálit od cíle. Pokud cíl zraní nebo jinak poškodí ovlivněného tvora, tak ovlivněný tvor si může hodit záchranný hod na Moudrost k ukončení účinku, jak je popsáno níže. Ukončení účinku. Pokud ovlivněný tvor skončí svůj tah dál než 12 sáhů od cíle, nebo cíl nevidí, hodí si záchranný hod na Moudrost. Když v záchranném hodu uspěje, přestane být ovlivněný cílem a uvědomí si, že jeho pocity zášti či přitažlivosti jsou magického původu. Mimo to, tvor ovlivněný kouzlem si může hodit další záchranný hod na Moudrost každých 24 hodin po dobu trvání kouzla. Tvor, který uspěje v záchraně proti tomuto účinku, je vůči němu imunní 1 minutu a poté může být znovu Ovlivněn.
+***Sympatie.*** Očarování způsobuje, že tvorové tebou určeného druhu cítí intenzivní potřebu přiblížit se k cíli, když jsou do 12 sáhů od cíle nebo když ho vidí. Když takový tvor vidí cíl, nebo se přiblíží do 12 sáhů od cíle, musí uspět v záchranném hodu na Moudrost, jinak v každém svém tahu musí použít svůj pohyb, aby vstoupil do oblasti, nebo se pohnul do dosahu cíle. Když to tvor udělá, nemůže se dobrovolně vzdálit od cíle. 
+
+Pokud cíl zraní nebo jinak poškodí ovlivněného tvora, tak ovlivněný tvor si může hodit záchranný hod na Moudrost k ukončení účinku, jak je popsáno níže. 
+
+***Ukončení účinku.*** Pokud ovlivněný tvor skončí svůj tah dál než 12 sáhů od cíle, nebo cíl nevidí, hodí si záchranný hod na Moudrost. Když v záchranném hodu uspěje, přestane být ovlivněný cílem a uvědomí si, že jeho pocity zášti či přitažlivosti jsou magického původu. Mimo to, tvor ovlivněný kouzlem si může hodit další záchranný hod na Moudrost každých 24 hodin po dobu trvání kouzla. 
+
+Tvor, který uspěje v záchraně proti tomuto účinku, je vůči němu imunní 1 minutu a poté může být znovu ovlivněn.
 
 ### ASTRÁLNÍ PROJEKCE
 
@@ -372,7 +378,9 @@ Vyzařuje z tebe životodárná energie v auře o poloměru 6 sáhů. Dokud kouz
 
 **Povolání:** Klerik
 
-Strážíš před útokem tvora v dosahu. Dokud kouzlo neskončí, tak každý, kdo zacílí stráženého tvora útokem nebo zraňujícím kouzlem, si musí nejprve hodit záchranný hod na Moudrost. Když neuspěje, musí vybrat nový cíl, jinak přijde o svůj útok nebo kouzlo. Toto kouzlo nechrání stráženého tvora před plošnými účinky, například výbuchem ohnivé koule. Pokud strážený tvor zaútočí nebo sešle kouzlo, které působí na nepřátelského tvora, toto kouzlo skončí.
+Strážíš před útokem tvora v dosahu. Dokud kouzlo neskončí, tak každý, kdo zacílí stráženého tvora útokem nebo zraňujícím kouzlem, si musí nejprve hodit záchranný hod na Moudrost. Když neuspěje, musí vybrat nový cíl, jinak přijde o svůj útok nebo kouzlo. Toto kouzlo nechrání stráženého tvora před plošnými účinky, například výbuchem ohnivé koule. 
+
+Pokud strážený tvor zaútočí nebo sešle kouzlo, které působí na nepřátelského tvora, toto kouzlo skončí.
 
 ### BAREVNÁ KOULE
 
@@ -424,7 +432,9 @@ Z tvé ruky vytryskne oslnivá škála záblesků barev. Hod 6k10; výsledek je 
 
 **Povolání:** Klerik
 
-Vytvoříš svislou zeď vířících čepelí z magické energie, ostrých jako břitva. Zeď se objeví v rámci dosahu a vy drží po dobu trvání. Můžeš udělat buď rovnou zeď až 20 sáhů dlouhou, až 4 sáhy vysokou a až 1 sáh tlustou, nebo kruhovou zeď s průměrem až 12 sáhů, až 4 sáhy vysokou a až 1 sáh tlustou. Tvorům za zdí poskytuje tříčtvrteční kryt a její oblast je těžký terén. Když tvor vstoupí do oblasti zdi v tahu poprvé, nebo v ní začne svůj tah, musí si hodit záchranný hod na Obratnost. Když tvor neuspěje, utrpísečné zranění 6k10. V případě úspěchu utrpí poloviční zranění.
+Vytvoříš svislou zeď vířících čepelí z magické energie, ostrých jako břitva. Zeď se objeví v rámci dosahu a vy drží po dobu trvání. Můžeš udělat buď rovnou zeď až 20 sáhů dlouhou, až 4 sáhy vysokou a až 1 sáh tlustou, nebo kruhovou zeď s průměrem až 12 sáhů, až 4 sáhy vysokou a až 1 sáh tlustou. Tvorům za zdí poskytuje tříčtvrteční kryt a její oblast je těžký terén. Když tvor vstoupí do oblasti zdi v tahu poprvé, nebo v ní začne svůj tah, musí si hodit záchranný hod na Obratnost. 
+
+Když tvor neuspěje, utrpísečné zranění 6k10. V případě úspěchu utrpí poloviční zranění.
 
 ### BIGBYHO RUKA
 
@@ -720,15 +730,10 @@ Pokud by ses měl přenést na místo, které je obsazené, například nějaký
 V rámci dosahu předvedeš drobný zázrak, znamení nadpřirozené moci. Vytvoříš jeden z následujících magických účinků v dosahu:
 
  * Na 1 minutu zesílíš svůj hlas až na trojnásobek.
-
  * Na 1 minutu způsobíš třepotání plamenů, nebo že se plameny zjasní, utlumí, či změní barvu.
-
  * Na 1 minutu způsobíš slabé, neškodné otřesy země.
-
  * Způsobíš náhlý zvuk, který vyjde z bodu, který zvolíš v dosahu. Například zahřmění, zakrákání havrana, nebo zlověstný šepot.
-
  * Způsobíš, že se odemčené dveře či okno náhle rozletí dokořán, nebo naopak zabouchne.
-
  * Na 1 minutu měníš vzhled svých očí.
 
 Sešleš-li toto kouzlo několikrát, můžeš mít aktivní až tři minutové účinky najednou a takový účinek můžeš zrušit jako akci.
@@ -833,11 +838,8 @@ Pokud tvor odhalí, že jde o iluzi, tak iluze se stane pro tvora mdlá.
 Zašeptáním k duchům přírody vytvoříš v dosahu jeden z následujících účinků:
 
  * Vytvoříš drobný, neškodný smyslový účinek, který předpoví počasí ve tvé oblasti na následujících 24 hodin. Účinek se může projevit jako zlatá koule pro jasnou oblohu, mrak pro déšť, padající sněhové vločky pro sněžení a tak dále. Tento účinek vydrží 1 kolo.
-
  * Necháš v mžiku rozkvést květinu, otevřít semínko nebo vyrašit poupě.
-
  * Vytvoříš okamžitý, neškodný smyslový účinek, například padající listí, závan větru, zvuk malého zvířete, nebo slabý zápach tchoře. Účinek se musí vejít do krychle 1 sáh.
-
  * V mžiku zapálíš nebo zhasíš svíčku, pochodeň nebo malý táborový oheň.
 
 ### DUCHOVNÍ ZBRAŇ
@@ -978,7 +980,7 @@ Posílíš se nekromantickou napodobeninou života. Po dobu trvání získáš 1
 
 **Povolání:** Kouzelník
 
-Na základě nočních můr tvora, kterého vidíš v dosahu, vytvoříš iluzorní bytost jeho nejhorších obav, kterou vidí jen on. Cíl si musí hodit záchranný hod na Moudrost. Když neuspěje, stane se vystrašený po dobu trvání. Na konci každého tahu cíle, než kouzlo skončí, musí cíl uspět v záchranném hodu na Moudrost, jinak utrpí psychické zranění 4k 10. Když uspěje v záchranném hodu, kOuzlo skOnờí.
+Na základě nočních můr tvora, kterého vidíš v dosahu, vytvoříš iluzorní bytost jeho nejhorších obav, kterou vidí jen on. Cíl si musí hodit záchranný hod na Moudrost. Když neuspěje, stane se vystrašený po dobu trvání. Na konci každého tahu cíle, než kouzlo skončí, musí cíl uspět v záchranném hodu na Moudrost, jinak utrpí psychické zranění 4k10. Když uspěje v záchranném hodu, kouzlo skončí.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 5. či vyšší úrovně, za každou další úroveň pozice nad 4. se zvýší zranění o 1k10.
 
@@ -1034,11 +1036,11 @@ Tvorové s pravdivým viděním vidí skrz iluzi skutečnou podobu terénu; ale 
 
 **Povolání:** Černokněžník
 
-Otevřeš bránu do temnoty mezi hvězdami, oblasti zamoifené neznámymi hrůzami... Zjeví se pronikavé mrazivá černočerná koule o poloměru 4 sáhy se středem v bodě v dosahu a vydrží po dobu trvání. Tato prázdnota je plná kakofonie tichého šeptání a chlemtajících zvuků, která je slyšet až 6 sáhů daleko. Žádné světlo, magické ani jiné, nemůže oblast osvětlit a tvorové, kteří jsou zcela v oblasti, jsou slepí. 
+Otevřeš bránu do temnoty mezi hvězdami, oblasti zamořené neznámymi hrůzami. Zjeví se pronikavé mrazivá černočerná koule o poloměru 4 sáhy se středem v bodě v dosahu a vydrží po dobu trvání. Tato prázdnota je plná kakofonie tichého šeptání a chlemtajících zvuků, která je slyšet až 6 sáhů daleko. Žádné světlo, magické ani jiné, nemůže oblast osvětlit a tvorové, kteří jsou zcela v oblasti, jsou slepí. 
 
 Prázdnota vytváří zakřivení struktury prostoru a oblast je těžký terén. Tvor, který začne svůj tah v oblasti, utrpí chladné zranění 2k6. Tvor, který skončí svůj tah v oblasti, musí uspět v záchranném hodu na Obratnost, jinak utrpí kyselinové zranění 2k6, jak se o něj otírají něžná chapadla z jiného světa.
 
-**HADAROVY PAŽE**
+### HADAROVY PAŽE
 
 *Vyvolávání 1. úrovně*
 
@@ -1405,7 +1407,9 @@ Tvor s pravdivým viděním dokáže přečíst skrytý text.
 
 *Věštění 3. úrovně*
 
-**Vyvolání:** 10 minut Dosaih: 1 míle
+**Vyvolání:** 10 minut 
+
+**Dosaih:** 1 míle
 
 **Složky:** V, P, S (ohniskový předmět v hodnotě aspoň 100 zl, buď drahokamový roh pro sluch, nebo skleněné oko pro zrak)
 
@@ -1512,15 +1516,10 @@ Soustředíš-li se na toto kouzlo po celou dobu jeho trvání, zeď se stane tr
 Toto kouzlo je drobný magický trik, který používají k procvičování adepti sesílání kouzel. V rámci dosahu vytvoříš jeden z následujících účinků.
 
  * Vytvoříš okamžitý, neškodný smyslový účinek, například prskavku, závan větru, slabé hudební tóny nebo zvláštní vůni.
-
  * V mžiku zapálíš nebo zhasíš svíčku, pochodeň nebo malý táborový oheň.
-
  * V mžiku vyčistíš nebo ušpiníš předmět o objemu až 1 stopa krychlová.
-
  * Na 1 hodinu ochladíš nebo ohřeješ neživý materiál o objemu až 1 stopa krychlová.
-
  * Na 1 hodinu vytvoříš na předmětu či povrchu barvu, malou značku nebo symbol.
-
  * Vytvoříš nemagickou cetku nebo iluzorní obraz, který se ti vejde do ruky a který vydrží do konce tvého příštího tahu.
 
 Sešleš-li toto kouzlo několikrát, můžeš mít až tři jeho neokamžité účinky současně, a takový účinek můžeš zrušit jako akci.
@@ -1918,7 +1917,7 @@ Jeden tvor či předmět dle tvé volby, který vidíš v dosahu, se vznese svis
 
 Cíl se může pohybovat pouze přitahováním nebo odstrkováním od pevného předmětu nebo povrchu v dosahu (například zdi nebo stropu), což mu umožňuje se pohybovat, jako by šplhal. Ve svém tahu můžeš upravit výšku cíle až o 4 sáhy. Jsi-li cílem ty sám, můžeš se pohybovat nahoru nebo dolů jako součást svého pohybu. V opačném případě můžeš pohnout cílem jako svou akci, ale musí zůstat v dosahu kouzla. 
 
-Když kouzlo skončí a cíl je stále ve vzduchu, pozvolna sestoupá na Zem.
+Když kouzlo skončí a cíl je stále ve vzduchu, pozvolna sestoupá na zem.
 
 ### LOVCOVA KOŘIST
 
@@ -2063,7 +2062,7 @@ Dotkneš se tvora, který s tím souhlasí a který na sobě nemá žádnou zbro
 
 **Dosah:** 6 sáhů
 
-**Složky: **V, P
+**Složky:** V, P
 
 **Trvání:** Soustředění, až 1 minuta
 
@@ -2156,7 +2155,7 @@ Zatímco jsi v Éterické sféře, vidíš a slyšíš svou původní sféru, kt
 
 ### MLUV S MRTVÝMI
 
-*Nekromancie 3. tí rovně*
+*Nekromancie 3. úrovně*
 
 **Vyvolání:** 1 akce
 
@@ -2244,7 +2243,7 @@ Uspěješ-li v záchranném hodu, můžeš se zeptat bytosti až na pět otázek
 
 **Povolání:** Čaroděj, černokněžník, kouzelník
 
-Tvora, kterého se dotkneš a který s tím souhlasí, přeměníš spolu se vším, co drží a nese, na mlžný oblak po dobu trvání. Kouzlo skončí, pokud počet životů tvora klesne na 0.Kouzlo nepůsobí na nehmotného tvora. 
+Tvora, kterého se dotkneš a který s tím souhlasí, přeměníš spolu se vším, co drží a nese, na mlžný oblak po dobu trvání. Kouzlo skončí, pokud počet životů tvora klesne na 0. Kouzlo nepůsobí na nehmotného tvora. 
 
 Zatímco je cíl v této podobě, jeho jediná metoda pohybuje létání rychlostí 2 sáhy. Cíl může vstoupit na místo obsazené jiným tvorem, je odolný vůči nemagickému zranění a má výhodu k záchranným hodům na Sílu, Obratnost a Odolnost. Může se protáhnout malými dírkami, úzkými otvory, a dokonce i sotva znatelnými trhlinami, ale kapaliny se vůči němu chovají jako pevné povrchy. Cíl nemůže spadnout a zůstane se vznášet ve vzduchu, i když je ochromený nebo jinak neschopný. 
 
@@ -2625,7 +2624,7 @@ Jako akci můžeš svého přítelíčka dočasně odvolat. Zmizí do kapesní d
 
 V jednu chvíli můžeš mít jen jednoho přítelíčka. Sešleš-li toto kouzlo, když už přítelíčka máš, dáš mu novou podobu, místo abys vyvolal nového. Vyber jednu z podob ze seznamu výše. Tvůj přítelíček se přemění do zvoleného tvora. 
 
-Když sesíláš kouzlo s dosahem dotyk, může ho uštědřit tvůj přítelíček, jako by ho sesílal on. Přítelíček musí být do 20 sáhů od tebe a pro uštědření kouzla musí použít svou reakci, když ho sesíláš. Vyžaduje-li kouzlo hod na útok, použiješ k hodu svou útočnou Opravu.
+Když sesíláš kouzlo s dosahem dotyk, může ho uštědřit tvůj přítelíček, jako by ho sesílal on. Přítelíček musí být do 20 sáhů od tebe a pro uštědření kouzla musí použít svou reakci, když ho sesíláš. Vyžaduje-li kouzlo hod na útok, použiješ k hodu svou útočnou opravu.
 
 ### NAJDI TVORA
 
@@ -2934,7 +2933,7 @@ Když sesíláš toto kouzlo, zvol jeden či oba z následujících účinků. �
 
 ***Falešná aura.*** Změníš způsob, jakým se cíl jeví kouzlům a magickým účinkům, které odhalují magické aury, jako je například *najdi magii*. Můžeš způsobit, aby se nemagický předmět jevil magicky, magický předmět jevil nemagicky, nebo změnit magickou auru předmětu, aby se jevila, že patří do školy magie, kterou zvolíš. Když použiješ tento účinek na předmět, můžeš určit, aby se falešná magie zdánlivě zjevila jakémukoli tvorovi, který s předmětem nakládá.
 
-***Maska.*** Změníš způsob, jakým se cíl jeví kouzlům a magickým účinkům, které odhalují typy tvorů, jako je například paladinův Božský smysl nebo spouštěč kouzla Symbol. Zvolíš typ tvora a ostatní kouzla a magické účinky budou považovat cíl za tvora tohoto typu či tohoto přesvědčení.
+***Maska.*** Změníš způsob, jakým se cíl jeví kouzlům a magickým účinkům, které odhalují typy tvorů, jako je například paladinův Božský smysl nebo spouštěč kouzla *Symbol*. Zvolíš typ tvora a ostatní kouzla a magické účinky budou považovat cíl za tvora tohoto typu či tohoto přesvědčení.
 
 ### OBLAK DÝK
 
@@ -3793,7 +3792,7 @@ Podobně toto kouzlo neovlivňuje přímo růst rostlin, nicméně pohybující 
 
 *Vyvolávání 1. úrovně*
 
-**Vyvolání: **1 bonusová akce
+**Vyvolání:** 1 bonusová akce
 
 **Dosah:** Ty sám
 
@@ -5118,7 +5117,9 @@ Toto kouzlo ve své oblasti rozptýlí jakoukoli tmu vytvořenou pomocí kouzla.
 
 **Vyvolání:** 1 akce
 
-**Dosah:** Ty sám (dráha 12 sáhů) Slozky: V, P S (lupa)
+**Dosah:** Ty sám (dráha 12 sáhů) 
+
+**Slozky:** V, P S (lupa)
 
 **Trvání:** Soustředění, až 1 minuta
 
@@ -5202,14 +5203,21 @@ Po dobu trvání vidíš neviditelné tvory a předměty, jako by byly viditeln�
 
 Ze tvé ruky vyletí osm různobarevných paprsků světla. Každý paprsek má jinou barvu, vlastnost a účel. Každý tvor v kuželu 12 sáhů si musí hodit záchranný hod na Obratnost. Pro každý cíl hodk8 a urči, která barva na něj bude působit.
 
- 1. ***Červená***. Když cíl neuspěje, utrpí ohnivé zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu.
- 2. ***Oranžová***. Když cíl neuspěje, utrpí kyselinové zranění 10k6, nebo  poloviční zranění při úspěšném záchranném hodu. 
- 3. ***Žlutá***. Když cíl neuspěje, utrpí bleskové zranění 10k6, nebo  poloviční zranění při úspěšném záchranném hodu. 
- 4. ***Zelená***.	Když cíl neuspěje, utrpí jedové zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu.
- 5. ***Modrá***. Když cíl neuspěje, utrpí chladné zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu.
- 6. ***Indigová***. Když cíl neuspěje, je zadržený. Na konci každého svého tahu si musí hodit záchranný hod na Odolnost. Pokud uspěje ve třech  záchranách, kouzlo skončí. Pokud neuspěje ve třech záchranách, trvale zkamení. Úspěchy či neúspěchy nemusí jít po sobě;  udržuj si přehled o obou, dokud cíl nenasbírá tři stejného druhu.
- 7. ***Fialová***. Když cíl neuspěje, oslepne. Na začátku tvého příštího tahu si pak musí hodit	záchranný hod na Moudrost. Uspěje-li, slepota skončí. Neuspěje-li i v této záchraně, je okamžitě přenesen do jiné sféry existence, kterou vybere PJ, a přestane být slepý. (Obvykle je to tak, že tvor, který není ve své domovské sféře, je vypuzen domů, a tvor, který je ve své domovské sféře, je obvykle přenesen buď do Astrální, nebo Éterické sféry).
- 8. ***Zvláštní***. Tvor je zasažen dvěma paprsky. Hod si ještě dvakrát, a padne-li ti 8, hod zopakuj. 	
+ ***1. Červená.*** Když cíl neuspěje, utrpí ohnivé zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu.
+ 
+ ***2. Oranžová.*** Když cíl neuspěje, utrpí kyselinové zranění 10k6, nebo  poloviční zranění při úspěšném záchranném hodu. 
+ 
+ ***3. Žlutá.*** Když cíl neuspěje, utrpí bleskové zranění 10k6, nebo  poloviční zranění při úspěšném záchranném hodu. 
+ 
+ ***4. Zelená.***	Když cíl neuspěje, utrpí jedové zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu.
+ 
+ ***5. Modrá.*** Když cíl neuspěje, utrpí chladné zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu.
+ 
+ ***6. Indigová.*** Když cíl neuspěje, je zadržený. Na konci každého svého tahu si musí hodit záchranný hod na Odolnost. Pokud uspěje ve třech  záchranách, kouzlo skončí. Pokud neuspěje ve třech záchranách, trvale zkamení. Úspěchy či neúspěchy nemusí jít po sobě;  udržuj si přehled o obou, dokud cíl nenasbírá tři stejného druhu.
+ 
+ ***7. Fialová.*** Když cíl neuspěje, oslepne. Na začátku tvého příštího tahu si pak musí hodit	záchranný hod na Moudrost. Uspěje-li, slepota skončí. Neuspěje-li i v této záchraně, je okamžitě přenesen do jiné sféry existence, kterou vybere PJ, a přestane být slepý. (Obvykle je to tak, že tvor, který není ve své domovské sféře, je vypuzen domů, a tvor, který je ve své domovské sféře, je obvykle přenesen buď do Astrální, nebo Éterické sféry).
+ 
+ ***8. Zvláštní.*** Tvor je zasažen dvěma paprsky. Hod si ještě dvakrát, a padne-li ti 8, hod zopakuj. 	
 
 ### SPEKTRÁLNÍ ZEĎ
 
@@ -5233,21 +5241,21 @@ Zeď se skládá ze sedmi vrstev různé barvy. Když se tvor pokusí projít sk
 
 Zeď lze zničit, také postupně po jedné vrstvě, v pořadí od červené po fialovou, a to prostředky, které jsou pro každou vrstvu specifické. Jakmile je vrstva zničena, zůstane zničená po zbytek doby trvání kouzla. *Antimagické pole* na *spektrální zeď* neúčinkuje a *rozptyl magii* funguje jen na fialovou vrstvu.
 
-**1. Červená.** Když cíl neuspěje, utrpí ohnivé zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Dokud stojí tato vrstva, nemagické útoky na dálku nemohou projít skrz zeď. Vrstvu je možné zničit chladným poškozením za aspoň 25 životů.
+***1. Červená.*** Když cíl neuspěje, utrpí ohnivé zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Dokud stojí tato vrstva, nemagické útoky na dálku nemohou projít skrz zeď. Vrstvu je možné zničit chladným poškozením za aspoň 25 životů.
 
-**2. Oranžová.** Když cíl neuspěje, utrpí kyselinové zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Dokud stojí tato vrstva, magické útoky na dálku nemohou projít skrz zeď. Vrstvu je možné zničit silným větrem.
+***2. Oranžová.*** Když cíl neuspěje, utrpí kyselinové zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Dokud stojí tato vrstva, magické útoky na dálku nemohou projít skrz zeď. Vrstvu je možné zničit silným větrem.
 
-**3. Žlutá.** Když cíl neuspěje, utrpí bleskové zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Vrstvu je možné zničit silovým poškozením za aspoň 60 životů.
+***3. Žlutá.*** Když cíl neuspěje, utrpí bleskové zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Vrstvu je možné zničit silovým poškozením za aspoň 60 životů.
 
-**4. Zelená.** Když cíl neuspěje, utrpí jedové zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Kouzlo *projdi zdí* nebo jiné kouzlo stejné či vyšší úrovně, které může otevřít průchod v pevném povrchu, zničí tuto vrstvu.
+***4. Zelená.*** Když cíl neuspěje, utrpí jedové zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Kouzlo *projdi zdí* nebo jiné kouzlo stejné či vyšší úrovně, které může otevřít průchod v pevném povrchu, zničí tuto vrstvu.
 
-**5. Modrá.** Když cíl neuspěje, utrpí chladné zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Vrstvu je možné zničit ohnivým poškozením za aspoň 25 životů.
+***5. Modrá.*** Když cíl neuspěje, utrpí chladné zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Vrstvu je možné zničit ohnivým poškozením za aspoň 25 životů.
 
-**6. Indigová.** Když cíl neuspěje, je zadržený. Na konci každého svého tahu si musí hodit záchranný hod na Odolnost. Pokud uspěje ve třech záchranách, účinek skončí. Pokud neuspěje ve třech záchranách, trvale zkamení. Úspěchy či neúspěchy nemusí jít po sobě; udržuj si přehled o obou, dokud cíl nenasbírá tři stejného druhu.
+***6. Indigová.*** Když cíl neuspěje, je zadržený. Na konci každého svého tahu si musí hodit záchranný hod na Odolnost. Pokud uspěje ve třech záchranách, účinek skončí. Pokud neuspěje ve třech záchranách, trvale zkamení. Úspěchy či neúspěchy nemusí jít po sobě; udržuj si přehled o obou, dokud cíl nenasbírá tři stejného druhu.
 
 Dokud stojí tato vrstva, kouzla neprojdou skrz zeď. Vrstvu je možné zničit jasným světlem z kouzla denní světlo nebo z podobného kouzla stejné či vyšší úrovně.
 
-**7. Fialová.** Když cíl neuspěje, oslepne. Na začátku tvého příštího tahu si pak musí hodit záchranný hod na Moudrost. Uspěje-li, slepota skončí. Neuspěje-li i v této záchraně, je okamžitě přenesen do jiné sféry existence, kterou vybere PJ , a přestane být slepý. (Obvykle je to tak, že tvor, který není ve své domovské sféře, je vypuzen domů, a tvor, který je ve své domovské sféře, je obvykle přenesen buď do Astrální, nebo Éterické sféry) 
+***7. Fialová.*** Když cíl neuspěje, oslepne. Na začátku tvého příštího tahu si pak musí hodit záchranný hod na Moudrost. Uspěje-li, slepota skončí. Neuspěje-li i v této záchraně, je okamžitě přenesen do jiné sféry existence, kterou vybere PJ , a přestane být slepý. (Obvykle je to tak, že tvor, který není ve své domovské sféře, je vypuzen domů, a tvor, který je ve své domovské sféře, je obvykle přenesen buď do Astrální, nebo Éterické sféry) 
 
 Tuto vrstvu je možné zničit kouzlem *rozptyl magii* nebo podobným kouzlem stejné či vyšší úrovně.
 
@@ -7071,7 +7079,7 @@ Dotkneš se tvora a propůjčíš mu magické zlepšení. Zvol jeden z následuj
 
 ***Kočičí grácie.*** Cíl má výhodu k ověřením Obratnosti. Také neutrpí zranění z pádu z výšky 4 nebo méně sáhů, pokud není neschopný.
 
-***Liščí chytrost.** Cíl má výhodu k ověřením Inteligence.
+***Liščí chytrost.*** Cíl má výhodu k ověřením Inteligence.
 
 ***Medvědí houževnatost.*** Cíl má výhodu k ověřením Odolnosti. Také získá 2k6 dočasných životů, které zmizí, když kouzlo skončí.
 
@@ -7097,7 +7105,7 @@ Dotkneš se tvora a propůjčíš mu magické zlepšení. Zvol jeden z následuj
 
 Na tvora, kterého vidíš v dosahu, spustíš lavinu urážek protkaných očarováním. Pokud tě cíl slyší (ale nemusí ti rozumět), musí uspět v záchranném hodu na Moudrost, jinak utrpí psychické zranění 1k4 a má nevýhodu k příštímu hodu na útok, pokud ho provede před koncem svého příštího tahu.
 
-Zranění tohoto kouzla se zvýší o 1k4, když dosáhneš5. úrovně (2k4), 11. úrovně (3k4) a 17. úrovně (4k4).
+Zranění tohoto kouzla se zvýší o 1k4, když dosáhneš 5. úrovně (2k4), 11. úrovně (3k4) a 17. úrovně (4k4).
 
 ### ZMAM OSOBU
 

@@ -1,5 +1,7 @@
 # NEMESIS
 
+*Weird*
+
 ***Příručka hráče***
 
 *Iluze 9. úrovně*

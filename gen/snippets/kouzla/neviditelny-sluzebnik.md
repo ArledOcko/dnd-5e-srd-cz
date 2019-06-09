@@ -1,5 +1,7 @@
 # NEVIDITELNÝ SLUŽEBNÍK
 
+*Unseen servant*
+
 ***Příručka hráče***
 
 *Vyvolávání 1. úrovně (rituál)*

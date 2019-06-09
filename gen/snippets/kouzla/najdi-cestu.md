@@ -1,5 +1,7 @@
 # NAJDI CESTU
 
+*Find the path*
+
 ***Příručka hráče***
 
 *Věštění 6. úrovně*

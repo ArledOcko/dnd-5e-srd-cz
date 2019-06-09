@@ -1,5 +1,7 @@
 # LÉČIVÁ MODLITBA
 
+*Prayer of healing*
+
 ***Příručka hráče***
 
 *Zaklínání 2. úrovně*

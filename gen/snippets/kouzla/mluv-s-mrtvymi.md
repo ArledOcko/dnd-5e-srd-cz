@@ -1,8 +1,10 @@
 # MLUV S MRTVÝMI
 
+*Speak with dead*
+
 ***Příručka hráče***
 
-*Nekromancie 3. tí rovně*
+*Nekromancie 3. úrovně*
 
 **Vyvolání:** 1 akce
 

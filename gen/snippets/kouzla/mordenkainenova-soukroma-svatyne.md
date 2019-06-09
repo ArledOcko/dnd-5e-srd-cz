@@ -1,5 +1,7 @@
 # MORDENKAINENOVA SOUKROMÁ SVATYNĚ
 
+*Mordenkainen's private sanctum*
+
 ***Příručka hráče***
 
 *Vymítání 4. úrovně*

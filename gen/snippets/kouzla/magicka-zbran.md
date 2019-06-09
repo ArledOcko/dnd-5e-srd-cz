@@ -1,5 +1,7 @@
 # MAGICKÁ ZBRAŇ
 
+*Magic weapon*
+
 ***Příručka hráče***
 
 *Transmutace 2. úrovně*

@@ -1,5 +1,7 @@
 # NAPODOBENINA
 
+*Simulacrum*
+
 ***Příručka hráče***
 
 *Iluze 7. úrovně*

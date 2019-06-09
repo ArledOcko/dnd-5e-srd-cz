@@ -1,5 +1,7 @@
 # LEOMUNIDOVA CHATKA
 
+*Leomund's tiny hut*
+
 ***Příručka hráče***
 
 *Zaklínání 3. úrovně (rituál)*

@@ -4,7 +4,7 @@
 
 *Vyvolávání 1. úrovně*
 
-**Vyvolání: **1 bonusová akce
+**Vyvolání:** 1 bonusová akce
 
 **Dosah:** Ty sám
 

@@ -1,5 +1,7 @@
 # NEZJISTITELNOST
 
+*Nondetection*
+
 ***Příručka hráče***
 
 *Vymítání 3. úrovně*

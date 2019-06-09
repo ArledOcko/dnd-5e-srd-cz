@@ -1,5 +1,7 @@
 # MASO NA KÁMEN
 
+*Flesh to stone*
+
 ***Příručka hráče***
 
 *Transmutace 6. úrovně*

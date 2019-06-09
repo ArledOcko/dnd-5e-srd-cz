@@ -1,5 +1,7 @@
 # MYSTICKÝ ZÁMEK
 
+*Arcane lock*
+
 ***Příručka hráče***
 
 *Vymítání 2. úrovně*

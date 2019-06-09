@@ -6,7 +6,9 @@
 
 **Vyvolání:** 1 akce
 
-**Dosah:** Ty sám (dráha 12 sáhů) Slozky: V, P S (lupa)
+**Dosah:** Ty sám (dráha 12 sáhů) 
+
+**Slozky:** V, P S (lupa)
 
 **Trvání:** Soustředění, až 1 minuta
 

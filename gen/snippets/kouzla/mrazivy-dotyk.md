@@ -1,5 +1,7 @@
 # MRAZIVÝ DOTYK
 
+*Chill touch*
+
 ***Příručka hráče***
 
 *Nekromantický trik*

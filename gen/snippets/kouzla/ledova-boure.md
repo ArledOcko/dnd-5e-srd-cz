@@ -1,5 +1,7 @@
 # LEDOVÁ BOUŘE
 
+*Ice storm*
+
 ***Příručka hráče***
 
 *Zaklínání 4. úrovně*

@@ -22,20 +22,20 @@ Zeď se skládá ze sedmi vrstev různé barvy. Když se tvor pokusí projít sk
 
 Zeď lze zničit, také postupně po jedné vrstvě, v pořadí od červené po fialovou, a to prostředky, které jsou pro každou vrstvu specifické. Jakmile je vrstva zničena, zůstane zničená po zbytek doby trvání kouzla. *Antimagické pole* na *spektrální zeď* neúčinkuje a *rozptyl magii* funguje jen na fialovou vrstvu.
 
-**1. Červená.** Když cíl neuspěje, utrpí ohnivé zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Dokud stojí tato vrstva, nemagické útoky na dálku nemohou projít skrz zeď. Vrstvu je možné zničit chladným poškozením za aspoň 25 životů.
+***1. Červená.*** Když cíl neuspěje, utrpí ohnivé zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Dokud stojí tato vrstva, nemagické útoky na dálku nemohou projít skrz zeď. Vrstvu je možné zničit chladným poškozením za aspoň 25 životů.
 
-**2. Oranžová.** Když cíl neuspěje, utrpí kyselinové zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Dokud stojí tato vrstva, magické útoky na dálku nemohou projít skrz zeď. Vrstvu je možné zničit silným větrem.
+***2. Oranžová.*** Když cíl neuspěje, utrpí kyselinové zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Dokud stojí tato vrstva, magické útoky na dálku nemohou projít skrz zeď. Vrstvu je možné zničit silným větrem.
 
-**3. Žlutá.** Když cíl neuspěje, utrpí bleskové zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Vrstvu je možné zničit silovým poškozením za aspoň 60 životů.
+***3. Žlutá.*** Když cíl neuspěje, utrpí bleskové zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Vrstvu je možné zničit silovým poškozením za aspoň 60 životů.
 
-**4. Zelená.** Když cíl neuspěje, utrpí jedové zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Kouzlo *projdi zdí* nebo jiné kouzlo stejné či vyšší úrovně, které může otevřít průchod v pevném povrchu, zničí tuto vrstvu.
+***4. Zelená.*** Když cíl neuspěje, utrpí jedové zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Kouzlo *projdi zdí* nebo jiné kouzlo stejné či vyšší úrovně, které může otevřít průchod v pevném povrchu, zničí tuto vrstvu.
 
-**5. Modrá.** Když cíl neuspěje, utrpí chladné zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Vrstvu je možné zničit ohnivým poškozením za aspoň 25 životů.
+***5. Modrá.*** Když cíl neuspěje, utrpí chladné zranění 10k6, nebo poloviční zranění při úspěšném záchranném hodu. Vrstvu je možné zničit ohnivým poškozením za aspoň 25 životů.
 
-**6. Indigová.** Když cíl neuspěje, je zadržený. Na konci každého svého tahu si musí hodit záchranný hod na Odolnost. Pokud uspěje ve třech záchranách, účinek skončí. Pokud neuspěje ve třech záchranách, trvale zkamení. Úspěchy či neúspěchy nemusí jít po sobě; udržuj si přehled o obou, dokud cíl nenasbírá tři stejného druhu.
+***6. Indigová.*** Když cíl neuspěje, je zadržený. Na konci každého svého tahu si musí hodit záchranný hod na Odolnost. Pokud uspěje ve třech záchranách, účinek skončí. Pokud neuspěje ve třech záchranách, trvale zkamení. Úspěchy či neúspěchy nemusí jít po sobě; udržuj si přehled o obou, dokud cíl nenasbírá tři stejného druhu.
 
 Dokud stojí tato vrstva, kouzla neprojdou skrz zeď. Vrstvu je možné zničit jasným světlem z kouzla denní světlo nebo z podobného kouzla stejné či vyšší úrovně.
 
-**7. Fialová.** Když cíl neuspěje, oslepne. Na začátku tvého příštího tahu si pak musí hodit záchranný hod na Moudrost. Uspěje-li, slepota skončí. Neuspěje-li i v této záchraně, je okamžitě přenesen do jiné sféry existence, kterou vybere PJ , a přestane být slepý. (Obvykle je to tak, že tvor, který není ve své domovské sféře, je vypuzen domů, a tvor, který je ve své domovské sféře, je obvykle přenesen buď do Astrální, nebo Éterické sféry) 
+***7. Fialová.*** Když cíl neuspěje, oslepne. Na začátku tvého příštího tahu si pak musí hodit záchranný hod na Moudrost. Uspěje-li, slepota skončí. Neuspěje-li i v této záchraně, je okamžitě přenesen do jiné sféry existence, kterou vybere PJ , a přestane být slepý. (Obvykle je to tak, že tvor, který není ve své domovské sféře, je vypuzen domů, a tvor, který je ve své domovské sféře, je obvykle přenesen buď do Astrální, nebo Éterické sféry) 
 
 Tuto vrstvu je možné zničit kouzlem *rozptyl magii* nebo podobným kouzlem stejné či vyšší úrovně.

@@ -1,5 +1,7 @@
 # MOCNÁ NEVIDITELNOST
 
+*Greater invisibility*
+
 ***Příručka hráče***
 
 *Iluze 4. úrovně*

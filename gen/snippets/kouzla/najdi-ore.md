@@ -1,5 +1,7 @@
 # NAJDI OŘE
 
+*Find steed*
+
 ***Příručka hráče***
 
 *Vyvolávání 2. úrovně*

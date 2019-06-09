@@ -1,5 +1,7 @@
 # LEDOVÁ ZEĎ
 
+*Wall of ice*
+
 ***Příručka hráče***
 
 *Zaklínání 6. úrovně*

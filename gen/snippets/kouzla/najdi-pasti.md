@@ -1,5 +1,7 @@
 # NAJDI PASTI
 
+*Find traps*
+
 ***Příručka hráče***
 
 *Věštění 2. úrovně*

@@ -1,5 +1,7 @@
 # MLUV SE ZVÍŘATY
 
+*Speak with animals*
+
 ***Příručka hráče***
 
 *Věštění 1. úrovně (rituál)*

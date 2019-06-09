@@ -1,5 +1,7 @@
 # MIHOTÁNÍ
 
+*Blink*
+
 ***Příručka hráče***
 
 *Transmutace 3. úrovně*

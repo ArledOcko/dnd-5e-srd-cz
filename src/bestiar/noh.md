@@ -12,7 +12,7 @@ Nohovo hnízdo někdy obsahuje poklady z karavan a lodí, které noh přepad
 
 <Monster 
     title="Noh"
-    subtitle="Gigantická obluda, bez přesvědčení￼"
+    subtitle="Gigantická obluda, bez přesvědčení"
     armor-class="15 (přirozená zbroj)"
     hit-points="248 (16k20 + 80)"
     speed="4 sáhy, létání 24 sáhů"

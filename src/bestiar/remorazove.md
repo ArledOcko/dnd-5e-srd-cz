@@ -8,7 +8,7 @@ Zpod sněhu a ledu vyrazí remoráz v oblaku páry a jeho tělo pulzuje vn
   
 <Monster 
     title="Mladý remoráz"
-    subtitle="Velká obluda, bez přesvědčení￼"
+    subtitle="Velká obluda, bez přesvědčení"
     armor-class="14 (přirozená zbroj)"
     hit-points="93 (11k10 + 33)"
     speed="6 sáhů, hrabání 4 sáhy"
@@ -39,7 +39,7 @@ Zpod sněhu a ledu vyrazí remoráz v oblaku páry a jeho tělo pulzuje vn
 
 <Monster 
     title="Remoráz"
-    subtitle="Obrovská obluda, bez přesvědčení￼"
+    subtitle="Obrovská obluda, bez přesvědčení"
     armor-class="17 (přirozená zbroj)"
     hit-points="195 (17k12 + 85)"
     speed="6 sáhů, hrabání 4 sáhy"

@@ -24,7 +24,7 @@ Při vzácných příležitostech, když mozkožrouti potřebují něco napsat, 
   
 <Monster 
     title="Mozkožrout"
-    subtitle="Střední zrůda, zákonné zlo￼"
+    subtitle="Střední zrůda, zákonné zlo"
     armor-class="15 (kyrys)"
     hit-points="71 (13k8 + 13)"
     speed="6 sáhů"

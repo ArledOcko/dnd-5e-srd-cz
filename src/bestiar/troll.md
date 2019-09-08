@@ -8,7 +8,7 @@ Trollové se rodí se strašnou chutí k jídlu. Žerou cokoliv, co dokážou 
   
 <Monster 
     title="Troll"
-    subtitle="Velký obr, chaotické zlo￼"
+    subtitle="Velký obr, chaotické zlo"
     armor-class="15 (přirozená zbroj)"
     hit-points="84 (8k10 + 40)"
     speed="6 sáhů"

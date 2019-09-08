@@ -26,7 +26,7 @@ Oživlá zbroj je často očarovaná předpřipraveným proslovem, aby byla ješ
 
 <Monster 
     title="Dusící běhoun"
-    subtitle="Velký výtvor, bez přesvědčení￼"
+    subtitle="Velký výtvor, bez přesvědčení"
     armor-class="12"
     hit-points="33 (6k10)"
     speed="2 sáhy"
@@ -65,7 +65,7 @@ Oživlá zbroj je často očarovaná předpřipraveným proslovem, aby byla ješ
 
 <Monster 
     title="Létající meč"
-    subtitle="Malý výtvor, bez přesvědčení￼"
+    subtitle="Malý výtvor, bez přesvědčení"
     armor-class="17 (přirozená zbroj)"
     hit-points="17 (5k6)"
     speed="0 sáhů, létání 10 sáhů (vznášení se)"
@@ -98,7 +98,7 @@ Oživlá zbroj je často očarovaná předpřipraveným proslovem, aby byla ješ
 
 <Monster 
     title="Oživlá zbroj"
-    subtitle="Střední výtvor, bez přesvědčení￼"
+    subtitle="Střední výtvor, bez přesvědčení"
     armor-class="18 (přirozená zbroj)"
     hit-points="33 (6k8 + 6)"
     speed="5 sáhů"

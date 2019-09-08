@@ -14,7 +14,7 @@ I když jsou vyverny rafinovanější než obyčejná zvířata, postrádají 
 
 <Monster 
     title="Vyverna"
-    subtitle="Velký drak, bez přesvědčení￼"
+    subtitle="Velký drak, bez přesvědčení"
     armor-class="13 (přirozená zbroj)"
     hit-points="110 (13k10 + 39)"
     speed="4 sáhy, létání 16 sáhů"

@@ -22,7 +22,7 @@ Sahuagini využívají malenty jako zvědy a vrahy v městech vodních elfů
 
 <Monster 
     title="Sahuagin"
-    subtitle="Střední humanoid (sahuagin), zákonné zlo￼"
+    subtitle="Střední humanoid (sahuagin), zákonné zlo"
     armor-class="12 (přirozená zbroj)"
     hit-points="22 (4k8 + 4)"
     speed="6 sáhů, plavání 8 sáhů"
@@ -63,7 +63,7 @@ Sahuagini využívají malenty jako zvědy a vrahy v městech vodních elfů
   
 <Monster 
     title="Sahuaginská kněžka"
-    subtitle="Střední humanoid (sahuagin), zákonné zlo￼"
+    subtitle="Střední humanoid (sahuagin), zákonné zlo"
     armor-class="12 (přirozená zbroj)"
     hit-points="33 (6k8 + 6)"
     speed="6 sáhů, plavání 8 sáhů"
@@ -112,7 +112,7 @@ Triky (libovolně): *boží dohled*, *divotvorství*
 
 <Monster 
     title="Sahuaginský baron"
-    subtitle="Velký humanoid (sahuagin), zákonné zlo￼"
+    subtitle="Velký humanoid (sahuagin), zákonné zlo"
     armor-class="16 (kyrys)"
     hit-points="76 (9k10 + 27)"
     speed="6 sáhů, plavání 10 sáhů"

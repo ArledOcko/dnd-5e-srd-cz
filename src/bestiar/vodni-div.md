@@ -14,7 +14,7 @@ Neutrálně dobrý vodní div se snaží vetřelce spíš vyplašit než zabít,
   
 <Monster 
     title="Vodní div"
-    subtitle="Velký elementál, neutrální￼"
+    subtitle="Velký elementál, neutrální"
     armor-class="13"
     hit-points="55 (9k10 + 9)"
     speed="0 sáhů, plavání 12 sáhů"

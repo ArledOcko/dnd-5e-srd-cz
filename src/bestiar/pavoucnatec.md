@@ -20,7 +20,7 @@ Někteří pavoučnatci rádi škrtí kořist pomocí škrtidla vyrobeného z 
 
 <Monster 
     title="Pavoučnatec"
-    subtitle="Střední obluda, neutrální zlo￼"
+    subtitle="Střední obluda, neutrální zlo"
     armor-class="13 (přirozená zbroj)"
     hit-points="44 (8k8 + 8)"
     speed="6 sáhů, šplhání 6 sáhů"

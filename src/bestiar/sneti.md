@@ -36,7 +36,7 @@ Vzhledem k tomu, jak jsou větevní sněti suché, jsou obzvlášť náchylné
 
 <Monster 
     title="Jehličnatá sněť"
-    subtitle="Střední rostlina, neutrální zlo￼"
+    subtitle="Střední rostlina, neutrální zlo"
     armor-class="12 (přirozená zbroj)"
     hit-points="11 (2k8 + 2)"
     speed="6 sáhů"
@@ -67,7 +67,7 @@ Vzhledem k tomu, jak jsou větevní sněti suché, jsou obzvlášť náchylné
 
  <Monster 
     title="Révová sněť"
-    subtitle="Střední rostlina, neutrální zlo￼"
+    subtitle="Střední rostlina, neutrální zlo"
     armor-class="12 (přirozená zbroj)"
     hit-points="26 (4k8 + 8)"
     speed="2 sáhy"
@@ -100,7 +100,7 @@ Vzhledem k tomu, jak jsou větevní sněti suché, jsou obzvlášť náchylné
   
 <Monster 
     title="Větevní sněť"
-    subtitle="Malá rostlina, neutrální zlo￼"
+    subtitle="Malá rostlina, neutrální zlo"
     armor-class="13 (přirozená zbroj)"
     hit-points="4 (1k6 + 1)"
     speed="4 sáhy"

@@ -8,7 +8,7 @@ Za dožínek, když smrt znovu navštěvuje soumračný svět a letní květin
 
 <Monster 
     title="Strašák"
-    subtitle="Střední výtvor, chaotické zlo￼"
+    subtitle="Střední výtvor, chaotické zlo"
     armor-class="11"
     hit-points="36 (8k8)"
     speed="6 sáhů"

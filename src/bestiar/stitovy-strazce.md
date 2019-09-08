@@ -14,7 +14,7 @@ Sesilatel může do štítového strážce uložit jedno kouzlo, které pak mů�
   
 <Monster 
     title="Štítový strážce"
-    subtitle="Velký výtvor, bez přesvědčení￼"
+    subtitle="Velký výtvor, bez přesvědčení"
     armor-class="17 (přirozená zbroj)"
     hit-points="142 (15k10 + 60)"
     speed="6 sáhů"

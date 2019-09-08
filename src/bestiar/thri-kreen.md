@@ -14,7 +14,7 @@ Když jsou thri-kreeni nuceni jednat s tvory jiných inteligentních druhů, p
 
 <Monster 
     title="Thri-kreen"
-    subtitle="Střední humanoid (thri-kreen), chaoticky neutrální￼"
+    subtitle="Střední humanoid (thri-kreen), chaoticky neutrální"
     armor-class="15 (přirozená zbroj)"
     hit-points="33 (6k8 + 6)"
     speed="8 sáhů"

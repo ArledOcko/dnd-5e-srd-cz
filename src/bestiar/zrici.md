@@ -78,7 +78,7 @@ Pokud mrtvolný tyran umře, tyto účinky odezní během 1k10 dní.
   
 <Monster 
     title="Zřící"
-    subtitle="Velká zrůda, zákonné zlo￼"
+    subtitle="Velká zrůda, zákonné zlo"
     armor-class="18 (přirozená zbroj)"
     hit-points="180 (19k10 + 76)"
     speed="0 sáhů, létání 4 sáhy (vznášení se)"
@@ -145,7 +145,7 @@ Zřící může provést 3 legendární akce, přičemž použije níže uvedeno
   
  <Monster 
     title="Mrtvolný tyran"
-    subtitle="Velká zrůda, zákonné zlo￼"
+    subtitle="Velká zrůda, zákonné zlo"
     armor-class="19 (přirozená zbroj)"
     hit-points="180 (19k10 + 76)"
     speed="0 sáhů, létání 4 sáhy (vznášení se)"
@@ -220,7 +220,7 @@ Podobně jako každý zřící se dohlížeč pokládá za ztělesnění svého 
   
 <Monster 
     title="Dohlížeč"
-    subtitle="Střední zrůda, zákonné zlo￼"
+    subtitle="Střední zrůda, zákonné zlo"
     armor-class="14 (přirozená zbroj)"
     hit-points="39 (6k8 + 12)"
     speed="0 sáhů, létání 6 sáhů (vznášení se)"

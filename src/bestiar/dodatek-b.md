@@ -18,7 +18,7 @@ Je mnoho jednoduchých způsobů, jak přizpůsobit cizí postavy v tomto doda
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení"
     armor-class="10"
     hit-points="9 (2k8)"
     speed="6 sáhů"
@@ -57,7 +57,7 @@ Triky (libovolně): *divotvorství*, *posvátný plamen*, *světlo*
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení"
     armor-class="12 (15 s *mágovou zbrojí*)"
     hit-points="99 (18k8 + 18)"
     speed="6 sáhů"
@@ -118,7 +118,7 @@ Arcimág má obvykle jednoho či více učňů a jeho obydlí má četné magi
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli chaotické přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli chaotické přesvědčení"
     armor-class="13 (usňová zbroj)"
     hit-points="67 (9k8 + 27)"
     speed="6 sáhů"
@@ -153,7 +153,7 @@ Nepředvídatelní **berserkři** pochází z necivilizovaných zemí. Sdružu
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli nedobré přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli nedobré přesvědčení"
     armor-class="11 (kožená zbroj)"
     hit-points="32 (5k8 + 10)"
     speed="6 sáhů"
@@ -192,7 +192,7 @@ Nepředvídatelní **berserkři** pochází z necivilizovaných zemí. Sdružu
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení"
     armor-class="11 (16 s *kůrokůží*)"
     hit-points="27 (5k8 + 5)"
     speed="6 sáhů"
@@ -233,7 +233,7 @@ Triky (libovolně): *druidovství*, *stvoř plamen*, *sukovice*
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli nedobré přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli nedobré přesvědčení"
     armor-class="13 (kožená zbroj)"
     hit-points="33 (6k8 + 6)"
     speed="6 sáhů"
@@ -278,7 +278,7 @@ Triky (libovolně): *divotvorství*, *posvátný plamen*, *světlo*
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení"
     armor-class="16 (okovaná kožená zbroj, štít)"
     hit-points="112 (15k8 + 45)"
     speed="6 sáhů"
@@ -323,7 +323,7 @@ Triky (libovolně): *divotvorství*, *posvátný plamen*, *světlo*
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení"
     armor-class="12 (usňová zbroj)"
     hit-points="11 (2k8 + 2)"
     speed="6 sáhů"
@@ -358,7 +358,7 @@ Triky (libovolně): *divotvorství*, *posvátný plamen*, *světlo*
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení"
     armor-class="13 (drátěná košile)"
     hit-points="27 (5k8 + 5)"
     speed="5 sáhů"
@@ -405,7 +405,7 @@ Kněz má typicky jednoho či více akolytů, kteří mu pomáhají s nábože
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli nedobré přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli nedobré přesvědčení"
     armor-class="12 (kožená zbroj)"
     hit-points="9 (2k8)"
     speed="6 sáhů"
@@ -477,7 +477,7 @@ Kněz má typicky jednoho či více akolytů, kteří mu pomáhají s nábože
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení"
     armor-class="12 (15 s *mágovou zbrojí*)"
     hit-points="40 (9k8)"
     speed="6 sáhů"
@@ -530,7 +530,7 @@ Každý sesilatel kouzel, který umí seslat kouzlo *najdi přítelíčka* (nap�
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení"
     armor-class="10"
     hit-points="4 (1k8)"
     speed="6 sáhů"
@@ -563,7 +563,7 @@ Každý sesilatel kouzel, který umí seslat kouzlo *najdi přítelíčka* (nap�
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení"
     armor-class="18 (plátová zbroj)"
     hit-points="52 (8k8 + 16)"
     speed="6 sáhů"
@@ -608,7 +608,7 @@ Každý sesilatel kouzel, který umí seslat kouzlo *najdi přítelíčka* (nap�
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení"
     armor-class="16 (drátěná košile, štít)"
     hit-points="11 (2k8 + 2)"
     speed="6 sáhů"
@@ -641,7 +641,7 @@ Každý sesilatel kouzel, který umí seslat kouzlo *najdi přítelíčka* (nap�
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení"
     armor-class="15 (kryrys)"
     hit-points="9 (2k8)"
     speed="6 sáhů"
@@ -680,7 +680,7 @@ Statistiky šlechtice se dají použít i pro **dvořany**, kteří nemají ur
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení"
     armor-class="12"
     hit-points="27 (6k8)"
     speed="6 sáhů"
@@ -721,7 +721,7 @@ Vládci, šlechtici, obchodníci, cechovní mistři a další bohatí jedinci 
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení"
     armor-class="17 (lamelová zbroj)"
     hit-points="58 (9k8 + 18)"
     speed="6 sáhů"
@@ -760,7 +760,7 @@ Vládci, šlechtici, obchodníci, cechovní mistři a další bohatí jedinci 
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli nedobré přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli nedobré přesvědčení"
     armor-class="15 (okovaná kožená zbroj)"
     hit-points="78 (12k8 + 24)"
     speed="6 sáhů"
@@ -848,7 +848,7 @@ Vůdce loupežníků či kapitán pirátů prahne spíš po nechvalné pověsti 
 
 <Monster 
     title=""
-    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení￼"
+    subtitle="Střední humanoid (jakákoli rasa), jakékoli přesvědčení"
     armor-class="13 (kožená zbroj)"
     hit-points="16 (3k8 + 3)"
     speed="6 sáhů"

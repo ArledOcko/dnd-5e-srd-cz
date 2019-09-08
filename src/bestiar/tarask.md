@@ -8,7 +8,7 @@ Tarask je deset sáhů vysoký a čtrnáct sáhů dlouhý šupinatý dvounože
   
 <Monster 
     title="Tarask"
-    subtitle="Gigantická obluda (titán), bez přesvědčení￼"
+    subtitle="Gigantická obluda (titán), bez přesvědčení"
     armor-class="25 (přirozená zbroj)"
     hit-points="676 (33k20 + 330)"
     speed="8 sáhů"

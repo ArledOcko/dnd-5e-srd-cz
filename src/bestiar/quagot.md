@@ -14,7 +14,7 @@ Jak quagoti prošli věky hluboko pod světem, jejich srst ztratila barvu a je
   
 <Monster 
     title="Quagot"
-    subtitle="Střední humanoid (quagot), chaoticky neutrální￼"
+    subtitle="Střední humanoid (quagot), chaoticky neutrální"
     armor-class="13 (přirozená zbroj)"
     hit-points="45 (6k8 + 18)"
     speed="6 sáhů, šplhání 6 sáhů"

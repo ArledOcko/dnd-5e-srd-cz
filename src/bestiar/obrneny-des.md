@@ -10,7 +10,7 @@ Tento výtvor vykazuje inteligenci, schopnost uvažovat a přizpůsobovat svou
 
 <Monster 
     title="Obrněný děs"
-    subtitle="Střední výtvor, neutrální￼"
+    subtitle="Střední výtvor, neutrální"
     armor-class="20 (plátová zbroj, štít)"
     hit-points="60 (8k8 + 24)"
     speed="6 sáhů, létání 6 sáhů"

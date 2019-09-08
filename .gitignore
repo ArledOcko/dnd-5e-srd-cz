@@ -5,5 +5,5 @@
 src/.vuepress/dist/
 /.env
 /tmp
-
+/build
 

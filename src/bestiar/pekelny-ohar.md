@@ -10,7 +10,7 @@ Když se pekelní ohaři krmí, maso, které požírají, živí pekelný oheň,
   
 <Monster 
     title="Pekelný ohař"
-    subtitle="Střední běs, zákonné zlo￼"
+    subtitle="Střední běs, zákonné zlo"
     armor-class="15 (přirozená zbroj)"
     hit-points="45 (7k8 + 14)"
     speed="10 sáhů"

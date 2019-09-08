@@ -164,7 +164,7 @@ Někteří obři se vzdávají svých vlastních bohů a přechází na uctív
   
 <Monster 
     title="Bouřný obr"
-    subtitle="Obrovský obr, chaotické dobro￼"
+    subtitle="Obrovský obr, chaotické dobro"
     armor-class="16 (šupinová zbroj)"
     hit-points="230 (20k12 + 100)"
     speed="10 sáhů, plavání 10 sáhů"
@@ -207,7 +207,7 @@ Libovolně: *levitace*, *najdi magii*, *pomalý pád*, *světlo*
 
 <Monster 
     title="Kamenný obr"
-    subtitle="Obrovský obr, neutrální￼"
+    subtitle="Obrovský obr, neutrální"
     armor-class="17 (přirozená zbroj)"
     hit-points="126 (11k12 + 55)"
     speed="8 sáhů"
@@ -246,7 +246,7 @@ Libovolně: *levitace*, *najdi magii*, *pomalý pád*, *světlo*
 
 <Monster 
     title="Kopcový obr"
-    subtitle="Obrovský obr, chaotické zlo￼"
+    subtitle="Obrovský obr, chaotické zlo"
     armor-class="13 (přirozená zbroj)"
     hit-points="105 (10k12 + 40)"
     speed="8 sáhů"
@@ -279,7 +279,7 @@ Libovolně: *levitace*, *najdi magii*, *pomalý pád*, *světlo*
 
 <Monster 
     title="Mrazivý obr"
-    subtitle="Obrovský obr, neutrální zlo￼"
+    subtitle="Obrovský obr, neutrální zlo"
     armor-class="15 (slátaná zbroj)"
     hit-points="138 (12k12 + 60)"
     speed="8 sáhů"
@@ -312,7 +312,7 @@ Libovolně: *levitace*, *najdi magii*, *pomalý pád*, *světlo*
 
 <Monster 
     title="Oblačný obr"
-    subtitle="Obrovský obr, neutrální dobro (50%) či neutrální zlo (50%)￼"
+    subtitle="Obrovský obr, neutrální dobro (50%) či neutrální zlo (50%)"
     armor-class="14 (přirozená zbroj)"
     hit-points="200 (16k12 + 96)"
     speed="8 sáhů"
@@ -355,7 +355,7 @@ Libovolně: *najdi magii*, *oblak mlhy*, *světlo*
 
 <Monster 
     title="Ohnivý obr"
-    subtitle="Obrovský obr, zákonné zlo￼"
+    subtitle="Obrovský obr, zákonné zlo"
     armor-class="18 (plátová zbroj)"
     hit-points="162 (13k12 + 78)"
     speed="6 sáhů"

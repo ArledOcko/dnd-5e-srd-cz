@@ -14,7 +14,7 @@ Osady jsou pro perytony atraktivní jako obnovitelné zdroje potravy. Proto vesn
 
 <Monster 
     title="Peryton"
-    subtitle="Střední obluda, chaotické zlo￼"
+    subtitle="Střední obluda, chaotické zlo"
     armor-class="13 (přirozená zbroj)"
     hit-points="33 (6k8 + 6)"
     speed="4 sáhy, létání 12 sáhů"

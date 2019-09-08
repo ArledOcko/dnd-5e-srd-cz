@@ -16,7 +16,7 @@ Rzivému tvorovi nezáleží, jestli rez, kterou požírá, pochází z meče 
 
 <Monster 
     title="Rzivý netvor"
-    subtitle="Střední obluda, bez přesvědčení￼"
+    subtitle="Střední obluda, bez přesvědčení"
     armor-class="14 (přirozená zbroj)"
     hit-points="27 (5k8 + 5)"
     speed="8 sáhů"

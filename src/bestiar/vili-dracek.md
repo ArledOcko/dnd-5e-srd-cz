@@ -20,7 +20,7 @@ Vílí dráček je drak o velikosti kočky s motýlími křídly. Zubí se a
 
 <Monster 
     title="Vílí dráček"
-    subtitle="Drobný drak, chaotické dobro￼"
+    subtitle="Drobný drak, chaotické dobro"
     armor-class="15"
     hit-points="14 (4k4 + 4)"
     speed="2 sáhy, létání 12 sáhů"

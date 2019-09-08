@@ -38,7 +38,7 @@ Zde uvedené statistiky spórového služebníka používají quagota jako zákl
 
 <Monster 
     title="Quagotí spórový služebník"
-    subtitle="Střední rostlina, bez přesvědčení￼"
+    subtitle="Střední rostlina, bez přesvědčení"
     armor-class="13 (přirozená zbroj)"
     hit-points="45 (6k8 + 18)"
     speed="4 sáhy, šplhání 4 sáhy"
@@ -69,7 +69,7 @@ Zde uvedené statistiky spórového služebníka používají quagota jako zákl
 
 <Monster 
     title="Mykonidí mladík"
-    subtitle="Malá rostlina, zákonně neutrální￼"
+    subtitle="Malá rostlina, zákonně neutrální"
     armor-class="10"
     hit-points="7 (2k6)"
     speed="2 sáhy"
@@ -104,7 +104,7 @@ Zde uvedené statistiky spórového služebníka používají quagota jako zákl
 
 <Monster 
     title="Mykonidí dospělý"
-    subtitle="Střední rostlina, zákonně neutrální￼"
+    subtitle="Střední rostlina, zákonně neutrální"
     armor-class="12 (přirozená zbroj)"
     hit-points="22 (4k8 + 4)"
     speed="4 sáhy"
@@ -141,7 +141,7 @@ Zde uvedené statistiky spórového služebníka používají quagota jako zákl
 
 <Monster 
     title="Mykonidí panovník"
-    subtitle="Velká rostlina, zákonně neutrální￼"
+    subtitle="Velká rostlina, zákonně neutrální"
     armor-class="13 (přirozená zbroj)"
     hit-points="60 (8k10 + 16)"
     speed="6 sáhů"

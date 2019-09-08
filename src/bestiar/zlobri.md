@@ -24,7 +24,7 @@ Zlobři se spolčují s ostatními nestvůrami kdykoliv je to možné, aby zas
   
 <Monster 
     title="Zlobr"
-    subtitle="Velký obr, chaotické zlo￼"
+    subtitle="Velký obr, chaotické zlo"
     armor-class="11 (usňová zbroj)"
     hit-points="59 (7k10 + 21)"
     speed="8 sáhů"
@@ -61,7 +61,7 @@ Polozlobří potomek zlobra a orka se také nazývá zlobrián. Průměrná v�
  
 <Monster 
     title="Polozlobr"
-    subtitle="Velký obr, jakékoli chaotické přesvědčení￼"
+    subtitle="Velký obr, jakékoli chaotické přesvědčení"
     armor-class="12 (usňová zbroj)"
     hit-points="30 (4k10 + 8)"
     speed="6 sáhů"

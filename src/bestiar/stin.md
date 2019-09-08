@@ -10,7 +10,7 @@ Pokud by tvor, ze kterého vznikl stín, nějak obživl, jeho nemrtvý stín vn�
 
 <Monster 
     title="Stín"
-    subtitle="Střední nemrtvý, chaotické zlo￼"
+    subtitle="Střední nemrtvý, chaotické zlo"
     armor-class="12"
     hit-points="16 (3k8 + 3)"
     speed="8 sáhů"

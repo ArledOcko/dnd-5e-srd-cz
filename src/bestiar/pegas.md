@@ -14,7 +14,7 @@ Bílí okřídlení koně známí jako pegasové letící po obloze jsou obrazem
 
 <Monster 
     title="Pegas"
-    subtitle="Velký nebešťan, chaotické dobro￼"
+    subtitle="Velký nebešťan, chaotické dobro"
     armor-class="12"
     hit-points="59 (7k10 + 21)"
     speed="12 sáhů, létání 18 sáhů"

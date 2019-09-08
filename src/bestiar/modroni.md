@@ -46,7 +46,7 @@ Odpadlý modron ztrácí rys Zákonná mysl a může mít jakékoli přesvěd�
 
 <Monster 
     title="Monodron"
-    subtitle="Střední výtvor, zákonně neutrální￼"
+    subtitle="Střední výtvor, zákonně neutrální"
     armor-class="15 (přirozená zbroj)"
     hit-points="5 (1k8 + 1)"
     speed="6 sáhů, létání 6 sáhů"
@@ -81,7 +81,7 @@ Odpadlý modron ztrácí rys Zákonná mysl a může mít jakékoli přesvěd�
 
 <Monster 
     title="Duodron"
-    subtitle="Střední výtvor, zákonně neutrální￼"
+    subtitle="Střední výtvor, zákonně neutrální"
     armor-class="15 (přirozená zbroj)"
     hit-points="11 (2k8 + 2)"
     speed="6 sáhů"
@@ -118,7 +118,7 @@ Odpadlý modron ztrácí rys Zákonná mysl a může mít jakékoli přesvěd�
 
 <Monster 
     title="Tridron"
-    subtitle="Střední výtvor, zákonně neutrální￼"
+    subtitle="Střední výtvor, zákonně neutrální"
     armor-class="15 (přirozená zbroj)"
     hit-points="16 (3k8 + 3)"
     speed="6 sáhů"
@@ -155,7 +155,7 @@ Odpadlý modron ztrácí rys Zákonná mysl a může mít jakékoli přesvěd�
   
 <Monster 
     title="Kvadron"
-    subtitle="Střední výtvor, zákonně neutrální￼"
+    subtitle="Střední výtvor, zákonně neutrální"
     armor-class="16 (přirozená zbroj)"
     hit-points="22 (4k8 + 4)"
     speed="6 sáhů, létání 6 sáhů"
@@ -192,7 +192,7 @@ Odpadlý modron ztrácí rys Zákonná mysl a může mít jakékoli přesvěd�
     
 <Monster 
     title="Pentadron"
-    subtitle="Střední výtvor, zákonně neutrální￼"
+    subtitle="Střední výtvor, zákonně neutrální"
     armor-class="16 (přirozená zbroj)"
     hit-points="32 (5k10 + 5)"
     speed="8 sáhů"

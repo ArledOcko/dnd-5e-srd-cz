@@ -12,7 +12,7 @@ Neviditelný stopař je přinejlepším neochotný služebník. Nese nelibě ka�
   
  <Monster 
     title="Neviditelný stopař"
-    subtitle="Střední elementál, neutrální￼"
+    subtitle="Střední elementál, neutrální"
     armor-class="14"
     hit-points="104 (16k8 + 32)"
     speed="10 sáhů, létání 10 sáhů (vznášení se)"

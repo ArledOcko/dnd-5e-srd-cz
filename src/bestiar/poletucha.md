@@ -18,7 +18,7 @@ Na rozdíl od diblíků se poletuchy málokdy oddávají lehkovážnému veselí
 
 <Monster 
     title="Poletucha"
-    subtitle="Drobná víla, neutrální dobro￼"
+    subtitle="Drobná víla, neutrální dobro"
     armor-class="15 (kožená zbroj)"
     hit-points="2 (1k4)"
     speed="2 sáhy, létání 8 sáhů"

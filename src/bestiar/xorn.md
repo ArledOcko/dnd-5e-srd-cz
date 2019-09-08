@@ -16,7 +16,7 @@ Xornové nechtějí opustit svou domovskou sféru, kde se drahokamů a vzácn�
   
 <Monster 
     title="Xorn"
-    subtitle="Střední elementál, neutrální￼"
+    subtitle="Střední elementál, neutrální"
     armor-class="19 (přirozená zbroj)"
     hit-points="73 (7k8 + 42)"
     speed="4 sáhy, hrabání 4 sáhy"

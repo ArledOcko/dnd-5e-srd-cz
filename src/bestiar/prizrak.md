@@ -16,7 +16,7 @@ Přízraky někdy velí legiím mrtvých a plánují zkázu živých tvorů. K
 
 <Monster 
     title="Přízrak"
-    subtitle="Střední nemrtvý, neutrální zlo￼"
+    subtitle="Střední nemrtvý, neutrální zlo"
     armor-class="13"
     hit-points="67 (9k8 + 27)"
     speed="0 sáhů, létání 12 sáhů (vznášení se)"

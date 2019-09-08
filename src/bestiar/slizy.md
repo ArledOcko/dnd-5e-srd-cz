@@ -46,7 +46,7 @@ Rosolová krychle je téměř průhledná, takže je těžké si jí všimnout, 
 
 <Monster 
     title="Černý pudink"
-    subtitle="Velký sliz, bez přesvědčení￼"
+    subtitle="Velký sliz, bez přesvědčení"
     armor-class="7"
     hit-points="85 (10k10 + 30)"
     speed="4 sáhy, šplhání 4 sáhy"
@@ -91,7 +91,7 @@ Pudink se umí prožrat skrz 2 couly tlusté, nemagické dřevo či kov během 1
 
 <Monster 
     title="Rosolová krychle"
-    subtitle="Velký sliz, bez přesvědčení￼"
+    subtitle="Velký sliz, bez přesvědčení"
     armor-class="6"
     hit-points="84 (8k10 + 40)"
     speed="3 sáhy"
@@ -136,7 +136,7 @@ Pohlcený tvor se může pokusit uniknout pomocí akce, v níž si hodí na ov
 
 <Monster 
     title="Šedý sliz"
-    subtitle="Střední sliz, bez přesvědčení￼"
+    subtitle="Střední sliz, bez přesvědčení"
     armor-class="8"
     hit-points="22 (3k8 + 9)"
     speed="2 sáhy, šplhání 2 sáhy"
@@ -173,7 +173,7 @@ Sliz se umí prožrat skrz 2 couly tlustý nemagický kov během 1 kola.
 
 <Monster 
     title="Okrový rosol"
-    subtitle="Velký sliz, bez přesvědčení￼"
+    subtitle="Velký sliz, bez přesvědčení"
     armor-class="8"
     hit-points="45 (6k10 + 12)"
     speed="2 sáhy, šplhání 2 sáhy"

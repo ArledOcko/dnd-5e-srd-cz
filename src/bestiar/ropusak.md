@@ -16,7 +16,7 @@ Zajatci jsou předvedeni před krále či královnu — nebývale velkého ropu�
 
 <Monster 
     title="Ropušák"
-    subtitle="Střední humanoid (ropušák), neutrální zlo￼"
+    subtitle="Střední humanoid (ropušák), neutrální zlo"
     armor-class="15 (usňová zbroj, štít)"
     hit-points="11 (2k8 + 2)"
     speed="4 sáhy, plavání 8 sáhů"

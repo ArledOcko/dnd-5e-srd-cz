@@ -10,7 +10,7 @@ Noční můra se dá přivolat z Nižších sfér, ale pokud jí přivolávač
 
 <Monster 
     title="Noční můra"
-    subtitle="Velký běs, neutrální zlo￼"
+    subtitle="Velký běs, neutrální zlo"
     armor-class="13 (přirozená zbroj)"
     hit-points="68 (8k10 + 24)"
     speed="12 sáhů, létání 18 sáhů"

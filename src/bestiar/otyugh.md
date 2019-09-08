@@ -14,7 +14,7 @@ Protože se otyughové zajímají jen o jídlo, v jejich hnízdech se občas
  
 <Monster 
     title="Otyugh"
-    subtitle="Velká zrůda, neutrální￼"
+    subtitle="Velká zrůda, neutrální"
     armor-class="14 (přirozená zbroj)"
     hit-points="114 (12k10 + 48)"
     speed="6 sáhů"

@@ -1,18 +1,18 @@
 {
   "dependencies": {
-    "@vuepress/plugin-google-analytics": "^1.0.0-alpha.47",
-    "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.47",
+    "@vuepress/plugin-google-analytics": "^1.0.0",
+    "@vuepress/plugin-medium-zoom": "^1.0.0",
     "markdown-it-container": "^2.0.0",
     "markdown-it-deflist": "^2.0.3",
     "moment": "^2.24.0",
     "node-sass": "^4.11.0",
     "replace-in-file": "^3.4.4",
     "sass-loader": "^7.1.0",
-    "vuepress": "^1.0.0-alpha.47"
+    "vuepress": "^1.0.0"
   },
   "scripts": {
     "srd:dev": "vuepress dev src --host 0.0.0.0",
-    "srd:build": "yarn srd:gen grimoar-jmen; yarn srd:gen grimoar-moci;yarn srd:gen soupis-carodej; vuepress build src",
+    "srd:build": "./build.sh",
     "srd:gen": "node tools/gen.js",
     "srd:card": "node tools/oldCardRemover.js",
     "srd:menu": "node tools/menu.js"

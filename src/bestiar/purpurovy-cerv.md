@@ -12,7 +12,7 @@ Prohrabávající se purpurový červ neustále tvoří nové tunely napříč T
 
 <Monster 
     title="Purpurový červ"
-    subtitle="Gigantická obluda, bez přesvědčení￼"
+    subtitle="Gigantická obluda, bez přesvědčení"
     armor-class="18 (přirozená zbroj)"
     hit-points="247 (15k20 + 90)"
     speed="10 sáhů, hrabání 6 sáhů"

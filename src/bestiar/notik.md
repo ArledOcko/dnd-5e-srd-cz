@@ -10,7 +10,7 @@ Ze tmy zírá zlověstné oko. Jeho záře napovídá o podivné inteligenci a
 
 <Monster 
     title="Notik"
-    subtitle="Střední obluda, neutrální zlo￼"
+    subtitle="Střední obluda, neutrální zlo"
     armor-class="15 (přirozená zbroj)"
     hit-points="45 (6k8 + 18)"
     speed="6 sáhů"

@@ -20,7 +20,7 @@ Proradní horští obyvatelé někdy využívají yettie jako bezděčné zbran�
   
 <Monster 
     title="Yetti"
-    subtitle="Velká obluda, chaotické zlo￼"
+    subtitle="Velká obluda, chaotické zlo"
     armor-class="12 (přirozená zbroj)"
     hit-points="51 (6k10 + 18)"
     speed="8 sáhů, šplhání 8 sáhů"
@@ -59,7 +59,7 @@ Proradní horští obyvatelé někdy využívají yettie jako bezděčné zbran�
 
 <Monster 
     title="Odporný yetti"
-    subtitle="Obrovská obluda, chaotické zlo￼"
+    subtitle="Obrovská obluda, chaotické zlo"
     armor-class="15 (přirozená zbroj)"
     hit-points="137 (11k12 + 66)"
     speed="8 sáhů, šplhání 8 sáhů"

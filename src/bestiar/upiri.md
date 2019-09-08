@@ -50,7 +50,7 @@ Po staletích od Strahdovy přeměny jeho touha po životě a mládí jen vzro
 
 <Monster 
     title="Upír"
-    subtitle="Střední nemrtvý (tvaroměnec), zákonné zlo￼"
+    subtitle="Střední nemrtvý (tvaroměnec), zákonné zlo"
     armor-class="16 (přirozená zbroj)"
     hit-points="144 (17k8 + 68)"
     speed=""6 sáhů
@@ -151,7 +151,7 @@ Triky (libovolně): *kejkle*, *mágova ruka*, *mrazivý paprsek*
 
 <Monster 
     title="Upíří zplozenec"
-    subtitle="Střední nemrtvý, neutrální zlo￼"
+    subtitle="Střední nemrtvý, neutrální zlo"
     armor-class="15 (přirozená zbroj)"
     hit-points="82 (11k8 + 33)"
     speed="6 sáhů"

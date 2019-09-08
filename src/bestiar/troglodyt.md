@@ -16,7 +16,7 @@ Troglodyti dělají málo a ještě méně budují. Získávají svůj majetek
 
 <Monster 
     title="Troglodyt"
-    subtitle="Střední humanoid (troglodyt), chaotické zlo￼"
+    subtitle="Střední humanoid (troglodyt), chaotické zlo"
     armor-class="11 (přirozená zbroj)"
     hit-points="13 (2k8 + 4)"
     speed="6 sáhů"

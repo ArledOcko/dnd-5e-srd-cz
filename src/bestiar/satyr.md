@@ -54,7 +54,7 @@ Ovlivněný tvor může zopakovat záchranný hod na konci každého svého tahu
 
 <Monster 
     title="Satyr"
-    subtitle="Střední víla, neutrální￼"
+    subtitle="Střední víla, neutrální"
     armor-class="14 (kožená zbroj)"
     hit-points="31 (7k8)"
     speed="8 sáhů"

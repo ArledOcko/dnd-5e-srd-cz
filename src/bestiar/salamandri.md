@@ -22,7 +22,7 @@ Tento vrozený žár je přínosem pro jejich kovářskou dovednost. Umožňuje 
 
 <Monster 
     title="Ohnivý had"
-    subtitle="Střední elementál, neutrální zlo￼"
+    subtitle="Střední elementál, neutrální zlo"
     armor-class="14 (přirozená zbroj)"
     hit-points="22 (5k8)"
     speed="6 sáhů"

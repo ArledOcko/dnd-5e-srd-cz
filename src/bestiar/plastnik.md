@@ -16,7 +16,7 @@ Pláštníci útočí rychle a konzumují své jídlo co nejrychleji, přičem
 
 <Monster 
     title="Pláštník"
-    subtitle="Velká zrůda, chaoticky neutrální￼"
+    subtitle="Velká zrůda, chaoticky neutrální"
     armor-class="14 (přirozená zbroj)"
     hit-points="78 (12k10 + 12)"
     speed="2 sáhy, létání 8 sáhů"

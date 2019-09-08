@@ -20,7 +20,7 @@ Někteří pseudodraci jsou ochotní sloužit sesilatelům kouzel jako přítel�
 
 <Monster 
     title="Pseudodrak"
-    subtitle="Drobný drak, neutrální dobro￼"
+    subtitle="Drobný drak, neutrální dobro"
     armor-class="13 (přirozená zbroj)"
     hit-points="7 (2k4 + 2)"
     speed="3 sáhy, létání 12 sáhů"

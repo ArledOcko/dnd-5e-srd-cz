@@ -12,7 +12,7 @@ Mořané brání své komunity kopími vyrobenými z nejrůznějších materi�
   
 <Monster 
     title="Mořan"
-    subtitle="Střední humanoid (mořan), neutrální￼"
+    subtitle="Střední humanoid (mořan), neutrální"
     armor-class="11"
     hit-points="11 (2k8 + 2)"
     speed="2 sáhy, plavání 8 sáhů"

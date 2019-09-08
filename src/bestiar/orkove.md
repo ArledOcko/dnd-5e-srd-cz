@@ -64,7 +64,7 @@ Některé orčí kmeny aktivně vyhledávají orogy, aby posílili jejich řady.
 
 <Monster 
     title="Ork"
-    subtitle="Střední humanoid (ork), chaotické zlo￼"
+    subtitle="Střední humanoid (ork), chaotické zlo"
     armor-class="13 (usňová zbroj)"
     hit-points="15 (2k8 + 6)"
     speed="6 sáhů"
@@ -97,7 +97,7 @@ Některé orčí kmeny aktivně vyhledávají orogy, aby posílili jejich řady.
 
 <Monster 
     title="Orčí náčelník"
-    subtitle="Střední humanoid (ork), chaotické zlo￼"
+    subtitle="Střední humanoid (ork), chaotické zlo"
     armor-class="16 (drátěná zbroj)"
     hit-points="93 (11k8 + 44)"
     speed="6 sáhů"
@@ -136,7 +136,7 @@ Některé orčí kmeny aktivně vyhledávají orogy, aby posílili jejich řady.
 
 <Monster 
     title="Orčí Grúmšovo oko"
-    subtitle="Střední humanoid (ork), chaotické zlo￼"
+    subtitle="Střední humanoid (ork), chaotické zlo"
     armor-class="16 (kroužková zbroj, štít)"
     hit-points="45 (6k8 + 18)"
     speed="6 sáhů"

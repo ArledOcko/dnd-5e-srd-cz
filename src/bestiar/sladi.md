@@ -55,7 +55,7 @@ Ten, kdo je zdatný v Moudrosti (Lékařství), může vyjmout drahokam z ne
 
 <Monster 
     title="Sládový pulec"
-    subtitle="Drobná zrůda, chaoticky neutrální￼"
+    subtitle="Drobná zrůda, chaoticky neutrální"
     armor-class="12"
     hit-points="10 (4k4)"
     speed="6 sáhů"
@@ -86,7 +86,7 @@ Ten, kdo je zdatný v Moudrosti (Lékařství), může vyjmout drahokam z ne
 
 <Monster 
     title="Rudý slád"
-    subtitle="Velká zrůda, chaoticky neutrální￼"
+    subtitle="Velká zrůda, chaoticky neutrální"
     armor-class="14 (přirozená zbroj)"
     hit-points="93 (11k10 + 33)"
     speed="6 sáhů"
@@ -127,7 +127,7 @@ Pokud se nemoc vyléčí, než se pulec narodí, nenarozený pulec se rozloží.
 
 <Monster 
     title="Modrý slád"
-    subtitle="Velká zrůda, chaoticky neutrální￼"
+    subtitle="Velká zrůda, chaoticky neutrální"
     armor-class="15 (přirozená zbroj)"
     hit-points="123 (13k10 + 52)"
     speed="6 sáhů"
@@ -164,7 +164,7 @@ Pokud se nemoc vyléčí, než se pulec narodí, nenarozený pulec se rozloží.
 
 <Monster 
     title="Zelený slád"
-    subtitle="Velká zrůda (tvaroměnec), chaoticky neutrální￼"
+    subtitle="Velká zrůda (tvaroměnec), chaoticky neutrální"
     armor-class="16 (přirozená zbroj)"
     hit-points="127 (15k10 + 45)"
     speed="6 sáhů"
@@ -215,7 +215,7 @@ Libovolně: *mágova ruka*, *najdi magii*, *odhal myšlenky*
 
 <Monster 
     title="Šedý slád"
-    subtitle="Střední zrůda (tvaroměnec), chaoticky neutrální￼"
+    subtitle="Střední zrůda (tvaroměnec), chaoticky neutrální"
     armor-class="18 (přirozená zbroj)"
     hit-points="127 (17k8 + 51)"
     speed="6 sáhů"
@@ -266,7 +266,7 @@ Libovolně: *mágova ruka*, *najdi magii*, *neviditelnost* (jen na sebe), *odhal
   
 <Monster 
     title="Smrtící slád"
-    subtitle="Střední zrůda (tvaroměnec), chaoticky zlý￼"
+    subtitle="Střední zrůda (tvaroměnec), chaoticky zlý"
     armor-class="18 (přirozená zbroj)"
     hit-points="170 (20k8 + 80)"
     speed="6 sáhů"

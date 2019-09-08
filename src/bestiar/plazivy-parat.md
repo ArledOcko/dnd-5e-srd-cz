@@ -24,7 +24,7 @@ Jakmile je vrah zase celý, jedná, jako by mu ruka nikdy nebyla useknuta a ja
   
 <Monster 
     title="Plazivý pařát"
-    subtitle="Drobný nemrtvý, neutrální zlo￼"
+    subtitle="Drobný nemrtvý, neutrální zlo"
     armor-class="12"
     hit-points="2 (1k4)"
     speed="4 sáhy, šplhání 4 sáhy"

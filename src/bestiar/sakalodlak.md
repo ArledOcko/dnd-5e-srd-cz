@@ -12,7 +12,7 @@
   
 <Monster 
     title="Šakalodlak"
-    subtitle="Střední humanoid (tvaroměnec), chaotické zlo￼"
+    subtitle="Střední humanoid (tvaroměnec), chaotické zlo"
     armor-class="12"
     hit-points="18 (4k8)"
     speed="8 sáhů"

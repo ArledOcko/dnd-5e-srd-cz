@@ -34,7 +34,7 @@ Yuan-tiové uctívají řadu mocných bytostí jako bohy, včetně následujíc�
 
 <Monster 
     title="Čistokrevný yuan-ti"
-    subtitle="Střední humanoid (yuan-ti), neutrální zlo￼"
+    subtitle="Střední humanoid (yuan-ti), neutrální zlo"
     armor-class="11"
     hit-points="8 (9k8)"
     speed="6 sáhů"
@@ -83,7 +83,7 @@ Ohavní yuan-tiové jsou obludní hadi se statným humanoidním trupem a rukam
 
 <Monster 
     title="Ohavný yuan-ti"
-    subtitle="Velká obluda (tvaroměnec, yuan-ti), neutrální zlo￼"
+    subtitle="Velká obluda (tvaroměnec, yuan-ti), neutrální zlo"
     armor-class="15 (přirozená zbroj)"
     hit-points="127 (15k10 + 45)"
     speed="8 sáhů"

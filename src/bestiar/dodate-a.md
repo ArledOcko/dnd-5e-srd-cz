@@ -6,7 +6,7 @@ Tento dodatek obsahuje statistiky nejrůznějších zvířat, hmyzu a ostatní
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="11 (přirozená zbroj)"
     hit-points="19 (3k8 + 6)"
     speed="8 sáhů, šplhání 6 sáhů"
@@ -43,7 +43,7 @@ Tento dodatek obsahuje statistiky nejrůznějších zvířat, hmyzu a ostatní
 
 <Monster 
     title=""
-    subtitle="Velká obluda, bez přesvědčení￼"
+    subtitle="Velká obluda, bez přesvědčení"
     armor-class="13 (přirozená zbroj)"
     hit-points="32 (5k10 + 5)"
     speed="6 sáhů, šplhání 6 sáhů"
@@ -88,7 +88,7 @@ Kniha této velikosti nemůže pojmout statistiky pro každé zvíře obývajíc
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="13 (2k10 + 2)"
     speed="6 sáhů, plavání 6 sáhů"
@@ -121,7 +121,7 @@ Kniha této velikosti nemůže pojmout statistiky pro každé zvíře obývajíc
 
 <Monster 
     title=""
-    subtitle="Střední hejno Drobných zvířat, bez přesvědčení￼"
+    subtitle="Střední hejno Drobných zvířat, bez přesvědčení"
     armor-class="14"
     hit-points="25 (8k8)"
     speed="6 sáhů, plavání 6 sáhů"
@@ -154,7 +154,7 @@ Kniha této velikosti nemůže pojmout statistiky pro každé zvíře obývajíc
 
 <Monster 
     title=""
-    subtitle="Střední hejno Drobných zvířat, bez přesvědčení￼"
+    subtitle="Střední hejno Drobných zvířat, bez přesvědčení"
     armor-class="12"
     hit-points="24 (7k8 – 7)"
     speed="2 sáhy, létání 10 sáhů"
@@ -187,7 +187,7 @@ Kniha této velikosti nemůže pojmout statistiky pro každé zvíře obývajíc
 
 <Monster 
     title=""
-    subtitle="Střední hejno Drobných zvířat, bez přesvědčení￼"
+    subtitle="Střední hejno Drobných zvířat, bez přesvědčení"
     armor-class="10"
     hit-points="24 (7k8 – 7)"
     speed="6 sáhů"
@@ -228,7 +228,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Střední hejno Drobných zvířat, bez přesvědčení￼"
+    subtitle="Střední hejno Drobných zvířat, bez přesvědčení"
     armor-class="12"
     hit-points="22 (5k8)"
     speed="0 sáhů, létání 6 sáhů"
@@ -265,7 +265,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Střední hejno Drobných zvířat, bez přesvědčení￼"
+    subtitle="Střední hejno Drobných zvířat, bez přesvědčení"
     armor-class="13"
     hit-points="28 (8k8 – 8)"
     speed="0 sáhů, plavání 8 sáhů"
@@ -302,7 +302,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="11 (přirozená zbroj)"
     hit-points="34 (4k10 + 12)"
     speed="8 sáhů, šplhání 6 sáhů"
@@ -339,7 +339,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
  
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="11"
     hit-points="5 (1k8 + 1)"
     speed="10 sáhů"
@@ -372,7 +372,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Malé zvíře, bez přesvědčení￼"
+    subtitle="Malé zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="3 (1k6)"
     speed="1 sáh, plavání 6 sáhů"
@@ -411,7 +411,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="13"
     hit-points="2 (1k4)"
     speed="6 sáhů, plavání 6 sáhů"
@@ -442,7 +442,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="13"
     hit-points="4 (1k8)"
     speed="10 sáhů"
@@ -473,7 +473,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="13"
     hit-points="1 (1k4 – 1)"
     speed="2 sáhy, létání 12 sáhů"
@@ -506,7 +506,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="10"
     hit-points="2 (1k4)"
     speed="4 sáhy, šplhání 4 sáhy"
@@ -537,7 +537,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="10"
     hit-points="13 (2k10 + 2)"
     speed="12 sáhů"
@@ -568,7 +568,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="10"
     hit-points="3 (1k4 + 1)"
     speed="4 sáhy, hrabání 1 sáh"
@@ -601,7 +601,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="11 (přirozená zbroj)"
     hit-points="11 (2k8 + 2)"
     speed="8 sáhů"
@@ -636,7 +636,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="2 (1k4)"
     speed="8 sáhů, šplhání 6 sáhů"
@@ -669,7 +669,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Obrovské zvíře, bez přesvědčení￼"
+    subtitle="Obrovské zvíře, bez přesvědčení"
     armor-class="12 (přirozená zbroj)"
     hit-points="90 (12k12 + 12)"
     speed="0 sáhů, plavání 12 sáhů"
@@ -706,7 +706,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="10"
     hit-points="4 (1k8)"
     speed="8 sáhů"
@@ -741,7 +741,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="11 (přirozená zbroj)"
     hit-points="2 (1k4)"
     speed="4 sáhy, plavání 4 sáhy"
@@ -774,7 +774,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="1 (1k4 – 1)"
     speed="2 sáhy, létání 10 sáhů"
@@ -807,7 +807,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="12 (přirozená zbroj)"
     hit-points="19 (3k10 + 3)"
     speed="4 sáhy, plavání 6 sáhů"
@@ -840,7 +840,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Malé zvíře, bez přesvědčení￼"
+    subtitle="Malé zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="7 (2k6)"
     speed="2 sáhy, létání 12 sáhů"
@@ -877,7 +877,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="10"
     hit-points="1 (1k4 – 1)"
     speed="4 sáhy"
@@ -910,7 +910,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="13"
     hit-points="1 (1k4 – 1)"
     speed="6 sáhů"
@@ -943,7 +943,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="12 (přirozená zbroj)"
     hit-points="42 (5k10 + 15)"
     speed="8 sáhů, plavání 6 sáhů"
@@ -986,7 +986,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="14"
     hit-points="5 (2k4)"
     speed="6 sáhů, létání 12 sáhů, plavání 6 sáhů"
@@ -1021,7 +1021,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="26 (4k10 + 4)"
     speed="10 sáhů"
@@ -1062,7 +1062,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="19 (3k8 + 6)"
     speed="6 sáhů, šplhání 6 sáhů"
@@ -1097,7 +1097,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="14 (přirozená zbroj)"
     hit-points="37 (5k10 + 10)"
     speed="10 sáhů"
@@ -1132,7 +1132,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="10"
     hit-points="13 (2k10 + 2)"
     speed="10 sáhů"
@@ -1167,7 +1167,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="12 (přirozená zbroj)"
     hit-points="45 (6k10 + 12)"
     speed="0 sáhů, plavání 8 sáhů"
@@ -1204,7 +1204,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Obrovské zvíře, bez přesvědčení￼"
+    subtitle="Obrovské zvíře, bez přesvědčení"
     armor-class="13 (přirozená zbroj)"
     hit-points="126 (11k12 + 55)"
     speed="8 sáhů"
@@ -1241,7 +1241,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="5 (1k8 + 1)"
     speed="8 sáhů"
@@ -1276,7 +1276,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Střední víla, zákonně dobrá￼"
+    subtitle="Střední víla, zákonně dobrá"
     armor-class="13"
     hit-points="22 (4k8 + 4)"
     speed="8 sáhů"
@@ -1313,7 +1313,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="11"
     hit-points="1 (1k4 – 1)"
     speed="0 sáhů, plavání 4 sáhy"
@@ -1342,7 +1342,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="10"
     hit-points="11 (2k8 + 2)"
     speed="8 sáhů"
@@ -1377,7 +1377,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="1 (1k4 – 1)"
     speed="1 sáh, létání 6 sáhů"
@@ -1412,7 +1412,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="11 (přirozená zbroj)"
     hit-points="45 (6k10 + 12)"
     speed="8 sáhů"
@@ -1445,7 +1445,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Malé zvíře, bez přesvědčení￼"
+    subtitle="Malé zvíře, bez přesvědčení"
     armor-class="13 (přirozená zbroj)"
     hit-points="4 (1k6 + 1)"
     speed="6 sáhů"
@@ -1480,7 +1480,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Obrovské zvíře, bez přesvědčení￼"
+    subtitle="Obrovské zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="60 (8k12 + 8)"
     speed="6 sáhů, plavání 6 sáhů"
@@ -1513,7 +1513,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="45 (6k10 + 12)"
     speed="10 sáhů"
@@ -1546,7 +1546,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="11"
     hit-points="52 (8k10 + 8)"
     speed="2 sáhy, plavání 12 sáhů"
@@ -1585,7 +1585,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="14"
     hit-points="11 (2k8 + 2)"
     speed="6 sáhů, plavání 6 sáhů"
@@ -1616,7 +1616,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="12 (přirozená zbroj)"
     hit-points="19 (3k10 + 3)"
     speed="6 sáhů, šplhání 6 sáhů"
@@ -1659,7 +1659,7 @@ Některé obří ještěrky mají i jeden či oba z následujících rysů.
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="10"
     hit-points="13 (2k8 + 4)"
     speed="6 sáhů, hrabání 2 sáhy"
@@ -1696,7 +1696,7 @@ Některé obří ještěrky mají i jeden či oba z následujících rysů.
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="12 (přirozená zbroj)"
     hit-points="42 (5k10 + 15)"
     speed="8 sáhů"
@@ -1731,7 +1731,7 @@ Některé obří ještěrky mají i jeden či oba z následujících rysů.
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="11 (přirozená zbroj)"
     hit-points="19 (3k10 + 3)"
     speed="8 sáhů"
@@ -1766,7 +1766,7 @@ Některé obří ještěrky mají i jeden či oba z následujících rysů.
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="15 (přirozená zbroj)"
     hit-points="13 (3k8)"
     speed="6 sáhů, plavání 6 sáhů"
@@ -1799,7 +1799,7 @@ Některé obří ještěrky mají i jeden či oba z následujících rysů.
 
 <Monster 
     title=""
-    subtitle="Obrovské zvíře, bez přesvědčení￼"
+    subtitle="Obrovské zvíře, bez přesvědčení"
     armor-class="14 (přirozená zbroj)"
     hit-points="85 (9k12 + 27)"
     speed="6 sáhů, plavání 10 sáhů"
@@ -1842,7 +1842,7 @@ Některé obří ještěrky mají i jeden či oba z následujících rysů.
 
 <Monster 
     title=""
-    subtitle="Malé zvíře, bez přesvědčení￼"
+    subtitle="Malé zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="7 (2k6)"
     speed="6 sáhů"
@@ -1885,7 +1885,7 @@ Některé obří krysy jsou roznašeči ošklivých nemocí, které šíří kou
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="13"
     hit-points="9 (2k8)"
     speed="8 sáhů"
@@ -1918,7 +1918,7 @@ Některé obří krysy jsou roznašeči ošklivých nemocí, které šíří kou
 
 <Monster 
     title=""
-    subtitle="Obrovské zvíře, bez přesvědčení￼"
+    subtitle="Obrovské zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="157 (15k12 + 60)"
     speed="8 sáhů, šplhání 8 sáhů"
@@ -1953,7 +1953,7 @@ Některé obří krysy jsou roznašeči ošklivých nemocí, které šíří kou
 
 <Monster 
     title=""
-    subtitle="Obrovské zvíře, bez přesvědčení￼"
+    subtitle="Obrovské zvíře, bez přesvědčení"
     armor-class="14 (přirozená zbroj)"
     hit-points="45 (5k12 + 10)"
     speed="12 sáhů"
@@ -1990,7 +1990,7 @@ Majestátný **obří los** je tak vzácný, že jeho výskyt se často považuj
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="13 (přirozená zbroj)"
     hit-points="16 (3k10)"
     speed="0 sáhů, plavání 8 sáhů"
@@ -2027,7 +2027,7 @@ Majestátný **obří los** je tak vzácný, že jeho výskyt se často považuj
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="13"
     hit-points="22 (4k10)"
     speed="2 sáhy, létání 12 sáhů"
@@ -2062,7 +2062,7 @@ Majestátný **obří los** je tak vzácný, že jeho výskyt se často považuj
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, neutrální dobro￼"
+    subtitle="Velké zvíře, neutrální dobro"
     armor-class="13"
     hit-points="26 (4k10 + 4)"
     speed="2 sáhy, létání 16 sáhů"
@@ -2101,7 +2101,7 @@ Majestátný **obří los** je tak vzácný, že jeho výskyt se často považuj
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="14 (přirozená zbroj)"
     hit-points="26 (4k10 + 4)"
     speed="6 sáhů, šplhání 6 sáhů"
@@ -2142,7 +2142,7 @@ Majestátný **obří los** je tak vzácný, že jeho výskyt se často považuj
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="11"
     hit-points="39 (6k10 + 6)"
     speed="4 sáhy, plavání 8 sáhů"
@@ -2181,7 +2181,7 @@ Pokud ropucha zemře, spolknutý tvor jí přestane být zadržený a může u
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="13"
     hit-points="11 (2k8 + 2)"
     speed="8 sáhů, šplhání 8 sáhů"
@@ -2220,7 +2220,7 @@ Pokud ropucha zemře, spolknutý tvor jí přestane být zadržený a může u
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, neutrální￼"
+    subtitle="Velké zvíře, neutrální"
     armor-class="12"
     hit-points="19 (3k10 + 3)"
     speed="1 sáh, létání 12 sáhů"
@@ -2257,7 +2257,7 @@ Pokud ropucha zemře, spolknutý tvor jí přestane být zadržený a může u
 
 <Monster 
     title=""
-    subtitle="Malé zvíře, bez přesvědčení￼"
+    subtitle="Malé zvíře, bez přesvědčení"
     armor-class="13 (přirozená zbroj)"
     hit-points="4 (1k6 + 1)"
     speed="6 sáhů, šplhání 6 sáhů"
@@ -2288,7 +2288,7 @@ Pokud ropucha zemře, spolknutý tvor jí přestane být zadržený a může u
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, neutrální zlo￼"
+    subtitle="Velké zvíře, neutrální zlo"
     armor-class="10"
     hit-points="22 (3k10 + 6)"
     speed="2 sáhy, létání 12 sáhů"
@@ -2329,7 +2329,7 @@ Pokud ropucha zemře, spolknutý tvor jí přestane být zadržený a může u
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="15 (přirozená zbroj)"
     hit-points="52 (7k10 + 14)"
     speed="8 sáhů"
@@ -2364,7 +2364,7 @@ Pokud ropucha zemře, spolknutý tvor jí přestane být zadržený a může u
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="13 (3k8)"
     speed="2 sáhy, létání 10 sáhů"
@@ -2434,7 +2434,7 @@ Pokud žába zemře, spolknutý tvor jí přestane být zadržený a může un
 
 <Monster 
     title=""
-    subtitle="Obrovské zvíře, bez přesvědčení￼"
+    subtitle="Obrovské zvíře, bez přesvědčení"
     armor-class="13 (přirozená zbroj)"
     hit-points="126 (11k12 + 55)"
     speed="0 sáhů, plavání 10 sáhů"
@@ -2471,7 +2471,7 @@ Pokud žába zemře, spolknutý tvor jí přestane být zadržený a může un
 
 <Monster 
     title=""
-    subtitle="Malé zvíře, bez přesvědčení￼"
+    subtitle="Malé zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="3 (1k6)"
     speed="2 sáhy, létání 12 sáhů"
@@ -2504,7 +2504,7 @@ Pokud žába zemře, spolknutý tvor jí přestane být zadržený a může un
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="13 (3k8)"
     speed="10 sáhů, šplhání 8 sáhů"
@@ -2541,7 +2541,7 @@ Pokud žába zemře, spolknutý tvor jí přestane být zadržený a může un
 
 <Monster 
     title=""
-    subtitle="Malé zvíře, bez přesvědčení￼"
+    subtitle="Malé zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="3 (1k6)"
     speed="6 sáhů, šplhání 6 sáhů"
@@ -2574,7 +2574,7 @@ Pokud žába zemře, spolknutý tvor jí přestane být zadržený a může un
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="1 (1k4 – 1)"
     speed="4 sáhy, šplhání 4 sáhy"
@@ -2611,7 +2611,7 @@ Pokud žába zemře, spolknutý tvor jí přestane být zadržený a může un
 
 <Monster 
     title=""
-    subtitle="Střední obluda, neutrální zlo￼"
+    subtitle="Střední obluda, neutrální zlo"
     armor-class="12"
     hit-points="39 (6k8 + 12)"
     speed="8 sáhů"
@@ -2648,7 +2648,7 @@ Pokud žába zemře, spolknutý tvor jí přestane být zadržený a může un
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="13"
     hit-points="1 (1k4 – 1)"
     speed="0 sáhů, plavání 8 sáhů"
@@ -2685,7 +2685,7 @@ Pokud žába zemře, spolknutý tvor jí přestane být zadržený a může un
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="10"
     hit-points="11 (2k8 + 2)"
     speed="8 sáhů"
@@ -2716,7 +2716,7 @@ Pokud žába zemře, spolknutý tvor jí přestane být zadržený a může un
 
 <Monster 
     title=""
-    subtitle="Malá rostlina, bez přesvědčení￼"
+    subtitle="Malá rostlina, bez přesvědčení"
     armor-class="9"
     hit-points="10 (3k6)"
     speed="4 sáhy"
@@ -2751,7 +2751,7 @@ Pokud žába zemře, spolknutý tvor jí přestane být zadržený a může un
 
 <Monster 
     title=""
-    subtitle="Obrovská rostlina, bez přesvědčení￼"
+    subtitle="Obrovská rostlina, bez přesvědčení"
     armor-class="13 (přirozená zbroj)"
     hit-points="59 (7k12 + 14)"
     speed="4 sáhy"
@@ -2786,7 +2786,7 @@ Pokud žába zemře, spolknutý tvor jí přestane být zadržený a může un
 
 <Monster 
     title=""
-    subtitle="Střední hejno Drobných zvířat, bez přesvědčení￼"
+    subtitle="Střední hejno Drobných zvířat, bez přesvědčení"
     armor-class="12 (přirozená zbroj)"
     hit-points="22 (5k8)"
     speed="4 sáhy, šplhání 4 sáhy"
@@ -2839,7 +2839,7 @@ Do rojů (hejn) se mohou sdružovat různé druhy hmyzu a každý roj či hejn
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="11"
     hit-points="19 (3k10 + 3)"
     speed="10 sáhů"
@@ -2872,7 +2872,7 @@ Do rojů (hejn) se mohou sdružovat různé druhy hmyzu a každý roj či hejn
 
 <Monster 
     title=""
-    subtitle="Obrovské zvíře, bez přesvědčení￼"
+    subtitle="Obrovské zvíře, bez přesvědčení"
     armor-class="12 (přirozená zbroj)"
     hit-points="76 (8k12 + 24)"
     speed="8 sáhů"
@@ -2907,7 +2907,7 @@ Do rojů (hejn) se mohou sdružovat různé druhy hmyzu a každý roj či hejn
 
 <Monster 
     title=""
-    subtitle="Velká obluda, neutrální zlo￼"
+    subtitle="Velká obluda, neutrální zlo"
     armor-class="13 (přirozená zbroj)"
     hit-points="75 (10k10 + 20)"
     speed="10 sáhů"
@@ -2948,7 +2948,7 @@ Arktický **sněžný vlk** je velký jako lítý vlk, ale má sněhobílou srst
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="11"
     hit-points="1 (1k4 – 1)"
     speed="1 sáh, létání 12 sáhů"
@@ -2983,7 +2983,7 @@ Arktický **sněžný vlk** je velký jako lítý vlk, ale má sněhobílou srst
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="10"
     hit-points="5 (1k8 + 1)"
     speed="2 sáhy, létání 10 sáhů"
@@ -3018,7 +3018,7 @@ Arktický **sněžný vlk** je velký jako lítý vlk, ale má sněhobílou srst
 
 <Monster 
     title=""
-    subtitle="Malé zvíře, bez přesvědčení￼"
+    subtitle="Malé zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="3 (1k6)"
     speed="8 sáhů"
@@ -3053,7 +3053,7 @@ Arktický **sněžný vlk** je velký jako lítý vlk, ale má sněhobílou srst
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="52 (7k10 + 14)"
     speed="8 sáhů"
@@ -3090,7 +3090,7 @@ Arktický **sněžný vlk** je velký jako lítý vlk, ale má sněhobílou srst
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="11 (přirozená zbroj)"
     hit-points="1 (1k4 – 1)"
     speed="2 sáhy"
@@ -3121,7 +3121,7 @@ Arktický **sněžný vlk** je velký jako lítý vlk, ale má sněhobílou srst
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="10"
     hit-points="19 (3k10 + 3)"
     speed="8 sáhů"
@@ -3152,7 +3152,7 @@ Arktický **sněžný vlk** je velký jako lítý vlk, ale má sněhobílou srst
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="12"
     hit-points="37 (5k10 + 10)"
     speed="8 sáhů"
@@ -3189,7 +3189,7 @@ Arktický **sněžný vlk** je velký jako lítý vlk, ale má sněhobílou srst
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="12 (přirozená zbroj)"
     hit-points="22 (4k8 + 4)"
     speed="0 sáhů, plavání 8 sáhů"
@@ -3226,7 +3226,7 @@ Arktický **sněžný vlk** je velký jako lítý vlk, ale má sněhobílou srst
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="11"
     hit-points="19 (3k10 + 3)"
     speed="12 sáhů"
@@ -3255,7 +3255,7 @@ Arktický **sněžný vlk** je velký jako lítý vlk, ale má sněhobílou srst
   
 </Monster>
 
-<Cars header="Varianta: Zbroj válečného koně">
+<Card header="Varianta: Zbroj válečného koně">
   
 Obrněný válečný kůň má OČ dle typu prsosin, co má na sobě navlečené (více informací o prsosinách najdeš v *Příručce hráče*). Koňovo OČ zahrnuje jeho opravu Obratnosti, pokud se používá. Prsosiny nemění nebezpečnost koně.
 
@@ -3265,7 +3265,7 @@ Obrněný válečný kůň má OČ dle typu prsosin, co má na sobě navlečené
 
 <Monster 
     title=""
-    subtitle="Velké zvíře, bez přesvědčení￼"
+    subtitle="Velké zvíře, bez přesvědčení"
     armor-class="9"
     hit-points="15 (2k10 + 4)"
     speed="10 sáhů"
@@ -3296,7 +3296,7 @@ Obrněný válečný kůň má OČ dle typu prsosin, co má na sobě navlečené
 
 <Monster 
     title=""
-    subtitle="Střední zvíře, bez přesvědčení￼"
+    subtitle="Střední zvíře, bez přesvědčení"
     armor-class="13 (přirozená zbroj)"
     hit-points="11 (2k8 + 2)"
     speed="8 sáhů"
@@ -3331,7 +3331,7 @@ Obrněný válečný kůň má OČ dle typu prsosin, co má na sobě navlečené
 
 <Monster 
     title=""
-    subtitle="Velká obluda, neutrální zlo￼"
+    subtitle="Velká obluda, neutrální zlo"
     armor-class="13 (přirozená zbroj)"
     hit-points="26 (4k10 + 4)"
     speed="10 sáhů"
@@ -3366,7 +3366,7 @@ Obrněný válečný kůň má OČ dle typu prsosin, co má na sobě navlečené
 
 <Monster 
     title=""
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="11"
     hit-points="1 (1k4 – 1)"
     speed="4 sáhy, plavání 4 sáhy"

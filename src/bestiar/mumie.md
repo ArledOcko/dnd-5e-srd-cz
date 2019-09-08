@@ -56,7 +56,7 @@ Pokud je vznešená mumie zničena, tyto účinky okamžitě pominou.
 
 <Monster 
     title="Mumie"
-    subtitle="Střední nemrtvý, zákonné zlo￼"
+    subtitle="Střední nemrtvý, zákonné zlo"
     armor-class="11 (přirozená zbroj)"
     hit-points="58 (9k8 + 18)"
     speed="4 sáhy"
@@ -93,7 +93,7 @@ Pokud je vznešená mumie zničena, tyto účinky okamžitě pominou.
 
 <Monster 
     title="Vznešená mumie"
-    subtitle="Střední nemrtvý, zákonné zlo￼"
+    subtitle="Střední nemrtvý, zákonné zlo"
     armor-class="17 (přirozená zbroj)"
     hit-points="97 (13k8 + 39)"
     speed="4 sáhy"

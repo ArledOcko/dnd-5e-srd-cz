@@ -22,7 +22,7 @@ Zombie umí plnit jednoduché rozkazy a rozlišuje přátele od nepřátel, al
   
 <Monster 
     title="Zombie"
-    subtitle="Střední nemrtvý, neutrální zlo￼"
+    subtitle="Střední nemrtvý, neutrální zlo"
     armor-class="8"
     hit-points="22 (3k8 + 9)"
     speed="4 sáhy"
@@ -53,7 +53,7 @@ Zombie umí plnit jednoduché rozkazy a rozlišuje přátele od nepřátel, al
 
 <Monster 
     title="Zlobří zombie"
-    subtitle="Velký nemrtvý, neutrální zlo￼"
+    subtitle="Velký nemrtvý, neutrální zlo"
     armor-class="8"
     hit-points="85 (9k10 + 36)"
     speed="6 sáhů"
@@ -84,7 +84,7 @@ Zombie umí plnit jednoduché rozkazy a rozlišuje přátele od nepřátel, al
   
 <Monster 
     title="Zřící zombie"
-    subtitle="Velký nemrtvý, neutrální zlo￼"
+    subtitle="Velký nemrtvý, neutrální zlo"
     armor-class="15 (přirozená zbroj)"
     hit-points="93 (11k10 + 33)"
     speed="0 sáhů, létání 4 sáhy (vznášení se)"

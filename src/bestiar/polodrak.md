@@ -46,7 +46,7 @@ Zde uvedenou šablonu polodraka jsme použili na lidského veterána k vytvoř
 
 <Monster 
     title="Rudý polodračí veterán"
-    subtitle="Střední humanoid (člověk), jakékoli přesvědčení￼"
+    subtitle="Střední humanoid (člověk), jakékoli přesvědčení"
     armor-class="18 (plátová zbroj)"
     hit-points="65 (10k8 + 20)"
     speed="6 sáhů"

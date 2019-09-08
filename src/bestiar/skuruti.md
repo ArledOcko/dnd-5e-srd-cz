@@ -37,7 +37,7 @@ Skurutí vojvody boj nikdy neunaví, ale nepozdvihují zbraně lehkovážně. Ne
 
 <Monster 
     title="Skurut"
-    subtitle="Střední humanoid (skřet), zákonné zlo￼"
+    subtitle="Střední humanoid (skřet), zákonné zlo"
     armor-class="17 (drátěná zbroj, štít)"
     hit-points="11 (2k8 + 2)"
     speed="6 sáhů"
@@ -70,7 +70,7 @@ Skurutí vojvody boj nikdy neunaví, ale nepozdvihují zbraně lehkovážně. Ne
 
 <Monster 
     title="Skurutí kapitán"
-    subtitle="Střední humanoid (skřet), zákonné zlo￼"
+    subtitle="Střední humanoid (skřet), zákonné zlo"
     armor-class="17 (poloplátová zbroj)"
     hit-points="39 (6k8 + 12)"
     speed="6 sáhů"
@@ -107,7 +107,7 @@ Skurutí vojvody boj nikdy neunaví, ale nepozdvihují zbraně lehkovážně. Ne
 
 <Monster 
     title="Skurutí vojvoda"
-    subtitle="Střední humanoid (skřet), zákonné zlo￼"
+    subtitle="Střední humanoid (skřet), zákonné zlo"
     armor-class="20 (plátová zbroj, štít)"
     hit-points="97 (13k8 + 39)"
     speed="6 sáhů"

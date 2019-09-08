@@ -10,7 +10,7 @@ Temnoplášťové se vyskytují v celých Temných říších, ale stejně bě
 
 <Monster 
     title="Temnoplášť"
-    subtitle="Malá obluda, bez přesvědčení￼"
+    subtitle="Malá obluda, bez přesvědčení"
     armor-class="11"
     hit-points="22 (5k6 + 5)"
     speed="2 sáhy, létání 6 sáhů"

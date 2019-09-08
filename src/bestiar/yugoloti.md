@@ -74,7 +74,7 @@ Přivolaný yugolot se objeví na volném místě do 12 sáhů od přivolávače
   
 <Monster 
     title="Mezzolot"
-    subtitle="Střední běs (yugolot), neutrální zlo￼"
+    subtitle="Střední běs (yugolot), neutrální zlo"
     armor-class="18 (přirozená zbroj)"
     hit-points="75 (10k8 + 30)"
     speed="8 sáhů"
@@ -119,7 +119,7 @@ Přivolaný yugolot se objeví na volném místě do 12 sáhů od přivolávače
 
 <Monster 
     title="Mystikolot"
-    subtitle="Střední běs (yugolot), neutrální zlo￼"
+    subtitle="Střední běs (yugolot), neutrální zlo"
     armor-class="17 (přirozená zbroj)"
     hit-points="104 (16k8 + 32)"
     speed="6 sáhů, létání 6 sáhů"
@@ -178,7 +178,7 @@ Triky (libovolně): *drobná iluze*, *kejkle*, *mágova ruka*, *ohnivá střela*
 
 <Monster 
     title="Nykalot"
-    subtitle="Velký běs (yugolot), neutrální zlo￼"
+    subtitle="Velký běs (yugolot), neutrální zlo"
     armor-class="18 (přirozená zbroj)"
     hit-points="123 (13k10 + 52)"
     speed="8 sáhů, létání 12 sáhů"
@@ -221,7 +221,7 @@ Libovolně: *najdi magii*, *neviditelnost* (jen na sebe), *rozptyl magii*, *tma*
 
 <Monster 
     title="Ultrolot"
-    subtitle="Střední běs (yugolot), neutrální zlo￼"
+    subtitle="Střední běs (yugolot), neutrální zlo"
     armor-class="19 (přirozená zbroj)"
     hit-points="153 (18k8 + 72)"
     speed="6 sáhů, létání 12 sáhů"

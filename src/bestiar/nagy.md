@@ -28,7 +28,7 @@ Strážná nága nevyhledává násilí a místo útočení raději vetřelce 
 
 <Monster 
     title="Kostěná nága"
-    subtitle="Velký nemrtvý, zákonné zlo￼"
+    subtitle="Velký nemrtvý, zákonné zlo"
     armor-class="15 (přirozená zbroj)"
     hit-points="58 (9k10 + 9)"
     speed="6 sáhů"
@@ -83,7 +83,7 @@ Triky (libovolně): *drobná iluze*, *mágova ruka*, *mrazivý paprsek*
   
 <Monster 
     title="Přízračná nága"
-    subtitle="Velká obluda, chaotické zlo￼"
+    subtitle="Velká obluda, chaotické zlo"
     armor-class="15 (přirozená zbroj)"
     hit-points="75 (10k10 + 20)"
     speed="8 sáhů"
@@ -128,7 +128,7 @@ Triky (libovolně): *drobná iluze*, *mágova ruka*, *mrazivý paprsek*
 
 <Monster 
     title="Strážná nága"
-    subtitle="Velká obluda, zákonné dobro￼"
+    subtitle="Velká obluda, zákonné dobro"
     armor-class="18 (přirozená zbroj)"
     hit-points="127 (15k10 + 45)"
     speed="8 sáhů"

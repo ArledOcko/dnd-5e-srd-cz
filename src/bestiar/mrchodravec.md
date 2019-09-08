@@ -12,7 +12,7 @@ Když mrchodravec čelí potenciální kořisti nebo vetřelcům, nechá jed ud�
  
 <Monster 
     title="Mrchodravec"
-    subtitle="Velká obluda, bez přesvědčení￼"
+    subtitle="Velká obluda, bez přesvědčení"
     armor-class="13 (přirozená zbroj)"
     hit-points="51 (6k10 + 18)"
     speed="6 sáhů, šplhání 6 sáhů"

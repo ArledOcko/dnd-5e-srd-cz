@@ -15,6 +15,8 @@ services:
       - ./.git:/var/www/html/.git
       - ./package.json:/var/www/html/package.json
       - ./yarn.lock:/var/www/html/yarn.lock
+      - ./build:/var/www/html/build
+      - ./build.sh:/var/www/html/build.sh
     ports:
       - "8080:8080"
       - "8081:8081"

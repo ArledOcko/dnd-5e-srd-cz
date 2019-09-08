@@ -16,7 +16,7 @@ Sukuba či inkubus se uchýlí k magickému zmámení oběti, jen když je to 
   
 <Monster 
     title="Sukuba nebo inkubus"
-    subtitle="Střední běs (tvaroměnec), neutrální zlo￼"
+    subtitle="Střední běs (tvaroměnec), neutrální zlo"
     armor-class="15 (přirozená zbroj)"
     hit-points="66 (12k8 + 12)"
     speed="6 sáhů, létání 12 sáhů"

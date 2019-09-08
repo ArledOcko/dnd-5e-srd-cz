@@ -20,7 +20,7 @@ Elfí komunity podněcují sovodvědy, aby se usadili pod jejich vesnicemi v k
 
 <Monster 
     title="Sovodvěd"
-    subtitle="Velká obluda, bez přesvědčení￼"
+    subtitle="Velká obluda, bez přesvědčení"
     armor-class="13 (přirozená zbroj)"
     hit-points="59 (7k10 + 21)"
     speed="8 sáhů"

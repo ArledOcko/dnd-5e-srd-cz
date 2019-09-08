@@ -10,7 +10,7 @@ Moriané bydlí v podmořských jeskyních plných pokladů a trofejí, kter
  
  <Monster 
     title="Morian"
-    subtitle="Velká obluda, chaotické zlo￼"
+    subtitle="Velká obluda, chaotické zlo"
     armor-class="13 (přirozená zbroj)"
     hit-points="45 (6k10 + 12)"
     speed="2 sáhy, plavání 8 sáhů"

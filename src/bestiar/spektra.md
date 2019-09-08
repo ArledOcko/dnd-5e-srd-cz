@@ -12,7 +12,7 @@ Spektra je vzteklá, nespoutaná duše humanoida, které bylo zabráněno v od
 
 <Monster 
     title="Spektra"
-    subtitle="Střední nemrtvý, chaotické zlo￼"
+    subtitle="Střední nemrtvý, chaotické zlo"
     armor-class="12"
     hit-points="22 (5k8)"
     speed="0 sáhů, létání 10 sáhů (vznášení se)"

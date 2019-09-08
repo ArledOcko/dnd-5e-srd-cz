@@ -18,7 +18,7 @@ Navzdory obludné podobě je tlející valivec živá rostlina, která potřebuj
 
 <Monster 
     title="Tlející valivec"
-    subtitle="Velká rostlina, bez přesvědčení￼"
+    subtitle="Velká rostlina, bez přesvědčení"
     armor-class="15 (přirozená zbroj)"
     hit-points="136 (16k10 + 48)"
     speed="4 sáhy, plavání 4 sáhy"

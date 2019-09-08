@@ -18,7 +18,7 @@ Ačkoliv minotauři začínají jako výtvory Rohatého krále, mohou se spolu m
 
 <Monster 
     title="Minotaurus"
-    subtitle="Velká obluda, chaotické zlo￼"
+    subtitle="Velká obluda, chaotické zlo"
     armor-class="14 (přirozená zbroj)"
     hit-points="76 (9k10 + 27)"
     speed="8 sáhů"

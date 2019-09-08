@@ -8,7 +8,7 @@ Strigy se živí krví živých tvorů, přisávají se na ně a pomalu je vys
 
 <Monster 
     title="Striga"
-    subtitle="Drobné zvíře, bez přesvědčení￼"
+    subtitle="Drobné zvíře, bez přesvědčení"
     armor-class="14 (přirozená zbroj)"
     hit-points="2 (1k4)"
     speed="2 sáhy, létání 8 sáhů"

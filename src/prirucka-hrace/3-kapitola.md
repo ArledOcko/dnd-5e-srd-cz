@@ -793,19 +793,13 @@ Na 3. úrovni získáš zdatnost s jedním typem řemeslnického nářadí dle
   
 Počínaje 7. úrovní, pokud strávíš 1 minutu pozorováním či interakcí s jiným tvorem mimo boj, můžeš se dozvědět určité informace o jeho schopnostech v porovnání s tvými. PJ ti sdělí, jestli je tvor srovnatelný, lepší nebo horší z pohledu dvou z následujících charakteristik dle tvé volby:
   
-* Hodnota Síly
-  
-* Hodnota Obratnosti
-  
-* Hodnota Odolnosti
-  
-* Obranné číslo
-  
-* Aktuální životy
-  
-* (Případná) celková úroveň ze všech povolání
-  
-* (Případná) úroveň povolání bojovníka
+ * Hodnota Síly  
+ * Hodnota Obratnosti  
+ * Hodnota Odolnosti  
+ * Obranné číslo  
+ * Aktuální životy  
+ * (Případná) celková úroveň ze všech povolání  
+ * (Případná) úroveň povolání bojovníka
   
 ##### Zlepšená bojová převaha
   
@@ -2303,7 +2297,7 @@ Na 15. úrovni získáš jednu z následujících schopností dle své volby.
   
 ***Neuvěřitelné uhýbání.*** Když tě zasáhne svým útokem útočník, kterého vidíš, můžeš použít svou reakci ke snížení zranění, které utrpíš tímto útokem, na polovinu.
   
-**Proti proudu.*** Když tě nepřátelský tvor mine útokem na blízko, můžeš ho pomocí své reakce přinutit, aby zopakoval stejný útok proti jinému tvorovi (a jinému, než je on sám) dle tvé volby.
+***Proti proudu.*** Když tě nepřátelský tvor mine útokem na blízko, můžeš ho pomocí své reakce přinutit, aby zopakoval stejný útok proti jinému tvorovi (a jinému, než je on sám) dle tvé volby.
   
 ***Vyváznutí.*** Můžeš hbitě uskočit z určitých oblastí účinků, například před ohnivým dechem rudého draka nebo před kouzlem blesk. Když jsi vystaven účinku, který ti umožňuje, abys pomocí záchranného hodu na Obratnost utrpěl pouze poloviční zranění, tak místo toho neutrpíš žádné zranění, když v záchraně uspěješ, nebo utrpíš jen poloviční zranění, když neuspěješ.
   

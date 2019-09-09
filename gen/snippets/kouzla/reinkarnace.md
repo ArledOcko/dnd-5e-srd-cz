@@ -1,5 +1,7 @@
 # REINKARNACE
 
+*Reincarnate*
+
 ***Příručka hráče***
 
 *Transmutace 5. úrovně*

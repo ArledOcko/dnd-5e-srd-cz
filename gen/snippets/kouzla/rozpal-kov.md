@@ -1,5 +1,7 @@
 # ROZPAL KOV
 
+*Heat metal*
+
 ***Příručka hráče***
 
 *Transmutace 2. úrovně*

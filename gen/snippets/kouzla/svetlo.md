@@ -1,5 +1,7 @@
 # SVĚTLO
 
+*Light*
+
 ***Příručka hráče***
 
 *Zaklínací trik*

@@ -1,5 +1,7 @@
 # PŘÁTELSTVÍ ZVÍŘAT
 
+*Animal friendship*
+
 ***Příručka hráče***
 
 *Očarování 1. úrovně*

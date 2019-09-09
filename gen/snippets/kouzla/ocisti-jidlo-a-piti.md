@@ -1,5 +1,7 @@
 # OČISTI JÍDLO A PITÍ
 
+*Purify food and drink*
+
 ***Příručka hráče***
 
 *Transmutace 1. úrovně (rituál)*

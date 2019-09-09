@@ -1,5 +1,7 @@
 # SPALUJÍCÍ ÚDER
 
+*Searing smite*
+
 ***Příručka hráče***
 
 *Zaklínání 1. úrovně*

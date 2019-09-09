@@ -1,5 +1,7 @@
 # SEŽEHUJÍCÍ PAPRSEK
 
+*Scorching ray*
+
 ***Příručka hráče***
 
 *Zaklínání 2. úrovně*

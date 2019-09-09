@@ -1,5 +1,7 @@
 # OTILUKOVA NEPODDAJNÁ KOULE
 
+*Otiluke's resilient sphere*
+
 ***Příručka hráče***
 
 *Zaklínání 4. úrovně*

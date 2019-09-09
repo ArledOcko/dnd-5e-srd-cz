@@ -1,5 +1,7 @@
 # OCHRANA PŘED ZLEM A DOBREM
 
+*Protection from evil and good*
+
 ***Příručka hráče***
 
 *Vymítání 1. úrovně*

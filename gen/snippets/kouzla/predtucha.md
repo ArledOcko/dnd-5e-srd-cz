@@ -1,5 +1,7 @@
 # PŘEDTUCHA
 
+*Foresight*
+
 ***Příručka hráče***
 
 *Věštění 9. úrovně*

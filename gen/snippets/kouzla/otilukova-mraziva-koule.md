@@ -1,5 +1,7 @@
 # OTILUKOVA MRAZIVÁ KOULE
 
+*Otiluke's freezing sphere*
+
 ***Příručka hráče***
 
 *Zaklínání 6. úrovně*

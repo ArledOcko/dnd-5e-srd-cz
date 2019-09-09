@@ -1,5 +1,7 @@
 # ROZPTYL ZLO A DOBRO
 
+*Dispel evil and good*
+
 ***Příručka hráče***
 
 *Vymítání 5. úrovně*

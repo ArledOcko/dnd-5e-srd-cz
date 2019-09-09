@@ -1,5 +1,7 @@
 # SPATŘI NEVIDITELNÉ
 
+*See invisibility*
+
 ***Příručka hráče***
 
 *Věštění 2. úrovně*

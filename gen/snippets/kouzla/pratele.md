@@ -1,5 +1,7 @@
 # PŘÁTELÉ
 
+*Friends*
+
 ***Příručka hráče***
 
 *Očarovací trik*

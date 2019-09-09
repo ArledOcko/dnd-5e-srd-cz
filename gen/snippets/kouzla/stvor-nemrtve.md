@@ -1,5 +1,7 @@
 # STVOŘ NEMRTVÉ
 
+*Create undead*
+
 ***Příručka hráče***
 
 *Nekromancie 6. úrovně*

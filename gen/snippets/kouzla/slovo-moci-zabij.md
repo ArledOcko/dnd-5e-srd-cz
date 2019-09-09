@@ -1,5 +1,7 @@
 # SLOVO MOCI „ZABIJ "
 
+*Power word kill*
+
 ***Příručka hráče***
 
 *Očarování 9. úrovně*

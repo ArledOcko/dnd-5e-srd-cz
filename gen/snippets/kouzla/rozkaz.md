@@ -1,5 +1,7 @@
 # ROZKAZ
 
+*Command*
+
 ***Příručka hráče***
 
 *Očarování 1. úrovně*

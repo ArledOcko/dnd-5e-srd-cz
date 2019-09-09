@@ -1,5 +1,7 @@
 # PŘÍZRAČNÝ OŘ
 
+*Phantom steed*
+
 ***Příručka hráče***
 
 *Iluze 3. úrovně (rituál)*

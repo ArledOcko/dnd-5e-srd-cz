@@ -1,5 +1,7 @@
 # ŠOKUJÍCÍ SEVŘENÍ
 
+*Shocking grasp*
+
 ***Příručka hráče***
 
 *Zaklínací trik*

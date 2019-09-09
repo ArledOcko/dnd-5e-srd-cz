@@ -1,5 +1,7 @@
 # PODROB ZVÍŘE
 
+*Dominate beast*
+
 ***Příručka hráče***
 
 *Očarování 4. úrovně*

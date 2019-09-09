@@ -1,5 +1,7 @@
 # POLAPUJÍCÍ ÚDER
 
+*Ensnaring strike*
+
 ***Příručka hráče***
 
 *Vyvolávání 1. úrovně*

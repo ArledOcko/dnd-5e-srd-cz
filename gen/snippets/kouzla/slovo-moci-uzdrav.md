@@ -1,5 +1,7 @@
 # SLOVO MOCI „UZDRAV "
 
+*Power word heal*
+
 ***Příručka hráče***
 
 *Zaklínání 9. úrovně*

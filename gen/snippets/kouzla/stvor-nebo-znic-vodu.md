@@ -1,5 +1,7 @@
 # STVOŘ NEBO ZNIČ VODU
 
+*Create or destroy water*
+
 ***Příručka hráče***
 
 *Transmutace 1. úrovně*

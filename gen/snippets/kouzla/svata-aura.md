@@ -1,5 +1,7 @@
 # SVATÁ AURA
 
+*Holy aura*
+
 ***Příručka hráče***
 
 *Vymítání 8. úrovně*

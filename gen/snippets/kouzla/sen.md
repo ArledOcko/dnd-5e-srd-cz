@@ -1,5 +1,7 @@
 # SEN
 
+*Dream*
+
 ***Příručka hráče***
 
 *Iluze 5. úrovně*

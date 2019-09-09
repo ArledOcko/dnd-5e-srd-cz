@@ -1,5 +1,7 @@
 # POSLYŠ MÝTY
 
+*Legend lore*
+
 ***Příručka hráče***
 
 *Věštění 5. úrovně*

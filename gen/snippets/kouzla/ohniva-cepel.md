@@ -1,5 +1,7 @@
 # OHNIVÁ ČEPEL
 
+*Flame blade*
+
 ***Příručka hráče***
 
 *Zaklínání 2. úrovně*

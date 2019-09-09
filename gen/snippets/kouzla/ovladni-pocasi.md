@@ -1,5 +1,7 @@
 # OVLÁDNI POČASÍ
 
+*Control weather*
+
 ***Příručka hráče***
 
 *Transmutace 6. úrovně*

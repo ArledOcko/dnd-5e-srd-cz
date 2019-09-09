@@ -1,5 +1,7 @@
 # PODPORA
 
+*Aid*
+
 ***Příručka hráče***
 
 *Vymítání 2. úrovně*

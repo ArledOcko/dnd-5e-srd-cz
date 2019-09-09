@@ -1,5 +1,7 @@
 # PRAVDIVÉ VIDĚNÍ
 
+*True seeing*
+
 ***Příručka hráče***
 
 *Věštění 6. úrovně*

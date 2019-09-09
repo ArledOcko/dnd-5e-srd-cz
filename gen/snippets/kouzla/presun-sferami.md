@@ -1,5 +1,7 @@
 # PŘESUN SFÉRAMI
 
+*Plane shift*
+
 ***Příručka hráče***
 
 *Vyvolávání 7. úrovně*

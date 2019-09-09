@@ -1,5 +1,7 @@
 # POŽEHNÁNÍ
 
+*Bless*
+
 ***Příručka hráče***
 
 *Očarování 1. úrovně*

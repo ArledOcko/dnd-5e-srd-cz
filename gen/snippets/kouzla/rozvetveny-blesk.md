@@ -1,5 +1,7 @@
 # ROZVĚTVENÝ BLESK
 
+*Chain lighting*
+
 ***Příručka hráče***
 
 *Zaklínání 6. úrovně*

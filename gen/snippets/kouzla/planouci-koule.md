@@ -1,5 +1,7 @@
 # PLANOUCÍ KOULE
 
+*Flaming sphere*
+
 ***Příručka hráče***
 
 *Vyvolávání 2. úrovně*

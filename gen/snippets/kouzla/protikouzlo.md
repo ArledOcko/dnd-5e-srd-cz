@@ -1,5 +1,7 @@
 # PROTIKOUZLO
 
+*Counterspell*
+
 ***Příručka hráče***
 
 *Vymítání 3. úrovně*

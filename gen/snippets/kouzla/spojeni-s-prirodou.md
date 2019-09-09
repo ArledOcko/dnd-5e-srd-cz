@@ -1,5 +1,7 @@
 # SPOJENÍ S PŘÍRODOU
 
+*Commune with nature*
+
 ***Příručka hráče***
 
 *Věštění 5. úrovně* *(rituál)*

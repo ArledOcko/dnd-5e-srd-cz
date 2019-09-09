@@ -1,5 +1,7 @@
 # PROJDI ZDÍ
 
+*Passwall*
+
 ***Příručka hráče***
 
 *Transmutace 5. úrovně*

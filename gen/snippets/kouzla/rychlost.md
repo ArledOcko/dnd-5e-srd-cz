@@ -1,5 +1,7 @@
 # RYCHLOST
 
+*Haste*
+
 ***Příručka hráče***
 
 *Transmutace 3. úrovně*

@@ -1,5 +1,7 @@
 # PŘESTROJENÍ
 
+*Disguise self*
+
 ***Příručka hráče***
 
 *Iluze 1. úrovně*

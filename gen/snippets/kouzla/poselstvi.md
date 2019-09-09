@@ -1,5 +1,7 @@
 # POSELSTVÍ
 
+*Sending*
+
 ***Příručka hráče***
 
 *Zaklínání 3. úrovně*

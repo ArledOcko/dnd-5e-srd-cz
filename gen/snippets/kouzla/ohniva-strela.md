@@ -1,5 +1,7 @@
 # OHNIVÁ STŘELA
 
+*Fire bolt*
+
 ***Příručka hráče***
 
 *Zaklínací trik*

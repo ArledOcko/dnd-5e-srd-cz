@@ -1,5 +1,7 @@
 # SLOVO MOCI „OCHROM "
 
+*Power word stun*
+
 ***Příručka hráče***
 
 *Očarování 8. úrovně*
@@ -14,6 +16,6 @@
 
 **Povolání:** Bard, čaroděj, černokněžník, kouzelník
 
-Řekneš slovo moci, které dokáže přemoci mysl jedno ho tvora, kterého vidíš v dosahu, a ochromit ho. Má-li cíl 150 životů či méně, je ochromen. V opačném přípa dě je kouzlo bez účinku. 
+Řekneš slovo moci, které dokáže přemoci mysl jedno ho tvora, kterého vidíš v dosahu, a ochromit ho. Má-li cíl 150 životů či méně, je ochromen. V opačném případě je kouzlo bez účinku. 
 
 Ochromený tvor si musí hodit záchranný hod na Odolnost na konci každého svého tahu. Když uspěje, ochromující účinek skončí.

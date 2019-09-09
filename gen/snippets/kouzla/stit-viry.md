@@ -1,5 +1,7 @@
 # ŠTÍT VÍRY
 
+*Shield of faith*
+
 ***Příručka hráče***
 
 *Vymítání 1. úrovně*

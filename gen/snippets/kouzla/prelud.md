@@ -1,5 +1,7 @@
 # PŘELUD
 
+*Phantasmal force*
+
 ***Příručka hráče***
 
 *Iluze 2. úrovně*

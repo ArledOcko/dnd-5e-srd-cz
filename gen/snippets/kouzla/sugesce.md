@@ -1,5 +1,7 @@
 # SUGESCE
 
+*Suggestion*
+
 ***Příručka hráče***
 
 *Očarování 2. úrovně*

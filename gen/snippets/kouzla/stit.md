@@ -1,5 +1,7 @@
 # ŠTÍT
 
+*Shield*
+
 ***Příručka hráče***
 
 *Vymítání 1. úrovně*

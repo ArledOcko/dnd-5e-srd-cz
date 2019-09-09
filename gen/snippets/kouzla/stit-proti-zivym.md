@@ -1,5 +1,7 @@
 # ŠTÍT PROTI ŽIVÝM
 
+*Antilife shell*
+
 ***Příručka hráče***
 
 *Vymítání 5. úrovně*

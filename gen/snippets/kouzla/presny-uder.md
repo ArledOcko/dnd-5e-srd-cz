@@ -1,5 +1,7 @@
 # PŘESNÝ ÚDER
 
+*True strike*
+
 ***Příručka hráče***
 
 *Věštecký trik*

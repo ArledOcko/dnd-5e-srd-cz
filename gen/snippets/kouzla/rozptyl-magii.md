@@ -1,5 +1,7 @@
 # ROZPTYL MAGII
 
+*Dispel magic*
+
 ***Příručka hráče***
 
 *Vymítání 3. úrovně*

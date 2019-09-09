@@ -1,5 +1,7 @@
 # PAPRSEK OTRÁVENÍ
 
+*Ray of sickness*
+
 ***Příručka hráče***
 
 *Nekromancie 1. úrovně*

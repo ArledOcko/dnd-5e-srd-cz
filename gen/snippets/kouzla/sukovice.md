@@ -1,5 +1,7 @@
 # SUKOVICE
 
+*Shillelagh*
+
 ***Příručka hráče***
 
 *Transmutační trik*

@@ -1,4 +1,6 @@
-# OBLAK SMRTI
+# OBLAK SMR
+
+*Cloudkill*
 
 ***Příručka hráče***
 

@@ -1,5 +1,7 @@
 # PŘÍZRAČNÍ STRÁŽCI
 
+*Spirit guardians*
+
 ***Příručka hráče***
 
 *Vyvolávání 3. úrovně*

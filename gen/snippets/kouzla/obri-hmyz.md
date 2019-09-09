@@ -1,5 +1,7 @@
 # OBŘÍ HMYZ
 
+*Giant insect*
+
 ***Příručka hráče***
 
 *Transmutace 4. úrovně*

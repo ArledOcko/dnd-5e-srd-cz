@@ -1,5 +1,7 @@
 # PAVOUČÍ ŠPLH
 
+*Spider climb*
+
 ***Příručka hráče***
 
 *Transmutace 2. úrovně*

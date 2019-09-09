@@ -1,5 +1,7 @@
 # OSLEPUJÍCÍ ÚDER
 
+*Blinding smite*
+
 ***Příručka hráče***
 
 *Zaklínání 3. úrovně*

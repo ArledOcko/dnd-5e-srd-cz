@@ -1,5 +1,7 @@
 # SKUTEČNÁ PROMĚNA
 
+*True polymorph*
+
 ***Příručka hráče***
 
 *Transmutace 9. úrovně*

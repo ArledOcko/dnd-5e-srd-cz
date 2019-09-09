@@ -1,5 +1,7 @@
 # SLUNEČNÍ PAPRSEK
 
+*Sunbeam*
+
 ***Příručka hráče***
 
 *Zaklínání 6. úrovně*

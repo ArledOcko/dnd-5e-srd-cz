@@ -1,5 +1,7 @@
 # SFÉRICKÝ SPOJENEC
 
+*Planar ally*
+
 ***Příručka hráče***
 
 *Vyvolávání 6. úrovně*

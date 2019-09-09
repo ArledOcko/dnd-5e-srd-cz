@@ -1,4 +1,7 @@
 # PŘÍZEŇ BOHŮ
+
+*Divine favor*
+
 ***Příručka hráče***
 
 *Zaklínání 1. úrovně*

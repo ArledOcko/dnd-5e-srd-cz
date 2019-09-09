@@ -1,11 +1,10 @@
 # Stínočepel
 
-***Xanatharuv pruvodce vším***
-
 *Shadow blade*
 
- *Iluze 2. úrovně* 
- 
+***Xanatharuv pruvodce vším***
+
+*Iluze 2. úrovně* 
 
 **Vyvolání:** 1 bonusová akce
 

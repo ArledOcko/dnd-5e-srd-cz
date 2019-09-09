@@ -1,5 +1,7 @@
 # REGENERACE
 
+*Regenerate*
+
 ***Příručka hráče***
 
 *Transmutace 7. úrovně*

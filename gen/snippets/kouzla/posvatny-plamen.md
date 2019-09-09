@@ -1,5 +1,7 @@
 # POSVÁTNÝ PLAMEN
 
+*Sacred flame*
+
 ***Příručka hráče***
 
 *Zaklínací trik*

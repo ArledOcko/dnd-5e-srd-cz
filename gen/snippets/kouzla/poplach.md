@@ -1,5 +1,7 @@
 # POPLACH
 
+*Alarm*
+
 ***Příručka hráče***
 
 *Vymítání 1. úrovně (rituál)*

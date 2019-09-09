@@ -1,5 +1,7 @@
 # POHNI ZEMÍ
 
+*Move earth*
+
 ***Příručka hráče***
 
 *Transmutace 6. úrovně*

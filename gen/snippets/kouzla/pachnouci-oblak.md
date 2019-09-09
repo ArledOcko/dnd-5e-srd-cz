@@ -1,5 +1,7 @@
 # PÁCHNOUCÍ OBLAK
 
+*Stinking cloud*
+
 ***Příručka hráče***
 
 *Vyvolávání 3. úrovně*

@@ -1,5 +1,7 @@
 # ROZKLAD
 
+*Disintegrate*
+
 ***Příručka hráče***
 
 *Transmutace 6. úrovně*

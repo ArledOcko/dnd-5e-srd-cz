@@ -1,5 +1,7 @@
 # POROZUMĚNÍ JAZYKŮM
 
+*Comprehend language*
+
 ***Příručka hráče***
 
 *Věštění 1. úrovně (rituál)*

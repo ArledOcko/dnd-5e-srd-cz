@@ -1,5 +1,7 @@
 # SLOVO NÁVRATU
 
+*Word of recall*
+
 ***Příručka hráče***
 
 *Vyvolávání 6. úrovně*

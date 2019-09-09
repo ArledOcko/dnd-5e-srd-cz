@@ -1,5 +1,7 @@
 # STVOŘ PLAMEN
 
+*Produce flame*
+
 ***Příručka hráče***
 
 *Vyvolávací trik*

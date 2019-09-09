@@ -1,5 +1,7 @@
 # OŽIV MRTVÉHO
 
+*Animate dead*
+
 ***Příručka hráče***
 
 *Nekromancie 3. úrovně*

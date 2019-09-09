@@ -1,5 +1,7 @@
 # PEKELNÉ POKÁRÁNÍ
 
+*Hellish rebuke*
+
 ***Příručka hráče***
 
 *Zaklínání 1. úrovně*

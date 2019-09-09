@@ -1,5 +1,7 @@
 # PODROB OSOBU
 
+*Dominate person*
+
 ***Příručka hráče***
 
 *Očarování 5. úrovně*

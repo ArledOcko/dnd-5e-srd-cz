@@ -1,5 +1,7 @@
 # SYMBOL
 
+*Symbol*
+
 ***Příručka hráče***
 
 *Vymítání 7. úrovně*

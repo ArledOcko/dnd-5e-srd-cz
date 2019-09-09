@@ -1,6 +1,6 @@
 # Abi-dalzimovo strašlivé sucho
 
-Abi-Dalzim's horrid witling*
+*Abi-Dalzim's horrid witling*
 
 ***Xanatharuv pruvodce vším***
 

@@ -1,5 +1,7 @@
 # SLABOMYSLNOST
 
+*Feeblemind*
+
 ***Příručka hráče***
 
 *Očarování 6. úrovně*

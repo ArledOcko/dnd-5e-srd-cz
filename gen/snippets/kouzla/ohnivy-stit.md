@@ -1,5 +1,7 @@
 # OHNIVÝ ŠTÍT
 
+*Fire shield*
+
 ***Příručka hráče***
 
 *Zaklínání 4. úrovně*

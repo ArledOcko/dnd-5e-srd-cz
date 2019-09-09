@@ -1,5 +1,7 @@
 # SPEKTRÁLNÍ ZEĎ
 
+*Prismatic wall*
+
 ***Příručka hráče***
 
 *Vymítání 9. úrovně*

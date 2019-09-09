@@ -1,5 +1,7 @@
 # SPOJENÍ
 
+*Commune*
+
 ***Příručka hráče***
 
 *Věštění 5. úrovně* *(rituál)*

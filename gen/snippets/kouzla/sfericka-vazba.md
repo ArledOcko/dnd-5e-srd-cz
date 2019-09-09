@@ -1,5 +1,7 @@
 # SFÉRICKÁ VAZBA
 
+*Planar binding*
+
 ***Příručka hráče***
 
 *Vymítání 5. úrovně*

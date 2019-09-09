@@ -1,5 +1,7 @@
 # ODOLÁNÍ
 
+*Resistance*
+
 ***Příručka hráče***
 
 *Vymítací trik*

@@ -1,5 +1,7 @@
 # STRÁŽNÝ ZNAK
 
+*Glyph of warding*
+
 ***Příručka hráče***
 
 *Vymítání 3. úrovně*

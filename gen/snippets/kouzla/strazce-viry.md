@@ -1,5 +1,7 @@
 # STRÁŽCE VÍRY
 
+*Guardian of faith*
+
 ***Příručka hráče***
 
 *Vyvolávání 4. úrovně*

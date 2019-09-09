@@ -1,5 +1,7 @@
 # SCHRÁNKA ŽIVOTA
 
+*Magic jar*
+
 ***Příručka hráče***
 
 *Nekromancie 6. úrovně*

@@ -1,5 +1,7 @@
 # SPÁNEK
 
+*Sleep*
+
 ***Příručka hráče***
 
 *Očarování 1. úrovně*

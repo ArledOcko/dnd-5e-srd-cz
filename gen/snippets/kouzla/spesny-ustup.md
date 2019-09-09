@@ -1,5 +1,7 @@
 # SPĚŠNÝ ÚSTUP
 
+*Expeditious retreat*
+
 ***Příručka hráče***
 
 *Transmutace 1. úrovně*

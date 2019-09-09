@@ -1,5 +1,7 @@
 # OBLAK MLHY
 
+*Fog cloud*
+
 ***Příručka hráče***
 
 *Vyvolávání 1. úrovně*

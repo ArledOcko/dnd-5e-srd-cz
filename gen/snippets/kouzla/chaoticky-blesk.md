@@ -24,9 +24,7 @@ Každý tvor může být tímto bleskem zasažen jen jednou v rámci jednoho ses
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. blesk způsobí o 1k6 zranění více.
 
 | k8 | Typ zranění |
-| --
-| --
-|
+| -- | -- |
 | 1 | Bleskové |
 | 2 | Hromové |
 | 3 | Chladné |

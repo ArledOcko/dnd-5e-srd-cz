@@ -1,5 +1,7 @@
 # PAPRSEK SLABOSTI
 
+*Ray of enfeeblement*
+
 ***Příručka hráče***
 
 *Nekromancie 2. úrovně*

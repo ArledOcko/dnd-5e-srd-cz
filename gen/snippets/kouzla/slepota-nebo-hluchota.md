@@ -1,5 +1,7 @@
 # SLEPOTA NEBO HLUCHOTA
 
+*Blindness/Deafness*
+
 ***Příručka hráče***
 
 *Nekromancie 2. úrovně*

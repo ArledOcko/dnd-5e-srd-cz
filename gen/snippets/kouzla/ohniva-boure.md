@@ -1,5 +1,7 @@
 # OHNIVÁ BOUŘE
 
+*Fire storm*
+
 ***Příručka hráče***
 
 *Zaklínání 7. úrovně*

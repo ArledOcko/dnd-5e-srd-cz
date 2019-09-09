@@ -1,5 +1,7 @@
 # PODMÍNEČNOST
 
+*Contingency*
+
 ***Příručka hráče***
 
 *Zaklínání 6. úrovně*

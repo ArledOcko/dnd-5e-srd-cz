@@ -1,5 +1,7 @@
 # PORYV VĚTRU
 
+*Gust of wind*
+
 ***Příručka hráče***
 
 *Zaklínání 2. úrovně*

@@ -1,5 +1,7 @@
 # PLAMENNÝ ÚDER
 
+*Flame strike*
+
 ***Příručka hráče***
 
 *Zaklínání 5. úrovně*

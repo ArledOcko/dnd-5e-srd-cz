@@ -1,5 +1,7 @@
 # OHNIVÁ ZEĎ
 
+*Wall of fire*
+
 ***Příručka hráče***
 
 *Zaklínání 4. úrovně*

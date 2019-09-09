@@ -1,5 +1,7 @@
 # SILOVÁ KLEC
 
+*Forcecage*
+
 ***Příručka hráče***
 
 *Zaklínání 7. úrovně*

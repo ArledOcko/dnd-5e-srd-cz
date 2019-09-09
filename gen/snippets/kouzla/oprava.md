@@ -1,5 +1,7 @@
 # OPRAVA
 
+*Mending*
+
 ***Příručka hráče***
 
 *Transmutační trik*

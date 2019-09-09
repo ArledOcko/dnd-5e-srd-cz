@@ -1,5 +1,7 @@
 # SKOK
 
+*Jump*
+
 ***Příručka hráče***
 
 *Transmutace 1. úrovně*

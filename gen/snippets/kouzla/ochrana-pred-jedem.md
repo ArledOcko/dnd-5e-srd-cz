@@ -1,5 +1,7 @@
 # OCHRANA PŘED JEDEM
 
+*Protection from poison*
+
 ***Příručka hráče***
 
 *Vymítání 2. úrovně*

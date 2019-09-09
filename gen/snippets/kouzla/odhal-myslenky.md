@@ -1,5 +1,7 @@
 # ODHAL MYŠLENKY
 
+*Detect thoughts*
+
 ***Příručka hráče***
 
 *Věštění 2. úrovně*

@@ -1,5 +1,7 @@
 # OHNIVÁ KOULE
 
+*Fireball*
+
 ***Příručka hráče***
 
 *Zaklínání 3. úrovně*

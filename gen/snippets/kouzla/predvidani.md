@@ -1,5 +1,7 @@
 # PŘEDVÍDÁNÍ
 
+*Augury*
+
 ***Příručka hráče***
 
 *Věštění 2. úrovně (rituál)*

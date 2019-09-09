@@ -1,5 +1,7 @@
 # PRST SMRTI
 
+*Finger of death*
+
 ***Příručka hráče***
 
 *Nekromancie 7. úrovně*

@@ -1,5 +1,7 @@
 # PŘEDSTÍREJ SMRT
 
+*Feign death*
+
 ***Příručka hráče***
 
 *Nekromancie 3. úrovně (rituál)*

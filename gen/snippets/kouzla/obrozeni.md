@@ -1,5 +1,7 @@
 # OBROZENÍ
 
+*Revivify*
+
 ***Příručka hráče***
 
 *Nekromancie 3. úrovně*

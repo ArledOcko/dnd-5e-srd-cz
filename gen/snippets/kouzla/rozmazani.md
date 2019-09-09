@@ -1,5 +1,7 @@
 # ROZMAZÁNÍ
 
+*Blur*
+
 ***Příručka hráče***
 
 *Iluze 2. úrovně*

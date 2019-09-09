@@ -1,5 +1,7 @@
 # PŘÁNÍ
 
+*Wish*
+
 ***Příručka hráče***
 
 *Vyvolávání 9. úrovně*

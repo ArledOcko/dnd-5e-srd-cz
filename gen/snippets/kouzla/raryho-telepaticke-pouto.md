@@ -1,5 +1,7 @@
 # RARYHO TELEPATICKÉ POUTO
 
+*Rary's telepathic bond*
+
 ***Příručka hráče***
 
 *Věštění 5. úrovně* *(rituál)*

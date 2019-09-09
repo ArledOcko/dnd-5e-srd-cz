@@ -1,5 +1,7 @@
 # SPEKTRÁLNÍ SPRŠKA
 
+*Prismatic spray*
+
 ***Příručka hráče***
 
 *Zaklínání 7. úrovně*

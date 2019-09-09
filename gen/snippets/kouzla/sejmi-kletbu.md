@@ -1,5 +1,7 @@
 # SEJMI KLETBU
 
+*Remove curse*
+
 ***Příručka hráče***
 
 *Vymítání 3. úrovně*

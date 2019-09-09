@@ -1,5 +1,7 @@
 # SLUNEČNÍ ERUPCE
 
+*Sunburst*
+
 ***Příručka hráče***
 
 *Zaklínání 8. úrovně*

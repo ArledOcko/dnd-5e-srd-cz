@@ -1,5 +1,7 @@
 # STRACH
 
+*Fear*
+
 ***Příručka hráče***
 
 *Iluze 3. úrovně*

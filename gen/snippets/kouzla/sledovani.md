@@ -1,5 +1,7 @@
 # SLEDOVÁNÍ
 
+*Scrying*
+
 ***Příručka hráče***
 
 *Věštění 5. úrovně*

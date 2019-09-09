@@ -1,5 +1,7 @@
 # PODROB NESTVŮRU
 
+*Dominate monster*
+
 ***Příručka hráče***
 
 *Očarování 8. úrovně*

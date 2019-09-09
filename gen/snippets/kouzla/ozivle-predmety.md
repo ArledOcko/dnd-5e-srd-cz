@@ -1,5 +1,7 @@
 # OŽIVLÉ PŘEDMĚTY
 
+*Animate objects*
+
 ***Příručka hráče***
 
 *Transmutace 5. úrovně*

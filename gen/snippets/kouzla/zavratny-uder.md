@@ -1,5 +1,7 @@
 # ZÁVRATNÝ ÚDER
 
+*Staggering smite*
+
 ***Příručka hráče***
 
 *Zaklínání 4. úrovně*

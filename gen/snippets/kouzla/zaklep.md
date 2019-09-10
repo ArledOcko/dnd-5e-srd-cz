@@ -1,5 +1,7 @@
 # ZAKLEP
 
+*Knock*
+
 ***Příručka hráče***
 
 *Transmutace 2. úrovně*

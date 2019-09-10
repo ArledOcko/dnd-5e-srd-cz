@@ -1,5 +1,7 @@
 # ZEĎ SÍLY
 
+*Wall of force*
+
 ***Příručka hráče***
 
 *Zaklínání 5. úrovně*

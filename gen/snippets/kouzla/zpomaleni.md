@@ -1,5 +1,7 @@
 # ZPOMALENÍ
 
+*Slow*
+
 ***Příručka hráče***
 
 *Transmutace 3. úrovně*

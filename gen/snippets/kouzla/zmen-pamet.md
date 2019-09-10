@@ -1,5 +1,7 @@
 # ZMĚŇ PAMĚŤ
 
+*Modify memory*
+
 ***Příručka hráče***
 
 *Očarování 5. úrovně*

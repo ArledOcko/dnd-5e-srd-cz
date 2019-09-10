@@ -1,5 +1,7 @@
 # ZNAMENÍ PROTI SMRTI
 
+*Death ward*
+
 ***Příručka hráče***
 
 *Vymítání 4. úrovně*

@@ -1,5 +1,7 @@
 # VYVOLEJ NIŽŠÍ ELEMENTÁLY
 
+*Conjure minor elementals*
+
 ***Příručka hráče***
 
 *Vyvolávání 4. úrovně*

@@ -1,5 +1,7 @@
 # VĚŠTĚNÍ
 
+*Divination*
+
 ***Příručka hráče***
 
 *Věštění 4. úrovně* *(rituál)*

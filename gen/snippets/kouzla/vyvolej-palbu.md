@@ -1,5 +1,7 @@
 # VYVOLEJ PALBU
 
+*Conjure barrage*
+
 ***Příručka hráče***
 
 *Vyvolávání 3. úrovně*

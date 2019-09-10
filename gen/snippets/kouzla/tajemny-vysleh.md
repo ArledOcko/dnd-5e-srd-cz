@@ -1,5 +1,7 @@
 # TAJEMNÝ VÝŠLEH
 
+*Eldritch blast*
+
 ***Příručka hráče***
 
 *Zaklínací trik*

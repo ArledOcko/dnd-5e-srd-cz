@@ -1,5 +1,7 @@
 # ZNOVUZROZENÍ
 
+*True resurrection*
+
 ***Příručka hráče***
 
 *Nekromancie 9. úrovně*

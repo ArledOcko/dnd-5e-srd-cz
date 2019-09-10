@@ -1,5 +1,7 @@
 # ZMRZLÝ DÉŠŤ
 
+*Sleet storm*
+
 ***Příručka hráče***
 
 *Vyvolávání 3. úrovně*

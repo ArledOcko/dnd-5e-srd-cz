@@ -1,5 +1,7 @@
 # ZÁKAZ
 
+*Forbiddance*
+
 ***Příručka hráče***
 
 *Vymítání 5. úrovně* (*rituál*)

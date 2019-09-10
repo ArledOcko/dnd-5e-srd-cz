@@ -1,5 +1,7 @@
 # ZRAŇ
 
+*Harm*
+
 ***Příručka hráče***
 
 *Nekromancie 6. úrovně*

@@ -1,5 +1,7 @@
 # ZAHALENÍ
 
+*Sequester*
+
 ***Příručka hráče***
 
 *Transmutace 7. úrovně*

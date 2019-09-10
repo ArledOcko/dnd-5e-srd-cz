@@ -1,5 +1,7 @@
 # TELEKINEZE
 
+*Telekinesis*
+
 ***Příručka hráče***
 
 *Transmutace 5. úrovně*

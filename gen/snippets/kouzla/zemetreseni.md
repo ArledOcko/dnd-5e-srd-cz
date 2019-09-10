@@ -1,5 +1,7 @@
 # ZEMĚTŘESENÍ
 
+*Earthquake*
+
 ***Příručka hráče***
 
 *Zaklínání 8. úrovně*

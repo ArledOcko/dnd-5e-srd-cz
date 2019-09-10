@@ -1,5 +1,7 @@
 # ZPŮSOB ZRANĚNÍ
 
+*Inflict wounds*
+
 ***Příručka hráče***
 
 *Nekromancie 1. úrovně*

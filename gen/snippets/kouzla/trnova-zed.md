@@ -1,5 +1,7 @@
 # TRNOVÁ ZEĎ
 
+*Wall of thorns*
+
 ***Příručka hráče***
 
 *Vyvolávání 6. úrovně*

@@ -1,5 +1,7 @@
 # VYPUZENÍ
 
+*Banishment*
+
 ***Příručka hráče***
 
 *Vymítání 4. úrovně*

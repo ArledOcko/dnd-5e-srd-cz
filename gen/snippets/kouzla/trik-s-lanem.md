@@ -1,5 +1,7 @@
 # TRIK S LANEM
 
+*Rope trick*
+
 ***Příručka hráče***
 
 *Transmutace 2. úrovně*

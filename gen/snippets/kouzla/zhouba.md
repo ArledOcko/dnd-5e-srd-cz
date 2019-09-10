@@ -1,5 +1,7 @@
 # ZHOUBA
 
+*Bane*
+
 ***Příručka hráče***
 
 *Očarování 1. úrovně*

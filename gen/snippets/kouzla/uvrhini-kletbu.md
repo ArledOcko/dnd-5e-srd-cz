@@ -1,5 +1,7 @@
 # UVRHINI KLETBU
 
+*Bestow curse*
+
 ***Příručka hráče***
 
 *Nekromancie 3. úrovně*

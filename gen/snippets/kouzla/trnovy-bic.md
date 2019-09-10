@@ -1,5 +1,7 @@
 # TRNOVÝ BIČ
 
+*Thorn whip*
+
 ***Příručka hráče***
 
 *Transmutační trik*

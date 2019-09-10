@@ -1,5 +1,7 @@
 # UZDRAV
 
+*Heal*
+
 ***Příručka hráče***
 
 *Zaklínání 6. úrovně*

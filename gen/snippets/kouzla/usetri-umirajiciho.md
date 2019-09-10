@@ -1,5 +1,7 @@
 # UŠETŘI UMÍRAJÍCÍHO
 
+*Space the dying*
+
 ***Příručka hráče***
 
 *Nekromantický trik*

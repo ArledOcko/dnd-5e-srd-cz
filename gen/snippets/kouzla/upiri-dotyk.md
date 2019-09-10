@@ -1,5 +1,7 @@
 # UPÍŘÍ DOTYK
 
+*Vampiric touch*
+
 ***Příručka hráče***
 
 *Nekromancie 3. úrovně*

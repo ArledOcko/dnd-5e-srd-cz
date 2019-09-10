@@ -1,5 +1,7 @@
 # TELEPORTAČNÍ KRUH
 
+*Teleportation circle*
+
 ***Příručka hráče***
 
 *Vyvolávání 5. úrovně*

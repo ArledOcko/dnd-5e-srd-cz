@@ -1,5 +1,7 @@
 # VOLNOST
 
+*Freedom of movement*
+
 ***Příručka hráče***
 
 *Vymítání 4. úrovně*

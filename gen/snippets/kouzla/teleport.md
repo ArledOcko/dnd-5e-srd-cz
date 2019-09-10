@@ -1,5 +1,7 @@
 # TELEPORT
 
+*Teleport*
+
 ***Příručka hráče***
 
 *Vyvolávání 7. úrovně*

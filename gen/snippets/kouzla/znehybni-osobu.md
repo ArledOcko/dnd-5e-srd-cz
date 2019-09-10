@@ -1,5 +1,7 @@
 # ZNEHYBNI OSOBU
 
+*Hold person*
+
 ***Příručka hráče***
 
 *Očarování 2. úrovně*

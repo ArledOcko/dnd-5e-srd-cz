@@ -1,5 +1,7 @@
 # VYNUCENÝ DUEL
 
+*Compelled duel*
+
 ***Příručka hráče***
 
 *Zaklínání 1. úrovně*

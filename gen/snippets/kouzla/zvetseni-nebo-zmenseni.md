@@ -1,5 +1,7 @@
 # ZVĚTŠENÍ NEBO ZMENŠENÍ
 
+*Enlarge/reduce*
+
 ***Příručka hráče***
 
 *Transmutace 2. úrovně*

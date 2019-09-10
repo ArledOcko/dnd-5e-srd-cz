@@ -1,5 +1,7 @@
 # ZRCADLOVÝ OBRAZ
 
+*Mirror image*
+
 ***Příručka hráče***
 
 *Iluze 2. úrovně*

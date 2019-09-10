@@ -1,5 +1,7 @@
 # UKLIDNI EMOCE
 
+*Calm emotion*
+
 ***Příručka hráče***
 
 *Zaklínání 2. úrovně*

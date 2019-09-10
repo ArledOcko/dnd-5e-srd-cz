@@ -1,5 +1,7 @@
 # ZHOTOV
 
+*Fabricate*
+
 ***Příručka hráče***
 
 *Transmutace 4. úrovně*

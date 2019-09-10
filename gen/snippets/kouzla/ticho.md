@@ -1,5 +1,7 @@
 # TICHO
 
+*Silence*
+
 ***Příručka hráče***
 
 *Iluze 2. úrovně (rituál)*

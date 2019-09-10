@@ -1,5 +1,7 @@
 # VĚTRNÁ ZEĎ
 
+*Wind wall*
+
 ***Příručka hráče***
 
 *Zaklínání 3. úrovně*

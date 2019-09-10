@@ -1,5 +1,7 @@
 # ZASTAV ČAS
 
+*Time stop*
+
 ***Příručka hráče***
 
 *Transmutace 9. úrovně*

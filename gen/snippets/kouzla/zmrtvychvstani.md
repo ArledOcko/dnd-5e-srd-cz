@@ -1,5 +1,7 @@
 # ZMRTVÝCHVSTÁNÍ
 
+*Resurrection*
+
 ***Příručka hráče***
 
 *Nekromancie 7. úrovně*

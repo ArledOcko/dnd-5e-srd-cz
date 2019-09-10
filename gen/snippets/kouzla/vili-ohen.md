@@ -1,5 +1,7 @@
 # VÍLÍ OHEŇ
 
+*Faerie fire*
+
 ***Příručka hráče***
 
 *Zaklínání 1. úrovně*

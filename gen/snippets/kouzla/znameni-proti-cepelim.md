@@ -1,5 +1,7 @@
 # ZNAMENÍ PROTI ČEPELÍM
 
+*Blade ward*
+
 ***Příručka hráče***
 
 *Vymítací trik*

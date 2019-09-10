@@ -1,5 +1,7 @@
 # TSUNAMI
 
+*Tsunami*
+
 ***Příručka hráče***
 
 *Vyvolávání 8. úrovně*

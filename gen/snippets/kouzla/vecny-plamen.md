@@ -1,5 +1,7 @@
 # VĚČNÝ PLAMEN
 
+*Continual flame*
+
 ***Příručka hráče***
 
 *Zaklínání 2. úrovně*

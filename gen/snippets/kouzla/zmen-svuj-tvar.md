@@ -1,5 +1,7 @@
 # ZMĚŇ SVŮJ TVAR
 
+*Alter self*
+
 ***Příručka hráče***
 
 *Transmutace 2. úrovně*

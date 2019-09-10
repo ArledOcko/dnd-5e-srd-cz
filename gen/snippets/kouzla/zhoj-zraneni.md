@@ -1,5 +1,7 @@
 # ZHOJ ZRANĚNÍ
 
+*Cure wounds*
+
 ***Příručka hráče***
 
 *Zaklínání 1. úrovně*

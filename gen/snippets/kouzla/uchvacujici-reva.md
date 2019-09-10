@@ -1,5 +1,7 @@
 # UCHVACUJÍCÍ RÉVA
 
+*Grasping vine*
+
 ***Příručka hráče***
 
 *Vyvolávání 4. úrovně*

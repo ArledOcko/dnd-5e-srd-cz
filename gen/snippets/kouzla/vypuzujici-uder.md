@@ -1,5 +1,7 @@
 # VYPUZUJÍCÍ ÚDER
 
+*Banishing smite*
+
 ***Příručka hráče***
 
 *Vymítání 5. úrovně*

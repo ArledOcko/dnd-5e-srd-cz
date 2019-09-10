@@ -1,5 +1,7 @@
 # ÚDER ZLOBY
 
+*Wrathful smite*
+
 ***Příručka hráče***
 
 *Zaklínání 1. úrovně*

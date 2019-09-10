@@ -1,5 +1,7 @@
 # VÝŘEČNOSTI
 
+*Glibness*
+
 ***Příručka hráče***
 
 *Transmutace 8. úrovně*

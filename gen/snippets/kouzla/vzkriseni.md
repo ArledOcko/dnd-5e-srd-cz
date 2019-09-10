@@ -1,5 +1,7 @@
 # VZKŘÍŠENÍ
 
+*Raise dead*
+
 ***Příručka hráče***
 
 *Nekromancie 5. úrovně*

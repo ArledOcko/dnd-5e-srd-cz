@@ -1,5 +1,7 @@
 # UKRYJ MYSL
 
+*Mind blank*
+
 ***Příručka hráče***
 
 *Vymítání 8. úrovně*

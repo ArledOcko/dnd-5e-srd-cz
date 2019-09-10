@@ -1,5 +1,7 @@
 # UBROUSKU, PROSTŘI SE!
 
+*Heroes' feast*
+
 ***Příručka hráče***
 
 *Vyvolávání 6. úrovně*

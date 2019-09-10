@@ -1,5 +1,7 @@
 # TENSERŮV LEVITUJÍCÍ DISK
 
+*Tenser's Floating disk*
+
 ***Příručka hráče***
 
 *Vyvolávání 1. úrovně (rituál)*

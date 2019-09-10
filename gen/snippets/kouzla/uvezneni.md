@@ -1,5 +1,7 @@
 # UVĚZNĚNÍ
 
+*Imprisonment*
+
 ***Příručka hráče***
 
 *Vymítání 9. úrovně*

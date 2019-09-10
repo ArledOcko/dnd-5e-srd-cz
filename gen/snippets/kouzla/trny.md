@@ -1,5 +1,7 @@
 # TRNY
 
+*Spike growth*
+
 ***Příručka hráče***
 
 *Transmutace 2. úrovně*

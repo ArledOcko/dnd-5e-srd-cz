@@ -1,5 +1,7 @@
 # TELEPATIE
 
+*Telepathy*
+
 ***Příručka hráče***
 
 *Zaklínání 8. úrovně*

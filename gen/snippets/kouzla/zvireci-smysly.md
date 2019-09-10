@@ -1,5 +1,7 @@
 # ZVÍŘECÍ SMYSLY
 
+*Beast sense*
+
 ***Příručka hráče***
 
 *Věštění 2. úrovně (rituál)*

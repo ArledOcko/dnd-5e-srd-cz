@@ -1,5 +1,7 @@
 # ZLOMYSLNÝ VÝSMĚCH
 
+*Vicious mockery*
+
 ***Příručka hráče***
 
 *Očarovací trik*

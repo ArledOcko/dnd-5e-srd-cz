@@ -1,5 +1,7 @@
 # TMA
 
+*Darkness*
+
 ***Příručka hráče***
 
 *Zaklínání 2. úrovně*

@@ -1,5 +1,7 @@
 # TICHÝ OBRAZ
 
+*Silent image*
+
 ***Příručka hráče***
 
 *Iluze 1. úrovně*

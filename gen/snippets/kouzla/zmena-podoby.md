@@ -1,5 +1,7 @@
 # ZMĚNA PODOBY
 
+*Shapechange*
+
 ***Příručka hráče***
 
 *Transmutace 9. úrovně*

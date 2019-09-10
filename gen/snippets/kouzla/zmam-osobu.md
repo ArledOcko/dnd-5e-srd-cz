@@ -1,5 +1,7 @@
 # ZMAM OSOBU
 
+*Charm person*
+
 ***Příručka hráče***
 
 *Očarování 1. úrovně*

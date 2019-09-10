@@ -1,5 +1,7 @@
 # VEJDI DO KAMENE
 
+*Meld into stone*
+
 ***Příručka hráče***
 
 *Transmutace 3. úrovně* *(rituál)*

@@ -1,5 +1,7 @@
 # VELKÝ OBRAZ
 
+*Major image*
+
 ***Příručka hráče***
 
 *Iluze 3. úrovně*

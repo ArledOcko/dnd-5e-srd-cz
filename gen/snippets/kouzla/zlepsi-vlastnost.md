@@ -1,5 +1,7 @@
 # ZLEPŠI VLASTNOST
 
+*Enchance ability*
+
 ***Příručka hráče***
 
 *Transmutace 2. úrovně*

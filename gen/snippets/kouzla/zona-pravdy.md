@@ -1,5 +1,7 @@
 # ZÓNA PRAVDY
 
+*Zone of truth*
+
 ***Příručka hráče***
 
 *Očarování 2. úrovně*

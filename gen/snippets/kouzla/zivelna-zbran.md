@@ -1,5 +1,7 @@
 # ŽIVELNÁ ZBRAŇ
 
+*Elemental weapon*
+
 ***Příručka hráče***
 
 *Transmutace 3. úrovně*

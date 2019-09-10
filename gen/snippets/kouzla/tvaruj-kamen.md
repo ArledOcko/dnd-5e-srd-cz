@@ -1,5 +1,7 @@
 # TVARUJ KÁMEN
 
+*Stone shape*
+
 ***Příručka hráče***
 
 *Transmutace 4. úrovně*

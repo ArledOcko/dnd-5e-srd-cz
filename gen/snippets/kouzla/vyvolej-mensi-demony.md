@@ -4,8 +4,7 @@
 
 ***Xanatharuv pruvodce vším***
 
- *Vyvolávání 3. úrovně* 
- 
+*Vyvolávání 3. úrovně* 
 
 **Vyvolání:** 1 akce
 
@@ -20,9 +19,7 @@
 Vyřkneš odporná slova a vyvoláš tak démony z hlubin Propasti. Hoď si k6 abys určil, co se ti povedlo přivolat:
 
 | k6  | Přivolaní démoni |
-| --
-| ---------------
-|
+| -- | --------------- |
 | 1–2 | Dva démoni s nebezpečností 1 nebo nižší |
 | 3–4 | Čtyři démoni s nebezpečností 1/2 nebo nižší |
 | 5–6 | Osm démonů s nebezpečností 1/4 nebo nižší |

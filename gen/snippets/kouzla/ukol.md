@@ -1,5 +1,7 @@
 # ÚKOL
 
+*Geas*
+
 ***Příručka hráče***
 
 *Očarování 5. úrovně*

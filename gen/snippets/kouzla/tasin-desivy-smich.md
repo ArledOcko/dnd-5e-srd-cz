@@ -1,5 +1,7 @@
 # TAŠIN DĚSIVÝ SMÍCH
 
+*Tasha's Hideous laughter*
+
 ***Příručka hráče***
 
 *Očarování 1. úrovně*

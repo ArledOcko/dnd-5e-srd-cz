@@ -1,4 +1,6 @@
 # Cesta totemového válečníka
+
+***Příručka hráče***
   
 Cesta totemového válečníka je duchovní cesta, kdy barbar přijme ducha zvířete jako rádce, ochránce a inspiraci. V souboji tě tvůj totemový duch naplní nadpřirozenu mocí a magicky rozpálí tvoji barbarskou zuřivost.
   

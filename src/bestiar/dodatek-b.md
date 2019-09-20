@@ -701,7 +701,7 @@ Statistiky šlechtice se dají použít i pro **dvořany**, kteří nemají ur
     challenge="1 (200 ZK)"
     > 
  
-***Mazaná akce.*** Každý svůj tah může špeh provést Odpoutání se, Schování nebo Úprk jako bonusovou akci.
+***Mazaná akce.*** Každý svůj tah může špeh provést Odpoutání se, Schování nebo Sprint jako bonusovou akci.
   
 ***Zákeřný útok (1/tah).*** Špeh způsobí dodatečné zranění 7 (2k6) cíli, kterého zasáhne útokem zbraní, pokud má k hodu na útok výhodu, nebo pokud nemá nevýhodu k hodu na útok a do 1 sáhu od cíle je jiný cílův nepřítel, který není neschopný.
   

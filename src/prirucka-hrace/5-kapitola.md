@@ -459,7 +459,7 @@ Tato část popisuje předměty, které mají zvláštní pravidla, nebo vyžadu
   
 ***Stan.*** Jde o jednoduchý a přenosný plátěný příbytek, ve kterém se vyspí dvě osoby.
   
-***Svatý symbol.*** Svatý symbol je malé znázornění boha nebo panteonu. Může to být amulet, který zobrazuje symbol znázorňující božstvo, ten stejný symbol pečlivě vyrytý či vykládaný jako emblém na štítu, nebo krabička obsahující fragment posvátné relikvie. Dodatek B uvádí symboly běžně spojované s mnoha bohy v multivesmíru. Klerik nebo paladin mohou použít svatý symbol jako sesílací ohniskový předmět, jak je popsáno v 10. kapitole. Aby sesilatel použil symbol tímto způsobem, musí ho držet v ruce, mít viditelně na sobě nebo na štítu.
+***Svatý symbol.*** Svatý symbol je malé znázornění boha nebo panteonu. Může to být amulet, který zobrazuje symbol znázorňující božstvo, ten stejný symbol pečlivě vyrytý či vykládaný jako emblém na štítu, nebo krabička obsahující fragment posvátné relikvie. Dodatek B uvádí symboly běžně spojované s mnoha bohy v mnohovesmíru. Klerik nebo paladin mohou použít svatý symbol jako sesílací ohniskový předmět, jak je popsáno v 10. kapitole. Aby sesilatel použil symbol tímto způsobem, musí ho držet v ruce, mít viditelně na sobě nebo na štítu.
   
 ***Svěcená voda.*** Jako akci můžeš vychrstnout obsah této lahvice na cíl do 1 sáhu od tebe, nebo ji vrhnout do dálky až 4 sáhy, kde se při dopadu rozbije. V každém případě zaútočíš na dálku proti cílovému tvorovi, přičemž ber svěcenou vodu jako improvizovanou zbraň. Je-li cíl běs nebo nemrtvý, utrpí svěcenou vodou zářivé zranění 2k6.
   

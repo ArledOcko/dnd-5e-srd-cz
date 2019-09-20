@@ -6,11 +6,11 @@ Tato kapitola obsahuje pravidla pro sesílání kouzel. Různá povolání posta
   
 ## Co je kouzlo?
   
-Kouzlo je samostatný magický účinek, jedno tvarování magických energií, které zalije multivesmír do specifického, omezeného vyjádření. Při sesílání kouzla postava opatrně utrhává neviditelná vlákna surové magie zaplavující svět a připne je na místo podle konkrétní šablony, nechá je určitým způsobem vibrovat a pak je vypustí do požadovaného účinku — ve většině případů se vše odehraje v rámci sekund.
+Kouzlo je samostatný magický účinek, jedno tvarování magických energií, které zalije mnohovesmír do specifického, omezeného vyjádření. Při sesílání kouzla postava opatrně utrhává neviditelná vlákna surové magie zaplavující svět a připne je na místo podle konkrétní šablony, nechá je určitým způsobem vibrovat a pak je vypustí do požadovaného účinku — ve většině případů se vše odehraje v rámci sekund.
   
 Kouzla mohou být různými pomůckami, zbraněmi nebo ochranami. Mohou způsobovat nebo napravovat zranění, způsobovat nebo odstraňovat stavy (viz dodatek A), vysávat životní energii a obnovovat život mrtvým.
   
-V průběhu historie multivesmíru bylo vytvořeno nespočet tisíc kouzel a mnoho z nich je dávno zapomenutých. Některá mohou ležet zaznamenaná v rozpadajících se knihách kouzel ukrytých v prastarých zříceninách, nebo uvězněná v myslích mrtvých bohů. Nebo je může jednoho dne znovu vymyslet postava, která pro to nashromáždí dostatek moci a moudrosti.
+V průběhu historie mnohovesmíru bylo vytvořeno nespočet tisíc kouzel a mnoho z nich je dávno zapomenutých. Některá mohou ležet zaznamenaná v rozpadajících se knihách kouzel ukrytých v prastarých zříceninách, nebo uvězněná v myslích mrtvých bohů. Nebo je může jednoho dne znovu vymyslet postava, která pro to nashromáždí dostatek moci a moudrosti.
   
 ### Úroveň kouzla
   
@@ -217,7 +217,7 @@ Výchozí bod válce je zahrnut do oblasti účinku válce.
 <Card header="Tkanivo magie">
 
 
-Světy v multivesmíru D&D jsou magická místa. Veškerá existence je prodchnutá magickou mocí a potenciální energie leží nevyužita v každé skále, potoku, živém tvorovi, a dokonce i v samotném vzduchu. Surová magie je tvůrčí materiál, němá a neinteligentní vůle existence, prostupující každým kouskem látky a přítomná v každém projevu energie po celém multivesmíru.
+Světy v mnohovesmíru D&D jsou magická místa. Veškerá existence je prodchnutá magickou mocí a potenciální energie leží nevyužita v každé skále, potoku, živém tvorovi, a dokonce i v samotném vzduchu. Surová magie je tvůrčí materiál, němá a neinteligentní vůle existence, prostupující každým kouskem látky a přítomná v každém projevu energie po celém mnohovesmíru.
 
 Smrtelníci nemohou tuto surovou magii tvarovat přímo. Místo toho využívají tkaniny magie, jistého druhu rozhraní mezi vůlí sesilatele kouzel a materiálem surové magie. Sesilatelé kouzel ve Forgotten Realms ji nazývají Tkanivo a chápou jeho podstatu v podobě bohyně Mystry, ale sesilatelé obecně mají nejrůznější způsoby pojmenování a představování si tohoto rozhraní. Nezávisle na pojmenování, bez Tkaniva je surová magie pod zámkem a nedostupná; ani nejmocnější arcimág nemůže zapálit svíčku pomocí magie v oblasti, kde se Tkanivo rozpáralo. Ale když je sesilatel kouzel obklopen Tkanivem, může bleskem usmažit nepřátele, v mžiku se přesunout stovky mil, nebo dokonce obrátit samotnou smrt.
 

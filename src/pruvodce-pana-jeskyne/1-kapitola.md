@@ -108,7 +108,7 @@ Jako příklad těsného panteonu slouží severská božstva. Odin je vůdce pa
 <Card header="Božská hodnost">
 
   
-Božské bytosti multivesmíru se často třídí podle vesmírné moci. Někteří bohové jsou uctíváni v několika světech a v každém z nich mají jinou hodnost, v závislosti na jejich tamním vlivu.
+Božské bytosti mnohovesmíru se často třídí podle vesmírné moci. Někteří bohové jsou uctíváni v několika světech a v každém z nich mají jinou hodnost, v závislosti na jejich tamním vlivu.
   
 **Mocná božstva** jsou mimo chápání smrtelníků. Nedají se přivolat a v podstatě nikdy se nezapojují do záležitostí smrtelníků přímo. Ve velmi vzácných případech zjevují avatary podobné nižším božstvům, ale poražení avatara mocného božstva nemá žádný vliv na samotného boha.
   
@@ -603,7 +603,7 @@ Vysoká úroveň zbožnosti může vést i k tomu, že postava získá trval
   
 ## Magie ve tvém světě
   
-Ve většině D&D světů je magie přirozená, ale přesto podivuhodná a někdy nahánějící strach. Obyvatelé všude na světě o magii ví a většina obyvatel se o ní někdy během svého života přesvědčí. Magie prostupuje vesmírem a proudí prastarými předměty legendárních hrdinů, tajemnými ruinami padlých říší, tvory jichž se dotkli bohové, tvory s vrozenou nadpřirozenou mocí a jedinci, kteří studují tajemství multivesmíru. Dějiny a historky u táboráku jsou plné hrdinských činů těch, kdo si ji osvojili.
+Ve většině D&D světů je magie přirozená, ale přesto podivuhodná a někdy nahánějící strach. Obyvatelé všude na světě o magii ví a většina obyvatel se o ní někdy během svého života přesvědčí. Magie prostupuje vesmírem a proudí prastarými předměty legendárních hrdinů, tajemnými ruinami padlých říší, tvory jichž se dotkli bohové, tvory s vrozenou nadpřirozenou mocí a jedinci, kteří studují tajemství mnohovesmíru. Dějiny a historky u táboráku jsou plné hrdinských činů těch, kdo si ji osvojili.
   
 Co normální obyvatelé vědí o magii závisí na tom, kde žijí a jestli znají někoho, kdo ovládá magii. Obyvatelé osamělé vísky možná nikdy neviděli použití skutečné magie po generace a šeptem si vypráví o podivných schopnostech starého poustevníka žijícího v blízkých lesích. Ve velkoměstě Hlubina ve světě Forgotten Realms je cech kouzelníků zvaný Bdělý řád magistrů a ochránců. Tito mystici chtějí kouzelnictví více zpřístupnit, aby mohli profitovat z prodeje svých služeb.
   
@@ -1162,9 +1162,9 @@ Zanícení sesilatelé kouzel na tomto stupni ovládají otřesná kouzla 9. úr
   
 Dobrodružství na těchto úrovních mají dalekosáhlé důsledky, které nejspíš rozhodují o osudu milionů obyvatel v Materiální sféře, a dokonce i místech mimo ni. Postavy putují do říší v jiných světech a prozkoumávají polosféry a jiné mimosférické lokality, kde bojují s divokými démony, titány, arciďábly, nemrtvými arcimágy, a dokonce i ztělesněními samotných bohů. Draci, se kterými se střetávají, jsou šarkani s děsivou mocí, jejichž spánek trápí království a jejichž chůze ohrožuje samotnou existenci.
   
-Postavy, které dosáhnou 20. úrovně, dosáhly vrcholu, který je pro smrtelníky dosažitelný. Jejich skutky jsou zapsány v kronikách a líčeny bardy po celá staletí. Naplnil se jejich konečný osud. Klerik mohl být vzat do nebes, aby sloužil jako pravá ruka boha. Černokněžník se mohl stát patronem jiných černokněžníků. Kouzelník možná rozlouskl tajemství nesmrtelnosti (či nemrtvosti) a díky ní zkoumá nejzazší kouty multivesmíru. Druid mohl splynout se zemí a přeměnit se v ducha přírody dané země, nebo v aspekt divočiny. Ostatní postavy mohly založit kmeny či dynastie, které z generace na generaci ctí památku svých vážených předků, vytvořit mistrovská literární díla, která se zpívají a opětovně vypráví tisíce let, nebo založit cechy či řády, které udržují na živu zásady a sny dobrodruhů.
+Postavy, které dosáhnou 20. úrovně, dosáhly vrcholu, který je pro smrtelníky dosažitelný. Jejich skutky jsou zapsány v kronikách a líčeny bardy po celá staletí. Naplnil se jejich konečný osud. Klerik mohl být vzat do nebes, aby sloužil jako pravá ruka boha. Černokněžník se mohl stát patronem jiných černokněžníků. Kouzelník možná rozlouskl tajemství nesmrtelnosti (či nemrtvosti) a díky ní zkoumá nejzazší kouty mnohovesmíru. Druid mohl splynout se zemí a přeměnit se v ducha přírody dané země, nebo v aspekt divočiny. Ostatní postavy mohly založit kmeny či dynastie, které z generace na generaci ctí památku svých vážených předků, vytvořit mistrovská literární díla, která se zpívají a opětovně vypráví tisíce let, nebo založit cechy či řády, které udržují na živu zásady a sny dobrodruhů.
   
-Dosáhnutí tohoto bodu nutně nenařizuje konec tažení. Tyto mocné postavy mohou být povolány, aby podstoupily velká dobrodružství vesmírné úrovně. A výsledkem těchto dobrodružství se mohou jejich schopnosti dále vyvíjet. Postavy v tomto stádiu již nezískávají další úrovně, ale stále se mohou rozvíjet smysluplnými způsoby a pokračovat v konání legendárních činů, které mají ohlas napříč multivesmírem. 7. kapitola pojednává o legendárních laskavostech, které můžeš použít jako odměny pro tyto postavy, aby si udržely pocit rozvoje.
+Dosáhnutí tohoto bodu nutně nenařizuje konec tažení. Tyto mocné postavy mohou být povolány, aby podstoupily velká dobrodružství vesmírné úrovně. A výsledkem těchto dobrodružství se mohou jejich schopnosti dále vyvíjet. Postavy v tomto stádiu již nezískávají další úrovně, ale stále se mohou rozvíjet smysluplnými způsoby a pokračovat v konání legendárních činů, které mají ohlas napříč mnohovesmírem. 7. kapitola pojednává o legendárních laskavostech, které můžeš použít jako odměny pro tyto postavy, aby si udržely pocit rozvoje.
   
 ### Začínání na vyšší úrovni
   

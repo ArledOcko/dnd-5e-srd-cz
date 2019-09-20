@@ -2042,7 +2042,7 @@ Kostka ztratí dávky, když je bariéra zacílena jistými kouzly, nebo přijde
   
 *Divotvorný předmět, legendární*
   
-Tato černá koule o průměru 2 stopy je dírou v multivesmíru, která pluje prostorem a je stabilizovaná magickým polem kolem ní.
+Tato černá koule o průměru 2 stopy je dírou v mnohovesmíru, která pluje prostorem a je stabilizovaná magickým polem kolem ní.
   
 Koule vymaže všechnu hmotu, kterou projde, a všechnu hmotu, která projde jí. Výjimkou jsou artefakty. Pokud artefakt není citlivý na poškození z *koule anihilace*, projde koulí bez poškození. Cokoliv jiného se dotkne koule, ale není zcela pohlceno a vymazáno, utrpí silové zranění 4k10.
   
@@ -4190,7 +4190,7 @@ Kladivo si také v sobě nese tajnou hanbu. Před staletími ho chrabře použ
   
 ## Artefakty
   
-Artefakt je unikátní kouzelný předmět s obrovskou mocí, svým vlastním původem a historií. Artefakt mohli stvořit bohové nebo smrtelníci s ohromnou mocí. Mohl být stvořen uprostřed krize, která ohrožovala království, svět, nebo celý multivesmír, a hrát ústřední roli v onom rozhodujícím historickém okamžiku.
+Artefakt je unikátní kouzelný předmět s obrovskou mocí, svým vlastním původem a historií. Artefakt mohli stvořit bohové nebo smrtelníci s ohromnou mocí. Mohl být stvořen uprostřed krize, která ohrožovala království, svět, nebo celý mnohovesmír, a hrát ústřední roli v onom rozhodujícím historickém okamžiku.
   
 Některé artefakty se objevují, když je jich nejvíce potřeba. Pro jiné platí přesný opak; když se objeví, svět se následkem onoho nálezu otřese. V každém případě, uvedení artefaktu do tažení vyžaduje zralou úvahu. Artefakt může být předmět, který se snaží získat soupeřící strany, nebo to může být něco, co potřebují dobrodruzi, aby přemohli svou největší výzvu.
   
@@ -4409,19 +4409,19 @@ Kdykoliv se s *Knihou odporné temnoty* sladí tvor, který není zlý, musí 
   
 ***Zničení knihy.*** Z *Knihy odborné temnoty* lze vytrhávat listy, ale zlé znalosti obsažené na těchto stranách si nakonec najdou způsob, jak se dostat zpět do knihy, obvykle když do rukověti přidává stránky nový autor.
   
-Pokud solár roztrhne knihu vedví, kniha se zničí na 1k% let, načež se objeví opravená v nějakém temném koutu multivesmíru.
+Pokud solár roztrhne knihu vedví, kniha se zničí na 1k% let, načež se objeví opravená v nějakém temném koutu mnohovesmíru.
   
-Tvor, který je sladěný s knihou sto let, může odkrýt formuli skrytou v původním textu, která, když se přeloží do nebesštiny a vyřkne nahlas, zničí mluvčího i knihu v oslepujícím záblesku světla. Ale dokud v multivesmíru existuje zlo, kniha se znovu objeví za 1k10 × 100 let.
+Tvor, který je sladěný s knihou sto let, může odkrýt formuli skrytou v původním textu, která, když se přeloží do nebesštiny a vyřkne nahlas, zničí mluvčího i knihu v oslepujícím záblesku světla. Ale dokud v mnohovesmíru existuje zlo, kniha se znovu objeví za 1k10 × 100 let.
   
-Pokud se v multivesmíru vymýtí všechno zlo, kniha se promění v prach a je navždy zničena.
+Pokud se v mnohovesmíru vymýtí všechno zlo, kniha se promění v prach a je navždy zničena.
   
 #### Kniha vznešených skutků
   
 *Divotvorný předmět, artefakt (vyžaduje sladění s tvorem s dobrým přesvědčením)*
   
-*Kniha vznešených skutků*, konečné pojednání o všem, co je v multivesmíru dobré, má význačné postavení v mnoha náboženstvích. Nejde o posvátnou knihu konkrétní víry, ale nejrůznější autoři zaplnili její stránky svými vlastními vizemi skutečných ctností, jako návod, jak porazit zlo.
+*Kniha vznešených skutků*, konečné pojednání o všem, co je v mnohovesmíru dobré, má význačné postavení v mnoha náboženstvích. Nejde o posvátnou knihu konkrétní víry, ale nejrůznější autoři zaplnili její stránky svými vlastními vizemi skutečných ctností, jako návod, jak porazit zlo.
   
-*Kniha vznešených skutků* zřídkakdy setrvává na jednom místě. Hned, jak je přečtena, zmizí do nějakého jiného koutu multivesmíru, kde její mravní pokyny mohou přinést světlo do potemnělého světa. I když už byly učiněny pokusy o okopírování tohoto díla, nepodařilo se jim zachytit její magickou povahu ani zprostředkovat užitky, které dává cílevědomým osobám čistého srdce.
+*Kniha vznešených skutků* zřídkakdy setrvává na jednom místě. Hned, jak je přečtena, zmizí do nějakého jiného koutu mnohovesmíru, kde její mravní pokyny mohou přinést světlo do potemnělého světa. I když už byly učiněny pokusy o okopírování tohoto díla, nepodařilo se jim zachytit její magickou povahu ani zprostředkovat užitky, které dává cílevědomým osobám čistého srdce.
   
 Obsah knihy uchovává v bezpečí těžká spona, vytepaná do podoby andělských křídel. Pouze tvor s dobrým přesvědčením, jenž je s knihou sladěný, může odepnout sponu, která drží knihu zavřenou. Jakmile se kniha otevře, sladěný tvor musí strávit 80 hodin čtením a studiem knihy, aby pronikl do jejího obsahu a získal její užitky. Ostatní tvorové, kteří si pročítají stránky otevřené knihy, mohou číst text, ale nepochopí hlubší význam a nesklidí užitky. Zlý tvor, který se pokusí číst z knihy, utrpí zářivé zranění 24k6. Toto zranění ignoruje odolání a imunitu a nedá se snížit, ani se mu nedá vyhnout žádnými prostředky. Tvor, kterému se tímto zraněním sníží životy na 0, zmizí v oslnivém záblesku světla a je zničen a zanechá po sobě svůj majetek.
   
@@ -4438,7 +4438,7 @@ Užitky dané *Knihou vznešených skutků* trvají jen do té doby, dokud se sn
   
 ***Svatozář.*** Jakmile si knihu přečteš a prostuduješ, získáš ochrannou svatozář. Tato svatozář osvítí jasným světlem okruh o poloměru 2 sáhy a slabým světlem další 2 sáhy. Svatozář můžeš zrušit nebo zjevit jako bonusovou akci. Když ji máš, dává ti výhodu k ověřením Charismatu (Přesvědčování) pro interakci s dobrými tvory a ověřením Charismatu (Zastrašování) pro interakci se zlými tvory. Navíc běsi a nemrtví v jasném světle svatozáře mají nevýhodu k hodům na útok proti tobě.
   
-***Zničení knihy.*** Říká se, že *Knihu vznešených skutků* nelze zničit, dokud v multivesmíru existuje dobro. Ale potopení knihy v řece Styx odstraní z jejích stránek všechno písmo a obrázky a učiní knihu bezmocnou na 1k% let.
+***Zničení knihy.*** Říká se, že *Knihu vznešených skutků* nelze zničit, dokud v mnohovesmíru existuje dobro. Ale potopení knihy v řece Styx odstraní z jejích stránek všechno písmo a obrázky a učiní knihu bezmocnou na 1k% let.
   
 #### Oko a Ruka Vekny
   
@@ -4520,7 +4520,7 @@ Když je s hůlkou sladěný Orkus, může přivolat jakýkoli druh nemrtvých
   
 Hůlka telepaticky komunikuje se svým nositelem a umí mluvit, číst a rozumí démonštině a obecné řeči.
   
-***Osobnost.*** Účelem hůlky je pomáhat uspokojovat Orkusova přání a zabíjet všechno v multivesmíru. Hůlka je chladná, krutá, nihilistická a bez špetky humoru.
+***Osobnost.*** Účelem hůlky je pomáhat uspokojovat Orkusova přání a zabíjet všechno v mnohovesmíru. Hůlka je chladná, krutá, nihilistická a bez špetky humoru.
   
 Aby plnila cíle svého pána, předstírá oddanost svému aktuálnímu uživateli a dává velkolepé sliby, které nemá v úmyslu plnit, například slibuje svému uživateli svrhnout Orkuse.
   

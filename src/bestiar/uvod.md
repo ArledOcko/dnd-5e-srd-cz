@@ -410,7 +410,7 @@ Nestvůra, jež sesílá kouzla jen použitím síly své mysli, má ve svém zv
   
 ### Akce
   
-Když nestvůra provádí svou akci, může vybírat z možností v části Akce ve svém bloku statistik, nebo může použít jednu z akcí, které jsou dostupné pro všechny tvory, například akce Schování nebo Úprk, jak je popsáno v *Příručce hráče*.
+Když nestvůra provádí svou akci, může vybírat z možností v části Akce ve svém bloku statistik, nebo může použít jednu z akcí, které jsou dostupné pro všechny tvory, například akce Schování nebo Sprint, jak je popsáno v *Příručce hráče*.
   
 #### Útoky na blízko a na dálku
   

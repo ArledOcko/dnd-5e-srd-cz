@@ -914,7 +914,7 @@ Obrněný válečný kůň má Obranné číslo dle typu prsosin, co má na sob�
   
 **Životy** 22 (3k8 + 9)
   
-**Rychlost** 8 sáhů
+**Rychlost** 4 sáhů
   
 | SIL | OBR | ODL | INT | MDR | CHA |
 | --- | --- | --- | --- | --- | --- |

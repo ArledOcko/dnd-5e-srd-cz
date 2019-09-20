@@ -248,7 +248,7 @@ Kouzla jsou uvedena v abecedním pořadí.
 
 **Povolání:** Klerik, kouzelník
 
-Obklopí tě neviditelná koule antimagie o poloměru 2 sáhy. Tato oblast se odloučí od magické energie, která protéká multivesmírem. Uvnitř koule nelze sesílat kouzla, přivolaní tvorové zmizí, a dokonce i z kouzlených předmětů se stanou obyčejné. Koule se pohybuje s tebou ve středu, dokud kouzlo neskončí. Kouzla a jiné magické účinky, mimo ty vytvořené artefaktem či božstvem, jsou v kouli potlačeny a nemohou do ní proniknout. Zatímco je účinek potlačen, není funkční, ale doba, po kterou je potlačený, se počítá do jeho trvání.
+Obklopí tě neviditelná koule antimagie o poloměru 2 sáhy. Tato oblast se odloučí od magické energie, která protéká mnohovesmírem. Uvnitř koule nelze sesílat kouzla, přivolaní tvorové zmizí, a dokonce i z kouzlených předmětů se stanou obyčejné. Koule se pohybuje s tebou ve středu, dokud kouzlo neskončí. Kouzla a jiné magické účinky, mimo ty vytvořené artefaktem či božstvem, jsou v kouli potlačeny a nemohou do ní proniknout. Zatímco je účinek potlačen, není funkční, ale doba, po kterou je potlačený, se počítá do jeho trvání.
 
 ***Cílené účinky.*** Kouzla a jiné magické účinky, například *magická střela* a *znam osobu*, které cílí na tvora nebo předmět v kouli, nemají na cíl žádný účinek.
 

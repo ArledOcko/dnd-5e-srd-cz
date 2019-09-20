@@ -10,7 +10,7 @@ Jestli tito vysocí, vyzáblí tvorové byli klidní nebo divocí, kultivovaní 
   
 Githyankové loupí v mnoha světech z palub svých astrálních plavidel a na zádech rudých draků. Péra, korálky, drahokamy a vzácné kovy zdobí jejich zbroje a zbraně — legendární stříbrné meče, kterými zapichují své nepřátele. Od osvobození se od mozkožroutů se z githyanků stali bezcitní dobyvatelé, jímž vládne jejich obávaná kostějská královna, Vlákith.
   
-***Astrální nájezdníci.*** Githyankové opovrhují všemi ostatními rasami a podnikají pustošivé nájezdy, které je přivádí z jejich pevností v Astrální sféře do nejzazších koutů multivesmíru. Válka je výstižné vyjádření githyankské kultury a jejich bezcitné černé oči neznají slitování. Po nájezdu nechají poničeným přeživším dost jídla a zdrojů, aby nuzně přežili. Později se githyankové vrací ke svým dobytým nepřátelům a olupují je znovu a znovu.
+***Astrální nájezdníci.*** Githyankové opovrhují všemi ostatními rasami a podnikají pustošivé nájezdy, které je přivádí z jejich pevností v Astrální sféře do nejzazších koutů mnohovesmíru. Válka je výstižné vyjádření githyankské kultury a jejich bezcitné černé oči neznají slitování. Po nájezdu nechají poničeným přeživším dost jídla a zdrojů, aby nuzně přežili. Později se githyankové vrací ke svým dobytým nepřátelům a olupují je znovu a znovu.
   
 ***Následovníci Gith.*** Githyank v jejich vlastním jazyce znamená „následovník Gith“. Pod vedením Gith se githyankové rozvrstvili do vojenské společnosti, se striktním kastovním systémem, oddané pokračujícímu boji proti obětem a úhlavním nepřátelům své rasy. Když zahynula jejich vůdkyně Gith, byla nahrazena svou nemrtvou poradkyní, Vlákith. Tato kostějka a královna zakazuje uctívání všech bytostí, kromě ní.
   

@@ -172,7 +172,7 @@ Neustále se máš na pozoru před nebezpečím. Máš následující prospěchy
   
 ### Dravec
   
-Když použiješ svou akci k Úprku, můžeš použít bonusovou akci k jednomu zaútočení na blízko zbraní, nebo ke strčení do tvora.
+Když použiješ svou akci ke Sprintu, můžeš použít bonusovou akci k jednomu zaútočení na blízko zbraní, nebo ke strčení do tvora.
   
 Pohneš-li se aspoň 2 sáhy rovně těsně před tím, než použiješ tuto bonusovou akci, buď získáš bonus +5 k hodu na zranění útoku (pokud ses rozhodl zaútočit zbraní na blízko a zasáhl jsi), nebo odtlačíš cíl až o 2 sáhy od sebe (pokud ses rozhodl strčit do cíle a uspěl jsi).
   
@@ -400,7 +400,7 @@ Jsi mimořádně rychlý a hbitý. Získáš následující prospěchy:
   
 * Tvá rychlost se zvýší o 2 sáhy.
   
-* Když použiješ akci Úprk, těžký terén tě nestojí v tomto tahu pohyb navíc.
+* Když použiješ akci Sprint, těžký terén tě nestojí v tomto tahu pohyb navíc.
   
 * Když zaútočíš na tvora útokem na blízko, po zbytek tahu nebudeš vyvolávat příležitostné útoky tohoto tvora, bez ohledu na to, jestli zasáhneš.
   

@@ -252,9 +252,9 @@ Když provedeš akci Schování, hodíš si na ověření Obratnosti (Nenápadno
   
 Když použiješ akci Uhnutí, zcela se soustředíš na vyhýbání se útokům. Do začátku tvého příštího tahu má každý hod na útok proti tobě nevýhodu, pokud útočníka vidíš, a na záchranné hody na Obratnost si házíš s výhodou. Pokud se staneš neschopný (viz dodatek A), nebo klesne-li tvá rychlost na 0, přijdeš o tento užitek.
   
-### Úprk
+### Sprint
   
-Když provedeš akci Úprk, získáš v daném tahu pohyb navíc. Navýšení je rovno tvé rychlosti, po započítání všech případných oprav. Například s rychlostí 6 sáhů se můžeš pohnout ve svém tahu až o 12 sáhů, pokud použiješ Úprk.
+Když provedeš akci Sprint, získáš v daném tahu pohyb navíc. Navýšení je rovno tvé rychlosti, po započítání všech případných oprav. Například s rychlostí 6 sáhů se můžeš pohnout ve svém tahu až o 12 sáhů, pokud použiješ Sprint.
   
 ### Útok
   
@@ -552,7 +552,7 @@ Pokud je tvoje jezdecké zvíře sraženo, když na něm sedíš, můžeš pomoc
   
 Když sedíš na jezdeckém zvířeti, máš dvě možnosti. Buď ho můžeš ovládat, nebo mu dovolit jednat nezávisle. Inteligentní tvorové, například draci, jednají nezávisle.
   
-Jezdecké zvíře můžeš ovládat, jen pokud bylo cvičeno, aby přijalo jezdce. U domestikovaných koní, oslů a podobných tvorů se bere, že takový výcvik mají. Iniciativa ovládaného jezdeckého zvířete se změní na tvou, když na něj nasedneš. Pohybuje se, jak mu přikážeš, a má jen tři možnosti akce: Odpoutání se, Uhnutí a Úprk. Ovládané jezdecké zvíře se může pohnout a jednat dokonce i v tahu, kdy na něj nasedneš.
+Jezdecké zvíře můžeš ovládat, jen pokud bylo cvičeno, aby přijalo jezdce. U domestikovaných koní, oslů a podobných tvorů se bere, že takový výcvik mají. Iniciativa ovládaného jezdeckého zvířete se změní na tvou, když na něj nasedneš. Pohybuje se, jak mu přikážeš, a má jen tři možnosti akce: Odpoutání se, Uhnutí a Sprint. Ovládané jezdecké zvíře se může pohnout a jednat dokonce i v tahu, kdy na něj nasedneš.
   
 Nezávislé jezdecké zvíře si ponechává své pořadí v iniciativě. Když má na sobě jezdce, nijak to neomezuje akce, které může provádět a pohybuje se a jedná, jak chce. Může uprchnout z boje, naběhnout do útoku, sežrat těžce zraněného nepřítele, nebo nějak jinak jednat proti tvé vůli.
   

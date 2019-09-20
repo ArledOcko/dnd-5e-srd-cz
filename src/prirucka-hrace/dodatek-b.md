@@ -1,6 +1,6 @@
-# Dodatek B: Bohové multivesmíru
+# Dodatek B: Bohové mnohovesmíru
   
-Ve světech multivesmíru D&D je náboženství důležitou součástí života. Když bohové kráčí světem, klerici vedou božskou moc, zlé kulty vykonávají temné oběti v podzemních doupatech a zářní paladinové vzdorují temnotě jako majáky, je těžké být nevyhraněný k božstvům a popírat jejich existenci.
+Ve světech mnohovesmíru D&D je náboženství důležitou součástí života. Když bohové kráčí světem, klerici vedou božskou moc, zlé kulty vykonávají temné oběti v podzemních doupatech a zářní paladinové vzdorují temnotě jako majáky, je těžké být nevyhraněný k božstvům a popírat jejich existenci.
   
 Mnoho obyvatel ve světech D&D uctívá v různou dobu a za různých okolností různé bohy. Například obyvatelé ve Forgotten Realms se mohou pomodlit k Suně za štěstí v lásce, před odchodem na tržiště vzdát oběť Vaukén, a když řádí silná bouřka, pomodlit se na usmíření Talose – a to vše ve stejný den. Mnozí obyvatelé mají mezi bohy svého oblíbence. Toho, jehož ideály a učení je jim vlastní. A malé množství obyvatel se zcela zasvěcuje pouze jedinému bohovi, obvykle slouží jako kněží nebo šampioni ideálů daného boha.
   
@@ -8,7 +8,7 @@ PJ stanoví, jací bohové, pokud vůbec nějací, se uctívají v jeho herní
   
 ### Panteony D&D
   
-Každý svět v multivesmíru D&D má své vlastní panteony božstev různé velikosti, od překypujících panteonů Forgotten Realms a Greyhawku po úžeji zaměřená náboženství Eberronu a Dragonlance. Mnoho nelidských ras uctívá v různých světech stejné bohy — například Moradina uctívají trpaslíci ve Forgotten Realms, Greyhawku i v mnohých jiných světech.
+Každý svět v mnohovesmíru D&D má své vlastní panteony božstev různé velikosti, od překypujících panteonů Forgotten Realms a Greyhawku po úžeji zaměřená náboženství Eberronu a Dragonlance. Mnoho nelidských ras uctívá v různých světech stejné bohy — například Moradina uctívají trpaslíci ve Forgotten Realms, Greyhawku i v mnohých jiných světech.
   
 #### Forgotten Realms
   

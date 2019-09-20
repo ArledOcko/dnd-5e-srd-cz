@@ -434,7 +434,7 @@ Kněz má typicky jednoho či více akolytů, kteří mu pomáhají s nábože
 
 </Monster> 
    
-**Kultisté** přísahají temnost temným silám, jako jsou živelná knížata, démoničtí páni či arciďáblové. Většina skrývá svou věrnost, aby se vyhnula vyobcování, uvěznění nebo popravě kvůli své víře. Na rozdíl od zlých akolytů okultisté ve své víře a praktikách často vykazují známky nepříčetnosti.
+**Kultisté** přísahají věrnost temným silám, jako jsou živelná knížata, démoničtí páni či arciďáblové. Většina skrývá svou věrnost, aby se vyhnula vyobcování, uvěznění nebo popravě kvůli své víře. Na rozdíl od zlých akolytů okultisté ve své víře a praktikách často vykazují známky nepříčetnosti.
  
 ## Loupežník
 

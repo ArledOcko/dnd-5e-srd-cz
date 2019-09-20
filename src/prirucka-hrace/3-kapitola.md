@@ -2309,7 +2309,7 @@ Archetyp Pán zvířat ztělesňuje přátelství mezi civilizovanými rasami a�
   
 Na 3. úrovni získáš zvířecího společníka, který tě bude doprovázet na tvých dobrodružstvích a bude trénovaný, aby s tebou bojoval. Zvol si zvíře, jehož třída velikosti je nejvýše Střední a jehož nebezpečnost je 1/4 či nižší (dodatek D uvádí statistiky například pro jestřába, mastifa a pantera). Svůj zdatnostní bonus přičti k jeho OČ, hodům na útok a hodům na zranění, stejně jako k záchranným hodům a dovednostem, se kterými je zvíře zdatné. Jeho maximum životů je rovno buď jeho normálnímu maximu, nebo čtyřnásobku tvé úrovně hraničáře, podle toho, co je vyšší.
   
-Zvíře plní tvé rozkazy, jak nejlépe dokáže. Ve tvé iniciativě provádí svůj tah, ale neprovede akci, pokud mu to nepřikážeš. Ve svém tahu můžeš slovně přikázat zvířeti, kam se má pohnout (tvá akce není potřeba). Pomocí své akce mu můžeš slovně přikázat, aby provedl akci Odpoutání se, Pomoc, Uhnutí, Sprint nebo Útok. Jakmile máš schopnost Útok navíc, můžeš jednou zaútočit zbraní, když přikazuješ zvířeti, aby provedlo akci Útok. Během krátkého odpočinku může zvíře utratit Kostky životů, tak jako jakýkoliv jiný tvor. Pokud jsi pryč nebo bezmocný, tvůj zvířecí společník jedná podle sebe, přičemž hlavně brání tebe a sebe. Pro použití své reakce nikdy nepotřebuje tvůj příkaz, například pro příležitostný útok.
+Zvíře plní tvé rozkazy, jak nejlépe dokáže. Ve tvé iniciativě provádí svůj tah, ale neprovede akci, pokud mu to nepřikážeš. Ve svém tahu můžeš slovně přikázat zvířeti, kam se má pohnout (tvá akce není potřeba). Pomocí své akce mu můžeš slovně přikázat, aby provedl akci Odpoutání se, Pomoc, Uhýbání, Sprint nebo Útok. Jakmile máš schopnost Útok navíc, můžeš jednou zaútočit zbraní, když přikazuješ zvířeti, aby provedlo akci Útok. Během krátkého odpočinku může zvíře utratit Kostky životů, tak jako jakýkoliv jiný tvor. Pokud jsi pryč nebo bezmocný, tvůj zvířecí společník jedná podle sebe, přičemž hlavně brání tebe a sebe. Pro použití své reakce nikdy nepotřebuje tvůj příkaz, například pro příležitostný útok.
   
 Když cestuješ svým oblíbeným terénem jen se zvířetem, můžeš se pohybovat nenápadně normálním tempem.
   
@@ -2317,7 +2317,7 @@ Pokud zvíře umře, můžeš si obstarat další, když strávíš 8 hodin magi
   
 ##### Výjimečný výcvik
   
-Počínaje 7. úrovní můžeš v jakémkoli svém tahu, když tvůj zvířecí společník neútočí, použít bonusovou akci k přikázání zvířeti, aby provedlo ve svém tahu akci Odpoutání se, Pomoc, Uhnutí nebo Sprint.
+Počínaje 7. úrovní můžeš v jakémkoli svém tahu, když tvůj zvířecí společník neútočí, použít bonusovou akci k přikázání zvířeti, aby provedlo ve svém tahu akci Odpoutání se, Pomoc, Uhýbání nebo Sprint.
   
 ##### Zvířecí zběsilost
   
@@ -2485,7 +2485,7 @@ Počínaje 6. úrovní můžeš použít svou Božskou přízeň mezi odpočinky
   
 Jako akci předložíš svůj svatý symbol a odříkáš modlitbu pranýřující nemrtvé. Každý nemrtvý tvor do 6 sáhů od tebe, který tě vidí nebo slyší, si musí hodit záchranný hod na Moudrost. Neuspěje-li tvor v záchranném hodu, je odvrácený na 1 minutu, nebo dokud neutrpí zranění.
   
-Odvrácený tvor musí strávit své tahy tím, že se pokouší od tebe maximálně vzdálit a dobrovolně se nepohne na místo do 6 sáhů od tebe. Také nemůže provádět reakce. Jako svou akci může použít pouze Sprint, nebo se pokusit uniknout z účinku, který mu brání se pohnout. Pokud se tvor nemá kam pohnout, může použít akci Uhnutí.
+Odvrácený tvor musí strávit své tahy tím, že se pokouší od tebe maximálně vzdálit a dobrovolně se nepohne na místo do 6 sáhů od tebe. Také nemůže provádět reakce. Jako svou akci může použít pouze Sprint, nebo se pokusit uniknout z účinku, který mu brání se pohnout. Pokud se tvor nemá kam pohnout, může použít akci Uhýbání.
   
 #### Zvýšení hodnot vlastností
   
@@ -3878,7 +3878,7 @@ Když si na 3. úrovni vezmeš tuto přísahu, získáš následující dvě mo�
   
 ***Odvracení znesvěcených.**** Jako akci použitím své Božské přízně předložíš svůj svatý symbol a odříkáš modlitbu pranýřující běsy a nemrtvé. Každý běs či nemrtvý, který tě vidí nebo slyší a je do 6 sáhů od tebe, si musí hodit záchranný hod na Moudrost. Neuspěje-li tvor v záchranném hodu, je odvrácený na 1 minutu, nebo dokud neutrpí zranění.
   
-Odvrácený tvor musí strávit své tahy pokoušením se od tebe co nejvíce vzdálit a dobrovolně se nepřiblíží na místo do 6 sáhů od tebe. Nemůže reagovat a jako svou akci může použít jen akci Sprint, nebo se bude snažit uniknout z účinku, který mu brání v pohybu. Pokud se tvor nemá kam pohnout, může použít akci Uhnutí.
+Odvrácený tvor musí strávit své tahy pokoušením se od tebe co nejvíce vzdálit a dobrovolně se nepřiblíží na místo do 6 sáhů od tebe. Nemůže reagovat a jako svou akci může použít jen akci Sprint, nebo se bude snažit uniknout z účinku, který mu brání v pohybu. Pokud se tvor nemá kam pohnout, může použít akci Uhýbání.
   
 ***Posvátná zbraň.*** Jako akci můžeš použitím své Božské přízně naplnit jednu zbraň, kterou držíš, pozitivní energií. Na 1 minutu si přičteš svou opravu Charismatu (nejméně však +1) k hodům na útok pomocí této zbraně. Zbraň osvítí jasným světlem okruh o poloměru 4 sáhy a další 4 sáhy dosvítí slabým světlem. Pokud tato zbraň není magická, stane se magickou po dobu trvání.
   
@@ -4002,7 +4002,7 @@ Když si na 3. úrovni vezmeš tuto přísahu, získáš následující dvě mo�
   
 ***Odvracení bezbožných.*** Svou Božskou přízeň můžeš použít k pronesení prastarých slov, jejichž poslech způsobuje bolest běsům a vílám. Jako akci předložíš svůj svatý symbol a každý běs či víla do 6 sáhů od tebe, jenž tě slyší, si musí hodit záchranný hod na Moudrost. Když tvor v záchraně neuspěje, je odvrácen na 1 minutu, nebo dokud neutrpí zranění.
   
-Odvrácený tvor musí strávit své tahy tím, že se pokouší od tebe maximálně vzdálit a dobrovolně se nepohne na místo do 6 sáhů od tebe. Také nemůže provádět reakce. Jako svou akci může použít pouze Sprint, nebo se pokusit uniknout z účinku, který mu brání se pohnout. Pokud se tvor nemá kam pohnout, může použít akci Uhnutí.
+Odvrácený tvor musí strávit své tahy tím, že se pokouší od tebe maximálně vzdálit a dobrovolně se nepohne na místo do 6 sáhů od tebe. Také nemůže provádět reakce. Jako svou akci může použít pouze Sprint, nebo se pokusit uniknout z účinku, který mu brání se pohnout. Pokud se tvor nemá kam pohnout, může použít akci Uhýbání.
   
 Je-li tvorova podoba zastřena iluzí, tvarozměnou nebo jiným účinkem, během odvrácení se odhalí.
   

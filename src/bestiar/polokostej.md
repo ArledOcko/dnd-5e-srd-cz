@@ -93,10 +93,10 @@ Acererak přijal, že zplesniví a rozpadne se na prach, opustil své fyzické
   
 Kostějové, kteří následují Acererakovu cestu, věří, že zbavením se svého těla mohou pokračovat ve svém honu za mocí mimo smrtelný svět. Stejně jako to udělal jejich patron, i oni používají duševní drahokamy k obhospodařování svých škapulířů a ničení dobrodruhů, kteří vyruší jejich doupata.
   
-Acererakovi či jinému polokostěji jako on se říká nadkostěj, má nebezpečnost 21 (33 000 ZK), nebo 23 (50 000 ZK) v doupěti, a má následující dodatečnou možnost akce.
+Acererakovi či jinému polokostěji jako on se říká arcikostěj, má nebezpečnost 21 (33 000 ZK), nebo 23 (50 000 ZK) v doupěti, a má následující dodatečnou možnost akce.
   
-***Polap duši.*** Nadkostěj zacílí jednoho tvora, kterého vidí do 6 sáhů od sebe. Cíl si musí hodit záchranný hod na Charisma se SO 19. Když neuspěje, jeho duše se stane magicky uvězněnou uvnitř jednoho z nadkostějových drahokamů. Zatímco je duše uvězněná, tělo cíle a všechno jeho vybavení, co má na sobě, přestane existovat. Při úspěšné záchraně cíl utrpí nekrotické zranění 24 (7k6), a sníží-li mu to životy na 0, jeho duše se uvězní, jako kdyby neuspěla v záchranném hodu. Duše, která je uvězněna v drahokamu 24 hodin, je sežrána a přestane existovat.
+***Polap duši.*** Arcikostěj zacílí jednoho tvora, kterého vidí do 6 sáhů od sebe. Cíl si musí hodit záchranný hod na Charisma se SO 19. Když neuspěje, jeho duše se stane magicky uvězněnou uvnitř jednoho z arcikostějových drahokamů. Zatímco je duše uvězněná, tělo cíle a všechno jeho vybavení, co má na sobě, přestane existovat. Při úspěšné záchraně cíl utrpí nekrotické zranění 24 (7k6), a sníží-li mu to životy na 0, jeho duše se uvězní, jako kdyby neuspěla v záchranném hodu. Duše, která je uvězněna v drahokamu 24 hodin, je sežrána a přestane existovat.
   
-Klesnou-li nadkostějovi jeho životy na 0, je zničen a rozpadne se na prach, kromě drahokamů. Rozdrcení drahokamu vypustí v něm uvězněnou duši, načež se tělo cíle znovu zformuje na volném místě co nejblíž drahokamu a ve stejném stavu, jako když bylo uvězněno.
+Klesnou-li arcikostějovi jeho životy na 0, je zničen a rozpadne se na prach, kromě drahokamů. Rozdrcení drahokamu vypustí v něm uvězněnou duši, načež se tělo cíle znovu zformuje na volném místě co nejblíž drahokamu a ve stejném stavu, jako když bylo uvězněno.
   
 </Card>   

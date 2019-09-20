@@ -1,6 +1,6 @@
 # Abolet
 
-> „Mohou být aboleti starší než bohové? Že než vznikly božské bytosti, tak multivesmír utvářely takové hrůzy? To je mrazivá představa.“
+> „Mohou být aboleti starší než bohové? Že než vznikly božské bytosti, tak mnohovesmír utvářely takové hrůzy? To je mrazivá představa.“
 >  
 > — Vaqir Hekh‘r, githzerajský filozof a autor knihy Vzdálená říše: skutečná, a přece neskutečná
 

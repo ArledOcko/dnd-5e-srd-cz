@@ -208,7 +208,7 @@ Mrtvolný tyran může provést 3 legendární akce, přičemž použije níže 
 
 ## Dohlížeč
   
-Dohlížeč je nižší nemrtvý přivolaný z jiné sféry existence magickým rituálem, jehož suroviny zahrnují čtyři oční stopky zřícího, které magie rituálu spotřebuje. Dohlížeč má náležitě čtyři oční stopky, dvě na každé straně jeho čtyři stopy velkého těla s širokým okem uprostřed.
+Dohlížeč je nižší nemrtvý přivolaný z jiné sféry existence magickým rituálem, jehož suroviny zahrnují čtyři oční stopky zřícího, které magie rituálu spotřebuje. Dohlížeč má čtyři oční stopky, dvě na každé straně jeho čtyři stopy velkého těla s širokým okem uprostřed.
   
 ***Magičtí strážci.*** Přivolaný dohlížeč střeží místo nebo poklad dle volby jeho přivolávače 101 let. Nikomu kromě svého přivolávače neumožní vstup do oblasti nebo přístup k předmětu, pokud mu přivolávač nenařídí jinak. Pokud je předmět odcizen nebo se zničí před uplynutím oněch let, přivolaný dohlížeč zmizí. Jinak své místo nikdy neopouští.
   
@@ -220,7 +220,7 @@ Podobně jako každý zřící se dohlížeč pokládá za ztělesnění svého 
   
 <Monster 
     title="Dohlížeč"
-    subtitle="Střední zrůda, zákonné zlo"
+    subtitle="Střední zrůda, zákonně neutrální"
     armor-class="14 (přirozená zbroj)"
     hit-points="39 (6k8 + 12)"
     speed="0 sáhů, létání 6 sáhů (vznášení se)"

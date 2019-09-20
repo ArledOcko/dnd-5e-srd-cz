@@ -2,13 +2,13 @@
   
 Sněti, probuzené rostliny nadané inteligencí a pohyblivostí, ničí území zamořená temnotou. Sněť nasává tuto temnotu z půdy, vykonává vůli prastarého zla a pokouší se šířit toto zlo kdekoliv může.
   
-***Kořeny Gultyjasova stromu.*** Legendy vypráví o upírovi jménem Gultyjas, který ovládal strašlivou magii a postavil odpornou věž zvanou Noční tesák. Gultyjas byl zničen, když mu hrdina prohnal srdcem dřevěný kůl. Ale když byl upír zničen, jeho krev vlila do kůlu hroznou sílu. Za čas ze dřeva vyrašily nové zelené výhonky a vyrostl z něj stromek naplněný zlou esencí upíra. Říká se, že stromek objevil šílený druid a přesadil ho do podzemní jeskyně, kde mohl růst. Z Gultyjasova stromu vznikla semena, z nichž byly zasety první sněti.
+***Kořeny Gultyasova stromu.*** Legendy vypráví o upírovi jménem Gultyas, který ovládal strašlivou magii a postavil odpornou věž zvanou Noční tesák. Gultyas byl zničen, když mu hrdina prohnal srdcem dřevěný kůl. Ale když byl upír zničen, jeho krev vlila do kůlu hroznou sílu. Za čas ze dřeva vyrašily nové zelené výhonky a vyrostl z něj stromek naplněný zlou esencí upíra. Říká se, že stromek objevil šílený druid a přesadil ho do podzemní jeskyně, kde mohl růst. Z Gultyasova stromu vznikla semena, z nichž byly zasety první sněti.
   
-***Temné dobývání.*** Kdekoli je strom či rostlina znečištěna kouskem zlé mysli nebo síly, může povstat Gultyjasův strom, aby zamořil a zkazil okolní les. Prostřednictvím kořenů a půdy se jeho zlo šíří do ostatních rostlin, které zvadnou, nebo se změní na sněti. Jak se tyto sněti šíří, tráví a vykořeňují zdravé rostliny a nahrazují je ostružiním, jedovatým plevelem a ostatními svého druhu. Toto zamoření může časem změnit zemi nebo les na zkažené místo.
+***Temné dobývání.*** Kdekoli je strom či rostlina znečištěna kouskem zlé mysli nebo síly, může povstat Gultyjsův strom, aby zamořil a zkazil okolní les. Prostřednictvím kořenů a půdy se jeho zlo šíří do ostatních rostlin, které zvadnou, nebo se změní na sněti. Jak se tyto sněti šíří, tráví a vykořeňují zdravé rostliny a nahrazují je ostružiním, jedovatým plevelem a ostatními svého druhu. Toto zamoření může časem změnit zemi nebo les na zkažené místo.
   
 Stromy a rostliny v zamořených lesích rostou nepřirozeně rychle. Réva a podrost se rapidně šíří budovami a zarůstají stezky a silnice. Až sněti zabijí nebo vyženou obyvatele, celé vesnice zmizí na daném místě během dní.
   
-***Ovládaní zlem.*** Sněti jsou nezávislí tvorové, ale většina jedná pod kontrolou Gultyjasova stromu. Často zobrazují zvyky a rysy životní síly nebo duše, která je zplodila. Pokračují v odkazu dávno ztraceného zla tím, že útočí na dávné nepřátele svého předka, nebo hledají poklady, které jsou pro něj cenné.
+***Ovládaní zlem.*** Sněti jsou nezávislí tvorové, ale většina jedná pod kontrolou Gultyasova stromu. Často zobrazují zvyky a rysy životní síly nebo duše, která je zplodila. Pokračují v odkazu dávno ztraceného zla tím, že útočí na dávné nepřátele svého předka, nebo hledají poklady, které jsou pro něj cenné.
   
 ## Jehličnatá sněť
   
@@ -18,7 +18,7 @@ Když jehličnaté sněti postřehnou hrozbu, vypustí pyl, který vítr zanese 
   
 Na upozornění o poloze nepřátel se seběhnou jehličnaté sněti ze všech stran, aby smočily své kořeny v krvi.
 
-> Pohleď na dědictví upíra Gultyjase: rostliny s touhou po krvi.
+> Pohleď na dědictví upíra Gultyase: rostliny s touhou po krvi.
   
 ## Révová sněť
   

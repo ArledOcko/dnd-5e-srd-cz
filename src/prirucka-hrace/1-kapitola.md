@@ -289,4 +289,4 @@ Na druhém stupni (5. – 10. úroveň) se postavy staví na vlastní nohy. Mnoz
   
 Na třetím stupni (11. – 16. úroveň) postavy dosáhly úrovně moci, která je vynáší vysoko nad obyčejnou populaci a činí je mimořádné dokonce i mezi dobrodruhy. Na 11. úrovni mnozí sesilatelé kouzel získají přístup ke kouzlům 6. úrovně, z nichž některá vytváří účinky, jichž bylo dříve pro hráčské postavy nemožné dosáhnout. Ostatní postavy získají schopnosti, které jim umožní útočit vícekrát, nebo dělat pomocí oněch útoků působivější věci. Tito mocní dobrodruzi se často utkávají s hrozbami pro celé kraje či kontinenty.
   
-Na čtvrtém stupni (17. – 20. úroveň) postavy dosáhnou vrcholu svých schopností povolání a díky svému úsilí se stávají hrdinnými (nebo zlotřilými) archetypy. Během jejich dobrodružství může viset na vlásku osud světa, nebo dokonce základní řád multivesmíru.
+Na čtvrtém stupni (17. – 20. úroveň) postavy dosáhnou vrcholu svých schopností povolání a díky svému úsilí se stávají hrdinnými (nebo zlotřilými) archetypy. Během jejich dobrodružství může viset na vlásku osud světa, nebo dokonce základní řád mnohovesmíru.

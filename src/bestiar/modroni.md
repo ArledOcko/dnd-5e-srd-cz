@@ -2,7 +2,7 @@
   
 Modroni jsou bytosti absolutního zákona, které lpí na hierarchii ve stylu úlu. Obývají sféru Mechanus a dohlíží na její věčně se točící soukolí. Jejich existence je rutinou dokonalého řádu jako perfektně namazaný hodinový stroj.
   
-***Absolutní zákon a řád.*** Pod vedením svého vůdce, Prima, modroni zvyšují pořádek v multivesmíru v souladu se zákony mimo chápání smrtelných myslí. Jejich vlastní mysli jsou síťově propojeny v hierarchické pyramidě, v níž každý modron obdržuje rozkazy od nadřízených a deleguje rozkazy podřízeným. Modron plní rozkazy s naprostou poslušností, maximální výkonností a bez mravních zásad nebo ega.
+***Absolutní zákon a řád.*** Pod vedením svého vůdce, Prima, modroni zvyšují pořádek v mnohovesmíru v souladu se zákony mimo chápání smrtelných myslí. Jejich vlastní mysli jsou síťově propojeny v hierarchické pyramidě, v níž každý modron obdržuje rozkazy od nadřízených a deleguje rozkazy podřízeným. Modron plní rozkazy s naprostou poslušností, maximální výkonností a bez mravních zásad nebo ega.
   
 Modroni nemají žádné pojetí o sobě samých, kromě toho, co je nezbytné pro plnění svých povinností. Existují jako jednotný kolektiv, rozdělený podle hodností, ale přesto se na sebe vždy odkazují kolektivně. Pro modrona není žádné „já“, pouze „my“.
   
@@ -40,7 +40,7 @@ Odpadlý modron ztrácí rys Zákonná mysl a může mít jakékoli přesvěd�
 
 </Card>    
   
-> „Každých 289 let se celý multivesmír zblázní. Jako hodinový stroj.“
+> „Každých 289 let se celý mnohovesmír zblázní. Jako hodinový stroj.“
 >   
 > — Kwint Bouřkořach, skalní gnómí dobrodruh 
 

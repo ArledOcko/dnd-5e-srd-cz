@@ -6,7 +6,7 @@ Noční můra se zjevuje v oblaku zvířeného kouře a její hřívu, ocas 
   
 Noční můra se dá přivolat z Nižších sfér, ale pokud jí přivolávač pro přivolání nenabídne jako potravu žádnou hodnotnou oběť, nebude mu prokazovat žádnou zvláštní oddanost.
   
-***Tvorba noční můry.*** Noční můry se nevyskytují v multivesmíru přirozeně. Je nutné je tvořit z pegasů. Rituál na stvoření noční můry vyžaduje mučivou amputaci pegasových křídel a dohnání tohoto vznešeného tvora ke zlu, načež je přetvořen pomocí černé magie.
+***Tvorba noční můry.*** Noční můry se nevyskytují v mnohovesmíru přirozeně. Je nutné je tvořit z pegasů. Rituál na stvoření noční můry vyžaduje mučivou amputaci pegasových křídel a dohnání tohoto vznešeného tvora ke zlu, načež je přetvořen pomocí černé magie.
 
 <Monster 
     title="Noční můra"

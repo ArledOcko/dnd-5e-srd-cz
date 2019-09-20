@@ -818,11 +818,11 @@ Když začne pronásledování, urči počáteční vzdálenost mezi kořistí a
   
 ### Vedení pronásledování
   
-Účastníci pronásledování jsou silně motivovaní použít akci Úprk každé kolo. Pronásledující, kteří se zastaví na seslání kouzla a zaútočení, se vystavují riziku, že ztratí kořist, a kořist, která to udělá, bude pravděpodobně chycena.
+Účastníci pronásledování jsou silně motivovaní použít akci Sprint každé kolo. Pronásledující, kteří se zastaví na seslání kouzla a zaútočení, se vystavují riziku, že ztratí kořist, a kořist, která to udělá, bude pravděpodobně chycena.
   
 #### Prchání
   
-Během pronásledování může účastník volně použít akci Úprk tolikrát, kolik je 3 + jeho oprava Odolnosti. Každé další použití akce Úprk, které tvor provede během pronásledování, vyžaduje, aby uspěl v ověření Odolnosti se SO 10 na konci svého tahu, jinak utrpí jeden stupeň únavy.
+Během pronásledování může účastník volně použít akci Sprint tolikrát, kolik je 3 + jeho oprava Odolnosti. Každé další použití akce Sprint, které tvor provede během pronásledování, vyžaduje, aby uspěl v ověření Odolnosti se SO 10 na konci svého tahu, jinak utrpí jeden stupeň únavy.
   
 Účastník vypadne z pronásledování, pokud jeho únava dosáhne 5. stupně, neboť se změní jeho rychlost na 0. Tvor může odstranit stupně únavy, které získal během pronásledování, když si krátce nebo důkladně odpočine.
   

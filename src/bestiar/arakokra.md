@@ -8,7 +8,7 @@ V Materiální sféře árakokry vytváří orlí hnízda na vrcholech nejvyš
   
 Árakokry nemají žádné pojetí politických hranic ani vlastnění majetku, a drahokamy, zlato a jiné vzácné materiály pro ně znamenají jen pramálo. Podle nich by tvor měl použít, co je nezbytné a zbytek pustit po větru pro ostatní.
   
-***Pátrání po sedmi úlomcích.*** Větrní vévodové z Ákvy pochází z rasy živelných bytostí zvaných váti, které kdysi vládly mnoha světům. Vyvstal tvor známý jako Královna Chaosu a zahájila mezisférickou válku proti vládě vátů. V boji proti této hrozbě spojilo své síly sedm vátských hrdinů a vytvořili mocné *Žezlo zákona*. V bitvě proti největšímu královninu generálovi Míškovi, přezdívanému Slíďák, ho zabil jeden vát tím, že do něj vbodl žezlo jako kopí. Žezlo se rozbilo na sedm úlomků, které se rozptýlily napříč multivesmírem. Árakokry hledají stopy poloh úlomků, aby rekonstruovali to, co se dnes označuje jako *Žezlo sedmi částí*.
+***Pátrání po sedmi úlomcích.*** Větrní vévodové z Ákvy pochází z rasy živelných bytostí zvaných váti, které kdysi vládly mnoha světům. Vyvstal tvor známý jako Královna Chaosu a zahájila mezisférickou válku proti vládě vátů. V boji proti této hrozbě spojilo své síly sedm vátských hrdinů a vytvořili mocné *Žezlo zákona*. V bitvě proti největšímu královninu generálovi Míškovi, přezdívanému Slíďák, ho zabil jeden vát tím, že do něj vbodl žezlo jako kopí. Žezlo se rozbilo na sedm úlomků, které se rozptýlily napříč mnohovesmírem. Árakokry hledají stopy poloh úlomků, aby rekonstruovali to, co se dnes označuje jako *Žezlo sedmi částí*.
   
 <Monster 
     title="Árakokra"

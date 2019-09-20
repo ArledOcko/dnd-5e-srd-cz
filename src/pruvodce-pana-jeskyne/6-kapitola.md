@@ -1,6 +1,6 @@
 # 6. kapitola: Mezi dobrodružstvími
   
-Tažení je mnohem víc než jen série dobrodružství. Obsahuje i momenty mezi nimi — nejrůznější rozptýlení a vedlejší záležitosti, které zaměstnávají postavy, když zrovna neprozkoumávají divočinu, nedrancují jeskyně a netoulají se multivesmírem při plnění nějakého epického úkolu.
+Tažení je mnohem víc než jen série dobrodružství. Obsahuje i momenty mezi nimi — nejrůznější rozptýlení a vedlejší záležitosti, které zaměstnávají postavy, když zrovna neprozkoumávají divočinu, nedrancují jeskyně a netoulají se mnohovesmírem při plnění nějakého epického úkolu.
   
 Přirozené tempo tažení nabízí přestávky mezi dobrodružstvími, čas pro postavy, aby utratily svůj poklad a sledovaly své vlastní cíle. Toto mezidobí dává postavám příležitost zakořenit trochu hlouběji do světa. Osobně se zajímat, co se děje obyvatelům a místům kolem nich, což je může postupně zavést k dalším dobrodružstvím.
   
@@ -22,7 +22,7 @@ Cílem dobrodruhů v prvním příkladu je nahromadit moc, kterou potřebují 
   
 Dobrodružství můžeš navzájem spojit překlenujícím cílem, který se dá splnit jen předchozím splněním série souvisejících úkolů. Například můžeš vytvořit padoucha, kterého nelze porazit, dokud postavy neprozkoumají devět jeskyní, ve kterých sídlí Devět princů děsu. V každé z těchto jeskyní je dostatek nestvůr a nástrah, aby dobrodruzi vždy postoupili o dvě či tři úrovně. Dobrodruzi stráví celou svou kariéru bojováním s Devíti princi děsu, než se konečně vydají na legendární výpravu za zničením obludného předka princů. Ač je každá jeskyně jedinečná a zajímavá, tví hráči ocení úzké zaměření tažení.
   
-V podobném typu tažení mohou mít dobrodruzi za úkol sesbírat úlomky artefaktu, které jsou roztroušeny ve zříceninách po celém multivesmíru, a pak artefakt znovu sestavit a použít ho k poražení vesmírné hrozby.
+V podobném typu tažení mohou mít dobrodruzi za úkol sesbírat úlomky artefaktu, které jsou roztroušeny ve zříceninách po celém mnohovesmíru, a pak artefakt znovu sestavit a použít ho k poražení vesmírné hrozby.
   
 #### Příklad 2: Agenti X
   

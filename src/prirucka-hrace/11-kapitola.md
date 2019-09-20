@@ -4705,7 +4705,7 @@ Sesíláš-li kouzlo 8 hodin, zúrodníš půdu. Všechny rostliny v okruhu o po
 
 **Povolání:** Čaroděj, kouzelník
 
-Zvol tvora, kterého vidíš v dosahu a který s tím souhlasí. Dokud kouzlo neskončí, rychlost tvora se zdvojnásobí, získá bonus +2 k OČ, má výhodu k záchranným hodům na Obratnost a v každém svém tahu získá další akci. Tato akce se dá použít pouze k provedení akce Odpoutání se, Použití předmětu, Skrytí, Úprk, nebo Útok (jen jeden útok zbraní). 
+Zvol tvora, kterého vidíš v dosahu a který s tím souhlasí. Dokud kouzlo neskončí, rychlost tvora se zdvojnásobí, získá bonus +2 k OČ, má výhodu k záchranným hodům na Obratnost a v každém svém tahu získá další akci. Tato akce se dá použít pouze k provedení akce Odpoutání se, Použití předmětu, Skrytí, Sprint, nebo Útok (jen jeden útok zbraní). 
 
 Když kouzlo skončí, tvor se bude moci pohybovat a provádět akce až po svém příštím tahu, a to v důsledku vlny otupělosti, která ho zasáhne.
 
@@ -5273,7 +5273,7 @@ Tuto vrstvu je možné zničit kouzlem *rozptyl magii* nebo podobným kouzlem st
 
 **Povolání:** Čaroděj, černokněžník, kouzelník
 
-Toto kouzlo ti umožňuje pohybovat se neuvěřitelným tempem. Když sešleš toto kouzlo a pak jako bonusovou akci v každém svém tahu, dokud kouzlo neskončí, můžeš provést akci Úprk.
+Toto kouzlo ti umožňuje pohybovat se neuvěřitelným tempem. Když sešleš toto kouzlo a pak jako bonusovou akci v každém svém tahu, dokud kouzlo neskončí, můžeš provést akci Sprint.
 
 ### SPOJENÍ
 
@@ -5337,7 +5337,7 @@ Například můžeš určit polohu mocného nemrtvého v oblasti, polohu hlavní
 
 V myslích tvorů vytvoříš přízračný obraz jejich nejhorších obav. Každý tvor v kuželu 6 sáhů musí uspět v záchranném hodu na Moudrost, jinak pustí vše, co drží a stane se vystrašený po dobu trvání. 
 
-Když je tvor vystrašený tímto kouzlem, musí v každém svém tahu provést akci Úprka vzdálit se co nejdál od tebe co nejbezpečnější a nejkratší trasou, pokud ještě je, kam se pohnout. Skončí-li tvor svůj tah na místě, kde na tebe nemá výhled, může si hodit záchranný hod na Moudrost. Uspěje-li, kouzlo pro něj skončí.
+Když je tvor vystrašený tímto kouzlem, musí v každém svém tahu provést akci Sprint a vzdálit se co nejdál od tebe co nejbezpečnější a nejkratší trasou, pokud ještě je, kam se pohnout. Skončí-li tvor svůj tah na místě, kde na tebe nemá výhled, může si hodit záchranný hod na Moudrost. Uspěje-li, kouzlo pro něj skončí.
 
 ### STRÁŽCE VÍRY
 
@@ -6408,7 +6408,7 @@ Sešleš-li kouzlo dvakrát či víckrát před tím, než si důkladně odpoči
 
 **Povolání:** Druid
 
-Ty a až deset tvorů, kteří s tím souhlasí a které vidíš v dosahu, na sebe vezmete po dobu trvání plynnou podobu, která vypadá jako cár oblaku. V podobě oblaku má tvor rychlost létání 60 sáhů a je odolný vůči zranění z nemagických zbraní. Jediné akce, které tvor může v této podobě provádět, je akce Úprknebo návrat do normální podoby. Opětovné nabrání normální podoby zabere 1 minutu a během této doby je tvor neschopný a nemůže se hýbat. Dokud kouzlo neskončí, tvor se může navrátit do podoby oblaku, což také vyžaduje 1 minutu pñeméñování. 
+Ty a až deset tvorů, kteří s tím souhlasí a které vidíš v dosahu, na sebe vezmete po dobu trvání plynnou podobu, která vypadá jako cár oblaku. V podobě oblaku má tvor rychlost létání 60 sáhů a je odolný vůči zranění z nemagických zbraní. Jediné akce, které tvor může v této podobě provádět, je akce Sprint nebo návrat do normální podoby. Opětovné nabrání normální podoby zabere 1 minutu a během této doby je tvor neschopný a nemůže se hýbat. Dokud kouzlo neskončí, tvor se může navrátit do podoby oblaku, což také vyžaduje 1 minutu pñeméñování. 
 
 Je-li tvor v podobě oblaku a letí ve chvíli, kdy účinek skončí, bude klesat rychlostí 12 sáhů za kolo po dobu 1 minuty, dokud bezpečně nepřistane. Nedokáže-li tvor přistát do 1 minuty, zbývající vzdálenost spadne.
 
@@ -7055,7 +7055,7 @@ Po dobu trvání kouzla se tvé oči stanou inkoustově prázdné, naplněné d�
 
 ***Nemoc.*** Cíl má nevýhodu k hodům na útok a ověřením vlastností. Na konci každého svého tahu si může znovu hodit záchranný hod na Moudrost. Uspěje-li, účinek skončí.
 
-***Panika.*** Cíl je tebou vystrašený. V každém svém tahu musí provést akci Úprk a vzdálit se co nejdál od tebe co nejbezpečnější a nejkratší trasou, pokud ještě je, kam se pohnout. Pohne-li se na místo, které je aspoň 12 sáhů od tebe a na kterém tě nevidí, účinek skončí.
+***Panika.*** Cíl je tebou vystrašený. V každém svém tahu musí provést akci Sprint a vzdálit se co nejdál od tebe co nejbezpečnější a nejkratší trasou, pokud ještě je, kam se pohnout. Pohne-li se na místo, které je aspoň 12 sáhů od tebe a na kterém tě nevidí, účinek skončí.
 
 ***Spánek.*** Cíl upadne do bezvědomí, dokud kouzlo neskončí, nebo dokud spáč neutrpí zranění, nebo dokud někdo nepoužije akci, aby s ním zatřásl, nebo ho propleskal.
 

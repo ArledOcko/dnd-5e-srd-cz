@@ -10,7 +10,7 @@ Mezi těmito celkem běžnými rasami jsou roztroušeny ty skutečně exotické:
   
 Lidé jsou nejběžnějšími obyvateli ve světech D&D, ale žijí a pracují spolu s trpaslíky, elfy, hobity a nespočtem jiných fantastických ras. Tvá postava je jedním z některého druhu těchto obyvatel.
   
-Ne všechny inteligentní rasy multivesmíru jsou vhodné pro hráčem ovládaného dobrodruha. Lidé, elfové, hobiti a trpaslíci jsou nejběžnějšími rasami pro ten druh dobrodruhů, který tvoří typické družiny. Ostatní rasy a podrasy jsou méně obvyklé jako dobrodruzi.
+Ne všechny inteligentní rasy mnohovesmíru jsou vhodné pro hráčem ovládaného dobrodruha. Lidé, elfové, hobiti a trpaslíci jsou nejběžnějšími rasami pro ten druh dobrodruhů, který tvoří typické družiny. Ostatní rasy a podrasy jsou méně obvyklé jako dobrodruzi.
   
 Volba rasy ovlivňuje mnoho dalších aspektů tvé postavy. Ustanovuje základní rysy, které trvají po celou dobrodružnou kariéru tvé postavy. Při tomto rozhodování přemýšlej nad druhem postavy, který chceš hrát. Například hobit by byla dobrá volba pro lstivého tuláka, trpaslík pro drsného válečníka a elf může být mistrem mystické magie.
   
@@ -42,7 +42,7 @@ Tvá rychlost udává, jak daleko se můžeš pohnout během cestování (8. kap
   
 #### Jazyky
   
-Na základě rasy může tvá postava mluvit, číst a psát určitými jazyky. 4. kapitola obsahuje nejběžnější jazyky multivesmíru D&D.
+Na základě rasy může tvá postava mluvit, číst a psát určitými jazyky. 4. kapitola obsahuje nejběžnější jazyky mnohovesmíru D&D.
   
 #### Podrasy
   
@@ -625,7 +625,7 @@ Ve světě Dragonlance se uctívači zlé bohyně Takhisis naučili temný ritu�
 <Card header="Nevšední rasy">
 
 
-Drakorození a zbytek ras v této kapitole jsou nevšední. Existují jen v některých světech D&D a i tam jsou méně rozšíření než lidé, elfové, hobiti a trpaslíci. V kosmopolitních městech multivesmíru D&D si většina obyvatel nijak zvlášť nevšímá ani těch nejexotičtějších ras. Ale malá města a venkov jsou jiné. Prostí obyvatelé nejsou zvyklí vidět členy těchto ras a podle toho se také
+Drakorození a zbytek ras v této kapitole jsou nevšední. Existují jen v některých světech D&D a i tam jsou méně rozšíření než lidé, elfové, hobiti a trpaslíci. V kosmopolitních městech mnohovesmíru D&D si většina obyvatel nijak zvlášť nevšímá ani těch nejexotičtějších ras. Ale malá města a venkov jsou jiné. Prostí obyvatelé nejsou zvyklí vidět členy těchto ras a podle toho se také
 chovají.
 
 ***Drakorozený.*** Je snadné se domnívat, že drakorozený je nestvůra, obzvlášť pokud jeho šupiny prozrazují dědictví barevného draka. Ale pokud drakorozený nezačne chrlit oheň a ničit, tak obyvatelé spíš reagují obezřetně než vyloženě vyděšeně.

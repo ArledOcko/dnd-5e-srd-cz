@@ -2,7 +2,7 @@
   
 Hydra je plazovitý postrach s krokodýlím tělem a několika hlavami na dlouhých, hadovitých krcích. I když se její hlavy dají useknout, rychle jí magicky znovu narostou. Typický exemplář má pět hlav.
   
-Za úsvitu času Tiamat, Královna zlých draků, zabila konkurenční dračí bohyni jménem Lernaea a rozlila její krev po multivesmíru. Z každé kapky, která dopadla na svět, se zrodila několikahlavá hydra, jíž sžíral hlad stejně moc, jako nenávist padlé bohyně. Jsou známy případy, kdy velcí šampioni testují svou odvahu proti těmto hrůzostrašným tvorům.
+Za úsvitu času Tiamat, Královna zlých draků, zabila konkurenční dračí bohyni jménem Lernaea a rozlila její krev po mnohovesmíru. Z každé kapky, která dopadla na svět, se zrodila několikahlavá hydra, jíž sžíral hlad stejně moc, jako nenávist padlé bohyně. Jsou známy případy, kdy velcí šampioni testují svou odvahu proti těmto hrůzostrašným tvorům.
   
 ***Věčný hlad.*** Hydra, žravá a nenasytná nestvůra, kousá a trhá svou kořist při zuřivém krmení. Když hydra vyčistí teritorium od jídla, a zažene tvory, kteří jsou dostatečně chytří, aby se jí vyhnuli, jde hledat jídlo jinam. Její hlad je tak velký, že když nemá co jíst, může se obrátit sama proti sobě. Její hlavy útočí jedna na druhou a tvor požírá sám sebe.
   

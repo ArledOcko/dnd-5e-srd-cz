@@ -1186,7 +1186,7 @@ Například, představ si, že trpaslíci ve tvém světě jsou mořeplavci a 
   
 Tvorba nové podrasy je komplikovanější než drobné úpravy rysů existující rasy, ale její výhodou je zvýšení rozmanitosti možností dané rasy než jen výměna některých možností za jiné.
   
-Následující příklad tě provede tvorbou elfí podrasy: eladrina. Tato podrasa má historii v multivesmíru D&D, takže už má jistý příběh, kterého se dá přidržet při návrhu jejích rysů.
+Následující příklad tě provede tvorbou elfí podrasy: eladrina. Tato podrasa má historii v mnohovesmíru D&D, takže už má jistý příběh, kterého se dá přidržet při návrhu jejích rysů.
   
 #### Příklad podrasy: Eladrin
   

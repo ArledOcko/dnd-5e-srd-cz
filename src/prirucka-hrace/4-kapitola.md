@@ -14,7 +14,7 @@ Popis rasy tvé postavy obsahuje příklady jmen, které tato rasa používá. I
   
 Můžeš hrát mužskou i ženskou postavu bez zvláštních výhod nebo překážek. Zamysli se, zda postava splňuje nebo vybočuje z kulturních očekávání pro své pohlaví a sexuální chování. Například, mužský drowí kněz popírá tradiční genderové rozdělení drowí společnosti, což by pro takovou postavu mohl být důvod, aby drowí společnost opustila a odešla na povrch.
   
-Nemusíš se držet jen klasického rozlišení pohlaví. Například elfí bůh Corellon Laretian je často vnímán jako oboupohlavní a někteří elfové v multivesmíru jsou stvořeni ke Corellonově obrazu. Také můžeš hrát ženskou postavu vydávající se za muže, nebo muže, který se cítí uvězněn v ženském těle, či vousatou trpaslici, která nesnáší, když si ji někdo splete s mužem. Stejně tak je na tvém rozhodnutí sexuální orientace postavy.
+Nemusíš se držet jen klasického rozlišení pohlaví. Například elfí bůh Corellon Laretian je často vnímán jako oboupohlavní a někteří elfové v mnohovesmíru jsou stvořeni ke Corellonově obrazu. Také můžeš hrát ženskou postavu vydávající se za muže, nebo muže, který se cítí uvězněn v ženském těle, či vousatou trpaslici, která nesnáší, když si ji někdo splete s mužem. Stejně tak je na tvém rozhodnutí sexuální orientace postavy.
 
 <Card header="Tika a Artemis: Protikladné postavy">
 
@@ -91,7 +91,7 @@ Tato stručná shrnutí devíti přesvědčení popisují typická chování tvo
   
 ***Chaotické zlo (ChZ).*** Tito tvorové jsou svévolně násilní, podnícení svou chamtivostí, nenávistí nebo krvežíznivostí. Démoni, rudí draci a orkové jsou chaoticky zlí.
   
-#### Přesvědčení v multivesmíru
+#### Přesvědčení v mnohovesmíru
   
 Pro většinu myslících bytostí je přesvědčení morální volbou. Lidé, trpaslíci, elfové a další humanoidní rasy si mohou vybrat, půjdou-li cestou dobra nebo zla, řádu nebo chaosu. Podle mýtů, dobří bohové, kteří stvořili tyto rasy, jim dali svobodnou vůli, aby si mohly zvolit svou cestu, neboť věděli, že dobro bez svobodné vůle je otroctví.
   
@@ -629,7 +629,7 @@ Lidový hrdina je jedním z prostých obyvatel, se vším, co k tomu patří
 
 ### Mudrc
   
-Roky jsi strávil studiem znalostí o multivesmíru. Pročítal jsi rukopisy, studoval jsi svitky a naslouchal jsi největším odborníkům na témata, která tě zaujala. Tvé snažení z tebe udělalo mistra tvého oboru.
+Roky jsi strávil studiem znalostí o mnohovesmíru. Pročítal jsi rukopisy, studoval jsi svitky a naslouchal jsi největším odborníkům na témata, která tě zaujala. Tvé snažení z tebe udělalo mistra tvého oboru.
   
 **Zdatnosti v dovednostech:** Historie, Mystika
   
@@ -654,7 +654,7 @@ Hoď si kostkou, nebo si zvol, jaké zaměření má tvé vzdělání.
   
 #### Schopnost: Badatel
   
-Když se pokoušíš zjistit nebo si vzpomenout na nějakou informaci, tak i když ji sám neznáš, často víš, kde a od koho ji získat. Obvykle to bývá v knihovně, v rukopise, na univerzitě nebo od jiného učence či vzdělané osoby nebo bytosti. PJ může rozhodnout, že hledaná informace je vyloučená na téměř nedosažitelném místě, nebo prostě nelze zjistit. Odhalení těch největších tajemství multivesmíru může vyžadovat dobrodružnou výpravu, nebo dokonce celé tažení.
+Když se pokoušíš zjistit nebo si vzpomenout na nějakou informaci, tak i když ji sám neznáš, často víš, kde a od koho ji získat. Obvykle to bývá v knihovně, v rukopise, na univerzitě nebo od jiného učence či vzdělané osoby nebo bytosti. PJ může rozhodnout, že hledaná informace je vyloučená na téměř nedosažitelném místě, nebo prostě nelze zjistit. Odhalení těch největších tajemství mnohovesmíru může vyžadovat dobrodružnou výpravu, nebo dokonce celé tažení.
   
 #### Navržené charakteristiky
   

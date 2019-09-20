@@ -1,6 +1,6 @@
 # Ďáblové
   
-Ďáblové zosobňují tyranii, s totalitní společností zasvěcenou nadvládě nad smrtelným životem. Stín Devíti pekel Bátoru se prodlužuje daleko do multivesmíru a Asmodeus, temný pán Nessu, se snaží podrobit si kosmos, aby uhasil svou žízeň po moci. Proto musí neustále rozšiřovat svá pekelná vojska a posílat své služebníky do smrtelné říše, aby kazili duše, ze kterých se líhnou noví ďáblové.
+Ďáblové zosobňují tyranii, s totalitní společností zasvěcenou nadvládě nad smrtelným životem. Stín Devíti pekel Bátoru se prodlužuje daleko do mnohovesmíru a Asmodeus, temný pán Nessu, se snaží podrobit si kosmos, aby uhasil svou žízeň po moci. Proto musí neustále rozšiřovat svá pekelná vojska a posílat své služebníky do smrtelné říše, aby kazili duše, ze kterých se líhnou noví ďáblové.
   
 ***Páni tyranie.*** Životním smyslem ďáblů je dobývat, zotročovat a utiskovat. Mají zvrhlé potěšení v prosazování autority nad slabými a každý tvor, který vzdoruje ďáblově autoritě, čelí rychlému a krutému trestu. Každá interakce je pro ďábla příležitost ukázat svou moc a všichni ďáblové velmi dobře rozumí, jak používat a zneužívat svou moc.
   

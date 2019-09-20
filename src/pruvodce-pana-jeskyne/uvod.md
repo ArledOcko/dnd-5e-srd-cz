@@ -24,13 +24,13 @@ Tato kniha je uspořádaná do tří částí. První část ti pomáhá určit,
   
 Každý PJ je tvůrcem svého herního světa. Ať už pro D&D hru vymyslíš svět, přizpůsobíš svět ze svého oblíbeného filmu či románu, nebo použiješ vydaný herní svět, v průběhu vašeho tažení děláš svět svým vlastním.
   
-Svět, do kterého umístíš své tažení, je jedním z nekonečně mnoha světů, které vytváří **multivesmír** D&D, obrovskou škálu sfér a světů, ve kterých se odehrávají dobrodružství. I kdybys používal zavedený svět jako Forgotten Realms, tvé tažení se odehrává v jistém zrcadlovém vesmíru oficiálního herního světa, ve kterém se odehrávají romány, herní produkty počítačové hry Forgotten Realms. Svět uprav, jak uznáš za vhodné dle důsledků hráčských akcí.
+Svět, do kterého umístíš své tažení, je jedním z nekonečně mnoha světů, které vytváří **mnohovesmír** D&D, obrovskou škálu sfér a světů, ve kterých se odehrávají dobrodružství. I kdybys používal zavedený svět jako Forgotten Realms, tvé tažení se odehrává v jistém zrcadlovém vesmíru oficiálního herního světa, ve kterém se odehrávají romány, herní produkty počítačové hry Forgotten Realms. Svět uprav, jak uznáš za vhodné dle důsledků hráčských akcí.
   
 Tvůj svět je víc než jen pozadí pro dobrodružství. Stejně jako Středozemě, Západozemí a nekonečně jiných fantasy světů je místem, do kterého můžeš utéct a být svědkem rozvíjejících se fantastických příběhů. Dobře navržený a vedený svět vypadá, jako by kolem dobrodruhů protékal, takže se cítí být jeho součástí.
   
 Konzistence je klíčem k uvěřitelnému fiktivnímu světu. Když se dobrodruzi vrátí do města pro zásoby, měli by potkat stejné **cizí postavy** (CP), které potkali předtím. Brzy si zapamatují jméno hostinského a on si také bude pamatovat ta jejich. Jakmile dosáhneš tohoto stupně konzistence, můžeš se postarat o občasnou změnu. Přijdou-li dobrodruzi zpět, aby si koupili koně ve stájích, mohou zjistit, že muž, který se staral o stáje, se vrátil zpět domů do většího města za horami a nyní se o rodinný obchod stará jeho neteř. Tento druh změny — který se nijak přímo netýká dobrodruhů, ale povšimnou si ho — dává hráčům skrz jejich postavy pocit, že jsou součástí živého světa, který se mění a roste s nimi.
 
-1. část této knihy je celá o vymýšlení tvého světa. 1. kapitola se ptá, jaký druh hry chceš vést a pomáhá ti zajistit pár důležitých podrobností o tvém světě a jeho překlenujících konfliktech. 2. kapitola ti pomáhá dát tvůj svět do širších souvislostí multivesmíru. Vychází z informací uvedených v *Příručce hráče* a pojednává o sférách existence a bozích a jak je můžeš sestavit dohromady, aby sloužili potřebám tvého tažení.
+1. část této knihy je celá o vymýšlení tvého světa. 1. kapitola se ptá, jaký druh hry chceš vést a pomáhá ti zajistit pár důležitých podrobností o tvém světě a jeho překlenujících konfliktech. 2. kapitola ti pomáhá dát tvůj svět do širších souvislostí mnohovesmíru. Vychází z informací uvedených v *Příručce hráče* a pojednává o sférách existence a bozích a jak je můžeš sestavit dohromady, aby sloužili potřebám tvého tažení.
   
 ### 2. část: Pán dobrodružství
   

@@ -576,7 +576,7 @@ Střetnutí má jeden ze tří možných výsledků: postavy buď uspějí, čá
   
 Když postavy nevědí, co mají v daném střetnutí dělat, očekávání a vzrušení se může rychle změnit na nudu a frustraci. Zřetelný cíl snižuje riziko, že hráči ztratí zájem.
   
-Pokud například tvůj celkový příběh dobrodružství zahrnuje úkol doručit bezcennou relikvii do vzdáleného kláštera, každé střetnutí po cestě je příležitostí k uvedení menšího cíle, který posouvá hlavní úkol dál. Střetnutí během cesty mohou zahrnovat přepadávání dobrodruhů nepřáteli, kteří se snaží ukrást relikvii, nebo nestvůrami, které soustavně ohrožují klášter.
+Pokud například tvůj celkový příběh dobrodružství zahrnuje úkol doručit drahocennou relikvii do vzdáleného kláštera, každé střetnutí po cestě je příležitostí k uvedení menšího cíle, který posouvá hlavní úkol dál. Střetnutí během cesty mohou zahrnovat přepadávání dobrodruhů nepřáteli, kteří se snaží ukrást relikvii, nebo nestvůrami, které soustavně ohrožují klášter.
   
 Někteří hráči si vytvoří své vlastní cíle, což je dobré očekávat a podporovat. Koneckonců je to jejich tažení stejně jako tvoje. Postava se například může pokusit uplatit nepřátele, místo aby s nimi bojovala, nebo pronásledovat prchajícího nepřítele, aby viděla, kam prchá. Hráči, kteří ignorují cíle, budou muset čelit důsledkům, což je další důležitý aspekt tvorby střetnutí.
   

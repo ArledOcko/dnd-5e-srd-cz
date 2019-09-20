@@ -403,7 +403,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
   
 ***Chapadla.*** *Útok na blízko zbraní:* +4 k zásahu, dosah 1 sáh, jeden cíl. *Zásah:* Drtivé zranění 1 a cíl je uchvácený (SO úniku je 10). Dokud toto uchvácení neskončí, chobotnice nemůže použít svá chapadla na jiný cíl.
   
-***Inkoustový oblak (obnovení po krátkém či důkladném odpočinku).*** Je-li chobotnice pod vodou, inkoustový oblak o poloměru 1 sáh se rozprostře všude kolem ní. Oblast je hustě zahalená na 1 minutu, i když významný proud může inkoust rozptýlit. Po vypuštění inkoustu může chobotnice použít akci Úprk jako bonusovou akci. 
+***Inkoustový oblak (obnovení po krátkém či důkladném odpočinku).*** Je-li chobotnice pod vodou, inkoustový oblak o poloměru 1 sáh se rozprostře všude kolem ní. Oblast je hustě zahalená na 1 minutu, i když významný proud může inkoust rozptýlit. Po vypuštění inkoustu může chobotnice použít akci Sprint jako bonusovou akci. 
  
 </Monster>
 
@@ -1577,7 +1577,7 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
   
 ***Chapadla.*** *Útok na blízko zbraní:* +5 k zásahu, dosah 3 sáhy, jeden cíl. *Zásah:* Drtivé zranění 10 (2k6 + 3). Je-li cílem tvor, je uchvácený (SO úniku je 16). Dokud toto uchvácení neskončí, cíl je zadržený a chobotnice nemůže použít svá chapadla na jiný cíl.
   
-***Inkoustový oblak (obnovení po krátkém či důkladném odpočinku).*** Je-li chobotnice pod vodou, inkoustový oblak o poloměru 4 sáhy se rozprostře všude kolem ní. Oblast je hustě zahalená na 1 minutu, i když významný proud může inkoust rozptýlit. Po vypuštění inkoustu může chobotnice použít akci Úprk jako bonusovou akci.
+***Inkoustový oblak (obnovení po krátkém či důkladném odpočinku).*** Je-li chobotnice pod vodou, inkoustový oblak o poloměru 4 sáhy se rozprostře všude kolem ní. Oblast je hustě zahalená na 1 minutu, i když významný proud může inkoust rozptýlit. Po vypuštění inkoustu může chobotnice použít akci Sprint jako bonusovou akci.
   
 </Monster>
 

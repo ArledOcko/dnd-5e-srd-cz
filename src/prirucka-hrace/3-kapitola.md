@@ -2,7 +2,7 @@
   
 Dobrodruzi jsou mimořádné osoby, které žene touha po vzrušení do života, který by se ostatní nikdy neodvážili vést. Jsou to hrdinové, nuceni objevovat temná zákoutí světa a přijímat výzvy, kterým by se nižší ženy a muži nedokázali postavit.
   
-Povolání je zejména vymezení, co tvá postava může dělat. Je to víc než profese; je to povolání tvé postavy v pravém slova smyslu. Povolání utváří způsob, jak přemýšlíš o světě a jak s ním interaguješ a tvůj vztah s ostatními tvory a silami multivesmíru. Bojovník například může vidět svět v pragmatických termínech strategie a manévrování a sebe jako prostého pěšce v mnohem větší hře. Oproti tomu klerik může vidět sebe jako oddaného sluhu v rozvíjejícím se božím plánu, nebo jako konflikt bublající mezi různými božstvy. Zatímco bojovník má kontakty v žoldnéřské kumpanii nebo armádě, klerik může znát několik kněží, paladinů a vyznavačů, kteří sdílí jeho víru.
+Povolání je zejména vymezení, co tvá postava může dělat. Je to víc než profese; je to povolání tvé postavy v pravém slova smyslu. Povolání utváří způsob, jak přemýšlíš o světě a jak s ním interaguješ a tvůj vztah s ostatními tvory a silami mnohovesmíru. Bojovník například může vidět svět v pragmatických termínech strategie a manévrování a sebe jako prostého pěšce v mnohem větší hře. Oproti tomu klerik může vidět sebe jako oddaného sluhu v rozvíjejícím se božím plánu, nebo jako konflikt bublající mezi různými božstvy. Zatímco bojovník má kontakty v žoldnéřské kumpanii nebo armádě, klerik může znát několik kněží, paladinů a vyznavačů, kteří sdílí jeho víru.
   
 Tvé povolání ti dává nejrůznější zvláštní schopnosti, například bojovníkovo zbraňové a zbrojní mistrovství či kouzelníkova kouzla. Na nízkých úrovních ti dává povolání jen dvě nebo tři schopnosti, ale jak zvyšuješ svou úroveň, získáváš jich více a tvé stávající schopnosti se často zlepší. Každé povolání v této kapitole obsahuje tabulku shrnující přínosy, které získáš na každé úrovni, a podrobné vysvětlení každého z nich.
   
@@ -284,7 +284,7 @@ Ať mudrc, skald či lotr, bard spřádá svou jemnou magii skrz slova a hudbu
   
 #### Hudba a magie
   
-Ve světech D&D nejsou slova a hudba pouhým rozechvíváním vzduchu, ale vyzníváním moci jim vlastní. Bard je mistr písní, mluvení a magie, jež obsahují. Bardi říkají, že multivesmír vznikl vyslovením slov, že slova bohů mu dala tvar a že ozvěny těchto prvobytných Slov stvoření se stále rozléhají vesmírem. Hudba bardů je pokusem o uchvácení a spoutání těchto ozvěn, jemně upředených do jejich kouzel a schopností.
+Ve světech D&D nejsou slova a hudba pouhým rozechvíváním vzduchu, ale vyzníváním moci jim vlastní. Bard je mistr písní, mluvení a magie, jež obsahují. Bardi říkají, že mnohovesmír vznikl vyslovením slov, že slova bohů mu dala tvar a že ozvěny těchto prvobytných Slov stvoření se stále rozléhají vesmírem. Hudba bardů je pokusem o uchvácení a spoutání těchto ozvěn, jemně upředených do jejich kouzel a schopností.
   
 Největší předností bardů je jejich naprostá univerzálnost. Mnozí bardi se rádi drží v boji stranou, zpovzdálí používají svou magii k inspiraci spojenců a překážení nepřátelům. Ale je-li potřeba, jsou schopni se bránit v boji na blízko pomocí magie, jíž posilují své zbraně a zbroj. Jejich kouzla spíš inklinují k iluzím a očarování než vyloženě ničivým kouzlům. Mají široké znalosti o mnoha věcech a přirozené nadání, což jim umožňuje dělat dobře témě cokoliv. V talentech, v nichž si usmyslí se zdokonalit, se stávají mistři, od hudebního umění po ezoterické znalosti.
   
@@ -1194,7 +1194,7 @@ Když se v její ruce zrodil plamen, zašeptala seschlá lidská žena tajné 
   
 Divoce vypadající tiefling přejížděl svým pohledem mezi otlučenou rukovětí a podivným uspořádáním hvězd nad hlavou. Vykonával mystický rituál pro otevření průchodu do vzdáleného světa.
   
-Černokněžníci jsou hledači znalostí, které leží ukryté ve struktuře multivesmíru. Pomocí paktů uzavřených s tajemnými bytostmi s obrovskou magickou mocí otevírají skromné i velkolepé magické účinky. Čerpají prastaré znalosti z takových bytostí jako například vílí šlechticové, démoni, ďáblové, ježibaby a cizokrajné bytosti Vzdálené říše. Černokněžníci dávají dohromady mystická tajemství, aby posílila jejich vlastní moc.
+Černokněžníci jsou hledači znalostí, které leží ukryté ve struktuře mnohovesmíru. Pomocí paktů uzavřených s tajemnými bytostmi s obrovskou magickou mocí otevírají skromné i velkolepé magické účinky. Čerpají prastaré znalosti z takových bytostí jako například vílí šlechticové, démoni, ďáblové, ježibaby a cizokrajné bytosti Vzdálené říše. Černokněžníci dávají dohromady mystická tajemství, aby posílila jejich vlastní moc.
   
 #### Přísežní a zavázaní
   
@@ -1960,7 +1960,7 @@ Tvor si je vědom tohoto účinku, než na tebe zaútočí.
 <Card header="Druidové a bohové">
 
 
-Někteří druidové uctívají síly samotné přírody, ale většinou jsou druidi oddaní jednomu z mnoha přírodních božstev uctívaných v multivesmíru (seznamy bohů v dodatku B zahrnují mnohá taková božstva). Uctívání takových božstev se zpravidla praktikuje spíš jako starý obyčej než jako víra kleriků a urbanizovaných obyvatel. Vlastně ve světě Greyhawk se druidská víra nazývá Stará víra a má mnoho příznivců mezi farmáři, lesníky, rybáři a ostatními, kdo žijí v těsném spojení s přírodou. Tato tradice zahrnuje uctívání Přírody jako zosobnění prvotní síly, ale zahrnuje také uctívání Beory, Matky Zamie, nebo také uctívání Obad-Haie, Ehlonny a Ulý.
+Někteří druidové uctívají síly samotné přírody, ale většinou jsou druidi oddaní jednomu z mnoha přírodních božstev uctívaných v mnohovesmíru (seznamy bohů v dodatku B zahrnují mnohá taková božstva). Uctívání takových božstev se zpravidla praktikuje spíš jako starý obyčej než jako víra kleriků a urbanizovaných obyvatel. Vlastně ve světě Greyhawk se druidská víra nazývá Stará víra a má mnoho příznivců mezi farmáři, lesníky, rybáři a ostatními, kdo žijí v těsném spojení s přírodou. Tato tradice zahrnuje uctívání Přírody jako zosobnění prvotní síly, ale zahrnuje také uctívání Beory, Matky Zamie, nebo také uctívání Obad-Haie, Ehlonny a Ulý.
 
 Ve světech Greyhawku a Forgotten Realms druidské kruhy obvykle nejsou spojeny s vírou v jedno přírodní božstvo. Například jakýkoliv kruh ve Forgotten Realms může obsahovat druidy sloužící ctěnému Silvanusovi, Mielice, Eldatovi, Šántí, nebo dokonce krutým Zběsilým bohům: Talosovi, Malarovi, Auril a Umberlii. Tito bohové přírody jsou často nazýváni První kruh, první mezi druidy, a většina druidů uznává jejich uctívání (i těch zlých).
 
@@ -2355,7 +2355,7 @@ Většina dobrodružných kleriků si udržuje nějaké spojení se zavedenými 
   
 #### Tvorba klerika
   
-Když si vytváříš klerika, nejdůležitější otázkou na zvážení je, kterému božstvu chce tvá postava sloužit a jaké principy chce ztělesňovat. Dodatek B obsahuje seznamy mnoha bohů multivesmíru. Zeptej se PJ, jaká božstva jsou ve vašem herním světě.
+Když si vytváříš klerika, nejdůležitější otázkou na zvážení je, kterému božstvu chce tvá postava sloužit a jaké principy chce ztělesňovat. Dodatek B obsahuje seznamy mnoha bohů mnohovesmíru. Zeptej se PJ, jaká božstva jsou ve vašem herním světě.
   
 Jakmile sis zvolil božstvo, zamysli se nad vztahem tvého klerika k danému bohovi. Vstoupil jsi do služby dobrovolně? Nebo si tě vybral bůh a do služby tě dohnal, bez ohledu na tvá přání? Jak tě berou chrámoví kněží tvé víry: jako šampiona, nebo potížistu? Co jsou tvoje hlavní cíle? Uvažuje božstvo, že ti svěří zvláštní úkol? Nebo se snažíš dokázat, že jsi hoden velkého úkolu?
   
@@ -2730,7 +2730,7 @@ Na 17. úrovni získáš odolání proti bodným, drtivým a sečným zraněn�
   
 #### Doména Znalost
   
-Bohové znalosti — například Oghma, Bokub, Gilean, Aureon a Thoth — si nadevše cení učení a porozumění. Někteří učí, že znalost je třeba shromažďovat a sdílet v knihovnách a na univerzitách, nebo podporují praktické řemeslnické znalosti a vynalézavost. Některá božstva hromadí znalosti a zadržují jejich tajemství pro sebe. A některá slibují svým stoupencům, že získají velikánskou moc, pokud rozluští tajemství multivesmíru. Stoupenci těchto bohů studují tajná učení, sbírají staré rukověti, vydávají se na tajná místa na zemi a učí se vše, co se dá. Někteří bohové znalosti podporují praktické řemeslnické znalosti a vynalézavost, jako například kovářští bohové Gond, Reorx, Onatar, Moradin, Héfaistos a Goibniu.
+Bohové znalosti — například Oghma, Bokub, Gilean, Aureon a Thoth — si nadevše cení učení a porozumění. Někteří učí, že znalost je třeba shromažďovat a sdílet v knihovnách a na univerzitách, nebo podporují praktické řemeslnické znalosti a vynalézavost. Některá božstva hromadí znalosti a zadržují jejich tajemství pro sebe. A některá slibují svým stoupencům, že získají velikánskou moc, pokud rozluští tajemství mnohovesmíru. Stoupenci těchto bohů studují tajná učení, sbírají staré rukověti, vydávají se na tajná místa na zemi a učí se vše, co se dá. Někteří bohové znalosti podporují praktické řemeslnické znalosti a vynalézavost, jako například kovářští bohové Gond, Reorx, Onatar, Moradin, Héfaistos a Goibniu.
   
 **Tabulka kouzel domény Znalost**
 
@@ -2834,7 +2834,7 @@ Kouzelníci žijí a umírají pro svá kouzla. Vše ostatní je druhořadé. 
   
 #### Lákadlo znalostí
   
-Životy kouzelníků jsou zřídkakdy obyčejné. Nejblíž z nich má k obyčejnému životu kouzelník pracující jako mudrc nebo učitel v knihovně či na univerzitě, jenž vyučuje ostatní tajemství multivesmíru. Jiní kouzelníci prodávají své služby jako proroci, slouží ve vojenských silách, nebo se dali na dráhu zločinu či nadvlády.
+Životy kouzelníků jsou zřídkakdy obyčejné. Nejblíž z nich má k obyčejnému životu kouzelník pracující jako mudrc nebo učitel v knihovně či na univerzitě, jenž vyučuje ostatní tajemství mnohovesmíru. Jiní kouzelníci prodávají své služby jako proroci, slouží ve vojenských silách, nebo se dali na dráhu zločinu či nadvlády.
   
 Ale lákadlo znalostí a moci vytahuje dokonce i většinu poklidných kouzelníků z bezpečí jejich knihoven a laboratoří do rozpadajících se zřícenin a ztracených měst. Většina kouzelníků věří, že jejich protějšky v dávných civilizacích znaly tajemství magie, která se v průběhu časů ztratila, a objevení těchto tajemství by mohlo otevřít cestu k větší moci, než jakou poskytuje magie v dnešní době.
   
@@ -2925,7 +2925,7 @@ Na 1. úrovni máš knihu kouzel obsahující šest kouzelnických kouzel 1. úr
 <Card header="Tvoje kniha kouzel">
 
 
-Kouzla, jež si přidáváš do své knihy kouzel při postupu na vyšší úrovně, odráží tvoje bádání, které provádíš na svou vlastní pěst, stejně jako intelektuální objevy, jež jsi učinil o povaze multivesmíru. Na svých dobrodružstvích možná najdeš další kouzla. Například, můžeš objevit kouzlo zaznamenané na svitku v truhle zlého kouzelníka nebo v zaprášené rukověti v prastaré knihovně.
+Kouzla, jež si přidáváš do své knihy kouzel při postupu na vyšší úrovně, odráží tvoje bádání, které provádíš na svou vlastní pěst, stejně jako intelektuální objevy, jež jsi učinil o povaze mnohovesmíru. Na svých dobrodružstvích možná najdeš další kouzla. Například, můžeš objevit kouzlo zaznamenané na svitku v truhle zlého kouzelníka nebo v zaprášené rukověti v prastaré knihovně.
 
 ***Opisování kouzel do knihy.*** Když najdeš kouzelnické kouzlo 1. či vyšší úrovně, můžeš si ho opsat do své knihy kouzel, je-li takové úrovně, kterou si můžeš připravit, a pokud máš čas ho rozluštit a zkopírovat.
 
@@ -3005,7 +3005,7 @@ Pokud chceš některé z těchto kouzel seslat na vyšší úrovni, musíš za
   
 Studium kouzelnictví je prastaré, sahá až do nejranějších objevů magie smrtelníky. Ve světech D&D je pevně zavedené, s nejrůznějšími tradicemi vyhrazenými ke komplexnímu studiu magie.
   
-Nejběžnější mystické tradice v multivesmíru se točí kolem škol magie. Kouzelníci po celé věky katalogizovali tisíce kouzel a seskupovali je do kategorií zvaných školy, jak je popsáno v 10. kapitole. Na některých místech jsou školy magie doslova školy. Jinde jsou školy spíš akademické obory s konkurenčními fakultami soupeřícími o studenty a financování. Dokonce i osamělí kouzelníci, kteří trénují učně v izolaci svých vlastních věží, používají rozdělení magie na školy jako učební pomůcku, neboť kouzla různých škol vyžadují osvojení různých technik.
+Nejběžnější mystické tradice v mnohovesmíru se točí kolem škol magie. Kouzelníci po celé věky katalogizovali tisíce kouzel a seskupovali je do kategorií zvaných školy, jak je popsáno v 10. kapitole. Na některých místech jsou školy magie doslova školy. Jinde jsou školy spíš akademické obory s konkurenčními fakultami soupeřícími o studenty a financování. Dokonce i osamělí kouzelníci, kteří trénují učně v izolaci svých vlastních věží, používají rozdělení magie na školy jako učební pomůcku, neboť kouzla různých škol vyžadují osvojení různých technik.
   
 #### Škola iluze
   
@@ -3283,7 +3283,7 @@ Mnichy spojuje schopnost využívání magické energie, která jim koluje v �
   
 #### Magie čchi
   
-Mniši pečlivě studují magickou energii, kterou většina klášterních tradic označuje jako čchi. Tato energie je prvkem magie, která zaplavuje multivesmír — jde konkrétně o prvek, který proudí živými těly. Mniši využívají tuto moc v nich samých k tvorbě magických účinků a k překročení svých fyzických schopností. Některé jejich zvláštní útoky mohou bránit proudění čchi v jejich protivnících. Touto energií mniši dodávají svým úderům beze zbraně neuvěřitelnou rychlost a sílu. Jak získávají zkušenosti, jejich bojový výcvik a osvojení si čchi jim dává větší moc nad svými těly a těly svých nepřátel.
+Mniši pečlivě studují magickou energii, kterou většina klášterních tradic označuje jako čchi. Tato energie je prvkem magie, která zaplavuje mnohovesmír — jde konkrétně o prvek, který proudí živými těly. Mniši využívají tuto moc v nich samých k tvorbě magických účinků a k překročení svých fyzických schopností. Některé jejich zvláštní útoky mohou bránit proudění čchi v jejich protivnících. Touto energií mniši dodávají svým úderům beze zbraně neuvěřitelnou rychlost a sílu. Jak získávají zkušenosti, jejich bojový výcvik a osvojení si čchi jim dává větší moc nad svými těly a těly svých nepřátel.
   
 #### Výcvik a asketizmus
   
@@ -3482,7 +3482,7 @@ Na 20. úrovni, když si házíš na iniciativu a nemáš žádné zbývajíc�
   
 ### Klášterní tradice
   
-V klášterech roztroušených napříč multivesmírem jsou běžné tři tradice. Většina klášterů praktikuje výhradně jen jednu tradici, ale několik málo ctí všechny tři tradice a každého mnicha vyučují podle jeho nadání a zájmu. Všechny tři tradice se opírají o stejné základní techniky a odlišují se postupně, jak se student stává odborníkem. Proto je třeba, aby si mnich zvolil tradici hned po dosažení 3. úrovně.
+V klášterech roztroušených napříč mnohovesmírem jsou běžné tři tradice. Většina klášterů praktikuje výhradně jen jednu tradici, ale několik málo ctí všechny tři tradice a každého mnicha vyučují podle jeho nadání a zájmu. Všechny tři tradice se opírají o stejné základní techniky a odlišují se postupně, jak se student stává odborníkem. Proto je třeba, aby si mnich zvolil tradici hned po dosažení 3. úrovně.
   
 #### Cesta čtyř živlů
   
@@ -3643,7 +3643,7 @@ Paladinové jako dobrodruzi berou svou práci vážně. Průzkum starodávné z�
   
 #### Tvorba paladina
   
-Nejdůležitějším aspektem postavy paladina je povaha jeho svatého poslání. I když schopnosti povolání spjaté s přísahou se vyskytují až po dosažení 3. úrovně, plánuj svou volbu dopředu a přečti si popisy přísah na konci popisu tohoto povolání. Jsi oddaný služebník dobra, věrný bohům spravedlnosti a cti, svatý rytíř v zářivé zbroji na výpravě proti zlu? Jsi slavný šampion světla, ochraňující všechno krásné, který stojí proti stínu, rytíř, jehož přísaha pochází z tradic, které jsou starší než mnozí bohové? Nebo jsi zahořklý samotář, který se zapřísahal pomstít těm, kteří provedli velké zlo, bohy vyslaný anděl smrti, nebo tě žene tvůj vlastní chtíč po pomstě? Dodatek B uvádí mnoho božstev uctívaných paladiny napříč multivesmírem, například Torma, Tyra, Hieronea, Kiri-Jolita, Dol Arraha, Stříbrný plamen, Bahamuta, Athénu, Rea a Heimdalla.
+Nejdůležitějším aspektem postavy paladina je povaha jeho svatého poslání. I když schopnosti povolání spjaté s přísahou se vyskytují až po dosažení 3. úrovně, plánuj svou volbu dopředu a přečti si popisy přísah na konci popisu tohoto povolání. Jsi oddaný služebník dobra, věrný bohům spravedlnosti a cti, svatý rytíř v zářivé zbroji na výpravě proti zlu? Jsi slavný šampion světla, ochraňující všechno krásné, který stojí proti stínu, rytíř, jehož přísaha pochází z tradic, které jsou starší než mnozí bohové? Nebo jsi zahořklý samotář, který se zapřísahal pomstít těm, kteří provedli velké zlo, bohy vyslaný anděl smrti, nebo tě žene tvůj vlastní chtíč po pomstě? Dodatek B uvádí mnoho božstev uctívaných paladiny napříč mnohovesmírem, například Torma, Tyra, Hieronea, Kiri-Jolita, Dol Arraha, Stříbrný plamen, Bahamuta, Athénu, Rea a Heimdalla.
   
 Jak jsi pocítil své nutkání sloužit jako paladin? Slyšel jsi šepot neviditelného boha nebo anděla, zatímco ses modlil? Vycítil v tobě potenciál jiný paladin a rozhodl se tě trénovat jako svého panoše? Nebo tě za tvým posláním vyhnala nějaká hrozná událost — například zničení domova? Možná jsi dorazil do posvátného háje nebo skryté eflí enklávy a pocítil jsi v sobě nutkání chránit všechna ta útočiště dobroty a krásy. Nebo jsi už od nepaměti věděl, že tvým posláním je život paladina, skoro jako bys byl za tímto účelem poslán na svět s daným otiskem ve své duši.
   

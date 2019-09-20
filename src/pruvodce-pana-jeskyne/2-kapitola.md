@@ -1,6 +1,6 @@
-# 2. kapitola: Tvorba multivesmíru
+# 2. kapitola: Tvorba mnohovesmíru
   
-Když dobrodruzi dosáhnou vyšších úrovní, jejich cesta se rozšíří do jiných dimenzí reality: sfér existence, které tvoří multivesmír. Postavy mohou být povolány na záchranu přítele před děsivou hloubkou Propasti, nebo k plavení se na lesklých vodách řeky Oceanus. Mohou pozvednout korbel s přátelskými obry Ysgardu, nebo čelit chaosu Limba, aby kontaktovaly seschlého githzerajského mudrce.
+Když dobrodruzi dosáhnou vyšších úrovní, jejich cesta se rozšíří do jiných dimenzí reality: sfér existence, které tvoří mnohovesmír. Postavy mohou být povolány na záchranu přítele před děsivou hloubkou Propasti, nebo k plavení se na lesklých vodách řeky Oceanus. Mohou pozvednout korbel s přátelskými obry Ysgardu, nebo čelit chaosu Limba, aby kontaktovaly seschlého githzerajského mudrce.
   
 Sféry existence vymezují extrémy podivného a často nebezpečného prostředí. Nejbizarnější místa představují prostředí, o kterých by se v přírodním světě ani nesnilo. Sférická dobrodružství nabízí bezprecedentní nebezpečí a divy. Dobrodruzi mohou kráčet ulicemi z čistého ohně, nebo otestovat svůj temperament na bojišti, kde každý padlý vstane při úsvitu z mrtvých.
   
@@ -12,7 +12,7 @@ Vnější sféry jsou říše spirituality a myšlení. Jsou to sféry, kde ex
   
 Vnitřní sféry znázorňují fyzickou podstatu a živelnou povahu ohně, vody, vzduchu a země. Například Sféra ohnivého živlu ztělesňuje podstatu ohně. Celá substance sféry je prosáklá základní podstatou ohně: energií, vášní, přeměnou a zkázou. Dokonce i objekty z pevné mosazi či čediče vypadají, jakoby plápolaly ohněm, ve vizuálním i hmatatelném projevu energičnosti ohnivé domény.
   
-V tomto kontextu je Materiální sféra svazkem, kde se všechny tyto filozofické a živelné síly střetávají v zamíchané existenci smrtelného života a hmoty. Světy D&D existují v Materiální sféře, což z ní dělá výchozí bod pro většinu tažení a dobrodružství. Zbytek multivesmíru je dán vztahem k Materiální sféře.
+V tomto kontextu je Materiální sféra svazkem, kde se všechny tyto filozofické a živelné síly střetávají v zamíchané existenci smrtelného života a hmoty. Světy D&D existují v Materiální sféře, což z ní dělá výchozí bod pro většinu tažení a dobrodružství. Zbytek mnohovesmíru je dán vztahem k Materiální sféře.
   
 ### Kategorie sfér
   
@@ -24,7 +24,7 @@ Sféry výchozí kosmologie D&D se sdružují do následujících kategorií:
   
 **Vnitřní sféry.** Čtyři Sféry živlů (Ohně, Vody, Vzduchu a Země) plus Chaos živlů, který je obklopuje, jsou Vnitřní sféry.
   
-**Sféry pozitivní a negativní energie.** Tyto dvě sféry obalují zbytek kosmologie. Zajišťují surové energie života a smrti, které tvoří základ zbývající existence v multivesmíru.
+**Sféry pozitivní a negativní energie.** Tyto dvě sféry obalují zbytek kosmologie. Zajišťují surové energie života a smrti, které tvoří základ zbývající existence v mnohovesmíru.
   
 ### Sestavení sfér
   
@@ -40,7 +40,7 @@ Většina světů D&D vyžaduje minimálně následující prvky:
  * Způsob, jak se dostat z jedné sféry do druhé
  * Způsob, jak fungují kouzla a nestvůry, které používají Astrální sféru a Éterickou sféru
   
-Jakmile se usneseš na sférách, které chceš používat ve svém herním světě, můžeš je dát do ucelené kosmologie, ale není to povinné. Protože hlavní způsob cestování ze sféry do sféry, dokonce i s použitím Přechodných sfér, je pomocí magických portálů, které propojí sféry, přesný vztah různých sfér mezi sebou je značně teoretický. Žádná bytost v multivesmíru se nemůže podívat dolů a vidět sféry v takovém rozložení, jak se na ně díváme na diagramu v knize. Žádný smrtelník nemůže potvrdit, jestli hora Celestie je sevřená mezi Bytopií a Arkádií, ale jde o vhodný teoretický konstrukt na základě teoretického překryvu mezi těmito třemi sférami a relativní důležitosti, kterou přikládají zákonu a dobru.
+Jakmile se usneseš na sférách, které chceš používat ve svém herním světě, můžeš je dát do ucelené kosmologie, ale není to povinné. Protože hlavní způsob cestování ze sféry do sféry, dokonce i s použitím Přechodných sfér, je pomocí magických portálů, které propojí sféry, přesný vztah různých sfér mezi sebou je značně teoretický. Žádná bytost v mnohovesmíru se nemůže podívat dolů a vidět sféry v takovém rozložení, jak se na ně díváme na diagramu v knize. Žádný smrtelník nemůže potvrdit, jestli hora Celestie je sevřená mezi Bytopií a Arkádií, ale jde o vhodný teoretický konstrukt na základě teoretického překryvu mezi těmito třemi sférami a relativní důležitosti, kterou přikládají zákonu a dobru.
   
 Mudrci zkonstruovali několik takových teoretických modelů, aby pochopili směsici sfér, zejména Vnější sféry. Tři nejběžnější jsou Velké kolo, Světový strom a Světová osa, ale můžeš si vytvořit či přizpůsobit jakýkoliv model, který pro sféry, které chceš použít ve hře, funguje nejlépe.
   
@@ -321,7 +321,7 @@ Tvor, který opouští Vílí divočinu, si musí hodit záchranný hod na Moudr
   
 #### Zakřivení času
   
-I když se zdá, že čas plyne ve Vílí divočině normálně, postavy v ní mohou strávit den a po jejím opuštění si uvědomit, že všude jinde v multivesmíru uplynulo méně, nebo více času.
+I když se zdá, že čas plyne ve Vílí divočině normálně, postavy v ní mohou strávit den a po jejím opuštění si uvědomit, že všude jinde v mnohovesmíru uplynulo méně, nebo více času.
   
 Kdykoliv tvor či skupina tvorů opustí Vílí divočinu poté, co v ní strávila aspoň 1 den, můžeš zvolit, že se čas nezměnil, či že se změnil tak, jak nejlépe vyhovuje tvému tažení, nebo si můžeš hodit dle Tabulky zakřivení času Vílí divočiny. K odstranění účinku až na deset tvorů lze použít kouzlo *přání*. Některé mocné víly mají schopnost udělovat taková přání a mohou to udělat, pokud příjemci souhlasí, že se stanou cílem kouzla *úkol* a že po seslání kouzla *přání* ho splní.
 
@@ -486,7 +486,7 @@ Hory poblíž Zřídel stvoření (ve Sféře ohně) se nazývají **Pece**. Lá
   
 Hraniční kraj mezi Sférou vody a Sférou vzduchu je odporný močál, kde rostou pokroucené, sukovité stromy a tlusté, pichlavé popínavé rostliny z hustého bahna a slizu. V **Bažině zapomnění** (zvané také Sféra slizu) občasná stojatá jezera a tůně hostí houští plevele a obludná hejna komárů. Pár zdejších osad se skládá z dřevěných budov zavěšených nad bahnem. Většina je postavená na plošinách mezi stromy, ale některé stojí na kůlech zatlučených hluboko do bahna. Bahno bažiny nepodpírá žádná pevná země, takže domy postavené na kůlech se do ní nakonec potopí.
   
-Říká se, že předmět, který se odhodí do Bažiny zapomnění, se nedá najít nejméně sto let. Čas od času nějaká zoufalá duše odhodí na tomto místě mocný artefakt, aby ho na čas odstranila z multivesmíru. Příslib mocné magie láká dobrodruhy, aby odvážně čelili obludnému hmyzu a ježibabám z bažiny a hledali tyto poklady.
+Říká se, že předmět, který se odhodí do Bažiny zapomnění, se nedá najít nejméně sto let. Čas od času nějaká zoufalá duše odhodí na tomto místě mocný artefakt, aby ho na čas odstranila z mnohovesmíru. Příslib mocné magie láká dobrodruhy, aby odvážně čelili obludnému hmyzu a ježibabám z bažiny a hledali tyto poklady.
   
 Kraj, který je nejblíže Bažinám zapomnění, se jmenuje **Bahnité kopce**. Laviny neustále sesouvají úbočí kopců a posílají do bezedné bažiny vrstvy zeminy a kamene. Zdá se, že Sféra země půdu neustále obnovuje a zvedá nové kopce, zatímco se ty staré rozpadají do nicoty.
   
@@ -496,7 +496,7 @@ Kraj, který je nejblíže Bažinám zapomnění, se jmenuje **Bahnité kopce**.
   
 —Ed Greenwood, *Elminster v pekle*
   
-Pokud Vnitřní sféry jsou surovou hmotou a energií, které tvoří multivesmír, Vnější sféry jsou směrnicí, myšlenkou a smyslem takové stavby. Proto mnoho mudrců přirovnává Vnější sféry k duchovním sférám, duševním sférám či božským sférám, neboť Vnější sféry jsou známé zejména jako domov bohů.
+Pokud Vnitřní sféry jsou surovou hmotou a energií, které tvoří mnohovesmír, Vnější sféry jsou směrnicí, myšlenkou a smyslem takové stavby. Proto mnoho mudrců přirovnává Vnější sféry k duchovním sférám, duševním sférám či božským sférám, neboť Vnější sféry jsou známé zejména jako domov bohů.
   
 Když se mluví o něčem, co se týká božstev, použitý jazyk musí být velmi metaforický. Jejich skutečné domovy nejsou skutečná „místa“, ale jde o připodobnění myšlenky, že Vnější sféry jsou říšemi myšlenky a ducha. Stejně jako u Sfér živlů si lze představit vnímatelnou část Vnějších sfér jako hraniční kraj, zatímco vzdálenější duševní kraje leží mimo běžně vnímatelnou zkušenost.
   
@@ -682,7 +682,7 @@ Hluboko pod těmito jeskyněmi leží Jámy Sítě démonů, kde sídlí Pavouč
   
 ***Nekonečné bludiště.*** Bafometova vrstva Propasti je nekonečná jeskyně, v jejímž středu je obrovský zikkuratový palác Rohatého krále. Palác je matoucí směsicí křivolakých chodeb a nesčetných místností. Je obehnán míli širokým hradním příkopem, který ukrývá šílené řady zaplavených schodů a chodeb vedoucích hlouběji do pevnosti.
   
-***Trojříše.*** Temný kníže Graz'zt vládne říši Azzagrat, která se skládá ze tří vrstev Propasti. Jeho sídlem je fantastický Argentský palác ve velkoměstě Zelatar, jehož rušná tržiště a letohrady přitahují návštěvníky z celého multivesmíru, kteří hledají temné magické vědění a zvrhlé rozkoše. Na Graz'zův rozkaz předvádí démoni Azzagratu pozlátko uctivosti a uhlazené zdvořilosti. Avšak takzvaná Trojříše je stejně nebezpečná jako jiné části Propasti a sféričtí návštěvníci mohou zmizet beze stopy ve spletitých městech a lesích, jejichž stromy mají hadovité větve.
+***Trojříše.*** Temný kníže Graz'zt vládne říši Azzagrat, která se skládá ze tří vrstev Propasti. Jeho sídlem je fantastický Argentský palác ve velkoměstě Zelatar, jehož rušná tržiště a letohrady přitahují návštěvníky z celého mnohovesmíru, kteří hledají temné magické vědění a zvrhlé rozkoše. Na Graz'zův rozkaz předvádí démoni Azzagratu pozlátko uctivosti a uhlazené zdvořilosti. Avšak takzvaná Trojříše je stejně nebezpečná jako jiné části Propasti a sféričtí návštěvníci mohou zmizet beze stopy ve spletitých městech a lesích, jejichž stromy mají hadovité větve.
   
 ***Smrtící kotliny.*** Yeenoghu vládne vrstvě roklí známé jako Smrtící kotliny. Zdejší tvorové musí lovit, aby přežili. Dokonce i rostliny, jež musí koupat své kořeny v krvi, strojí léčky na neopatrné. Yeenoghuovi služebníci, kteří pomáhají sytit hlad svého pána, když je na lovu ve svém království a hledá kořist, chytají tvory z Materiální sféry a vypouští je v říši Gnolího pána.
   
@@ -740,7 +740,7 @@ Gehenna je sféra nedůvěry a chamtivosti. Je rodištěm yugolotů, kteří z
   
 Skalnaté svahy sféry činí zdejší pohyb obtížný a nebezpečný. Půda má téměř všude sklon nejméně 45 stupňů. Příkré útesy a hluboké kaňony představují místy náročnější překážky. Nástrahy zahrnují sopečné trhliny, z nichž vychází škodlivé výpary nebo žhnoucí plameny.
   
-V Gehenně není místo pro slitování nebo soucit. Zdejší běsi patří mezi nejhamižnější a nejsobečtější ze všech v celém multivesmíru.
+V Gehenně není místo pro slitování nebo soucit. Zdejší běsi patří mezi nejhamižnější a nejsobečtější ze všech v celém mnohovesmíru.
   
 #### Volitelné pravidlo: Krutá překážka
   
@@ -768,7 +768,7 @@ Zarieliným sídlem je vznášející se čedičová citadela ověnčená část
   
 Druhá vrstva nese jméno po svém současném pánovi, Dispáterovi. Arcivévoda je manipulátor a podvodník, ale je ďábelsky pohledný a od člověka ho odlišují pouze malé rohy, ocas a kopyto na levé noze. Jeho karmínový trůn stojí v srdci Železného města Disu, šeredné metropole, která je největší v Devíti peklech. Sféričtí cestovatelé sem přichází spolčovat se s ďábly a uzavírat dohody s nočními ježibabami, rakšázami, inkuby, sukubami a jinými běsy. Dispáter vybírá část z každé dohody pomocí speciálních provizí, které se přičítají ke kontraktům podepsaných v jeho vrstvě Devíti pekel.
   
-Dispáter je jedním z nejvěrnějších a nejdůmyslnějších vazalů Asmodea, jen málokterá bytost v multivesmíru ho dokáže přechytračit. Je posedlý uzavíráním dohod se smrtelníky výměnou za jejich duše víc než většina ďáblů a jeho poslové neúnavně pracují na podpoře zlých pletich v Materiální sféře.
+Dispáter je jedním z nejvěrnějších a nejdůmyslnějších vazalů Asmodea, jen málokterá bytost v mnohovesmíru ho dokáže přechytračit. Je posedlý uzavíráním dohod se smrtelníky výměnou za jejich duše víc než většina ďáblů a jeho poslové neúnavně pracují na podpoře zlých pletich v Materiální sféře.
   
 ***Minauros.*** Třetí vrstva Devíti pekel je zapáchající bažina. Z hnědého nebe sféry padá kyselý déšť, tlusté vrstvy pěny pokrývají hnilobný povrch a zející jámy číhají v husté tmě na neopatrné poutníky, aby je pohltily. Z bažiny vystupují kyklopská velkoměsta z ozdobně tesaného kamene, včetně velkého velkoměsta Minauros, po kterém je sféra pojmenovaná.
   
@@ -798,7 +798,7 @@ Mefistofeles sídlí v ledové citadele Mefistar, kde spřádá plány, jak se
   
 Mefistofeles je vysoký, pozoruhodný ďábel s úchvatnými rohy a chladným vystupováním. Obchoduje s dušemi, stejně jako ostatní arciďáblové, ale jen málokdy věnuje svůj čas tvorům, kteří si nezaslouží jeho osobní pozornost. Jeho instinkty jsou ostré jako břitva jako canijské ledové větry a říká se, že jen Asmodeovi se kdy podařilo ho obelstít či mu něco zmařit.
   
-***Nessus.*** Nejnižší vrstva Devíti pekel, Nessus, je říše temných jam, jejíž zdi jsou posázeny pevnostmi. Zde shromažďují šejtánští generálové oddaní Asmodeovi své ďábelské legie a plánují dobývání multivesmíru. Ve středu vrstvy stojí rozsáhlá trhlina neznámé hloubky, ze které vystupuje velká věžová citadela Malšém, domov Asmodea a jeho pekelného dvora.
+***Nessus.*** Nejnižší vrstva Devíti pekel, Nessus, je říše temných jam, jejíž zdi jsou posázeny pevnostmi. Zde shromažďují šejtánští generálové oddaní Asmodeovi své ďábelské legie a plánují dobývání mnohovesmíru. Ve středu vrstvy stojí rozsáhlá trhlina neznámé hloubky, ze které vystupuje velká věžová citadela Malšém, domov Asmodea a jeho pekelného dvora.
   
 Malšém připomíná vykotlaný gigantický stalagmit. Citadela je také vězením pro duše, které Asmodeus nechal uzamknout do úschovny. Přesvědčit ho, aby propustil byť jedinou z těchto duší, vyjde draho a říká se, že arcivévoda Nessu si za takovou laskavost v minulosti vymínil celá království.
   
@@ -881,17 +881,17 @@ Ve středu Mimozemě, jako hřídel sférického kola, je Věž — jehlovitá h
   
 Sigil je ráj obchodníků. Zboží a informace do něj proudí ze všech sfér. Je zde čilý obchod s informacemi o sférách, zejména se zaklínadly či předměty potřebnými pro obsluhování konkrétních portálů. Prodávají a nakupují se tu všechny druhy portálových klíčů.
   
-Město je doménou nevyzpytatelné Paní bolesti, bytosti, která je tak stará jako bohové a jejíž cíle jsou neznámé dokonce i mudrcům jejího města. Je Sigil jejím vězením? Je padlým tvůrcem multivesmíru? Nikdo neví. Nebo pokud ví, tak nepoví.
+Město je doménou nevyzpytatelné Paní bolesti, bytosti, která je tak stará jako bohové a jejíž cíle jsou neznámé dokonce i mudrcům jejího města. Je Sigil jejím vězením? Je padlým tvůrcem mnohovesmíru? Nikdo neví. Nebo pokud ví, tak nepoví.
   
 ### Polosféry
   
-Polosféry jsou mimodimenzionální prostory, které vznikají různými prostředky a pyšní se vlastními fyzikálními zákony. Některé jsou stvořeny kouzly. Jiné existují přirozeně, jako lom reality, který byl přiškrcen od zbytku multivesmíru. Kouzlo *přesun sférami* by teoreticky také mohlo přenést cestovatele do polosféry, ale je extrémně těžké získat správnou frekvenci nutnou pro sladění žezla. Kouzlo *brána* je spolehlivější, pokud sesilatel o polosféře ví.
+Polosféry jsou mimodimenzionální prostory, které vznikají různými prostředky a pyšní se vlastními fyzikálními zákony. Některé jsou stvořeny kouzly. Jiné existují přirozeně, jako lom reality, který byl přiškrcen od zbytku mnohovesmíru. Kouzlo *přesun sférami* by teoreticky také mohlo přenést cestovatele do polosféry, ale je extrémně těžké získat správnou frekvenci nutnou pro sladění žezla. Kouzlo *brána* je spolehlivější, pokud sesilatel o polosféře ví.
   
 Polosféra může být malá jako jedna místnost, nebo tak velká, že by obsáhla celou říši. Například kouzlo *Mordenkainenův velkolepý dům* vytvoří polosféru obsahující vstupní halu s několika sousedními místnostmi, zatímco země Borovie (v Ravenloftu) je celá v polosféře pod nadvládou upířího pána, Strahda von Zaroviche. Když se polosféra spojí s Materiální sférou či nějakou jinou sférou, vstup do ní může být stejně snadný jako vejití do portálu nebo projití mlžnou zdí.
   
 ### Vzdálená říše
   
-Vzdálená říše leží mimo známý multivesmír. Vlastně to může být zcela oddělený vesmír se svými vlastními fyzikálními a magickými zákony. Na místě, kde proniknou zbloudilé energie ze Vzdálené říše do jiné sféry, se život a hmota zbortí a pokroutí do cizáckých tvarů, které jsou mimo chápání geometrie a biologie. Zrůdy, například mozkožrouti a zřící, jsou buď z této sféry, nebo ovlivnění jejím podivným vlivem.
+Vzdálená říše leží mimo známý mnohovesmír. Vlastně to může být zcela oddělený vesmír se svými vlastními fyzikálními a magickými zákony. Na místě, kde proniknou zbloudilé energie ze Vzdálené říše do jiné sféry, se život a hmota zbortí a pokroutí do cizáckých tvarů, které jsou mimo chápání geometrie a biologie. Zrůdy, například mozkožrouti a zřící, jsou buď z této sféry, nebo ovlivnění jejím podivným vlivem.
   
 Bytosti, které bydlí ve Vzdálené říši, jsou pro normální mysl příliš cizácké, aby je pochopila bez poškození. Titánští tvorové tam plavou skrz nicotu a nepopsatelné věci šeptají hrozné pravdy těm, kdo se odváží poslouchat. Pro smrtelníky je znalost Vzdálené říše vítězstvím rozumu nad primitivními omezeními hmoty, prostoru a nakonec i duševního zdraví. Někteří černokněžníci milují tento souboj a uzavírají pakty s tamními bytostmi. Každý, kdo viděl Vzdálenou říši, mumlá o očích, chapadlech a hororu.
   

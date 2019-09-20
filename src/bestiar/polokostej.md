@@ -85,7 +85,7 @@ Polokostěj může provést 3 legendární akce, přičemž si vybírá z ní�
 >   
 > — Polokostějův epitaf
 
-< Card header="Acererak a jeho učedníci">
+<Card header="Acererak a jeho učedníci">
   
 Přeměna v polokostěje není trpkým koncem pro všechny kostěje, kteří ho zažijí. Jako vědomá volba se cesta polokostěje stává dalším krokem v temné evoluci. Kostěj Acererak — mocný kouzelník, démonolog a neblaze proslulý pán Hrobky děsů — předvídal svou přeměnu a připravil se na ni zasazením očarovaných drahokamů do očních důlků a zubů své lebky. Každý z těchto duševních drahokamů měl moc lapat duše, kterými se měl krmit jeho škapulíř.
   

@@ -18,4 +18,4 @@
 
 V myslích tvorů vytvoříš přízračný obraz jejich nejhorších obav. Každý tvor v kuželu 6 sáhů musí uspět v záchranném hodu na Moudrost, jinak pustí vše, co drží a stane se vystrašený po dobu trvání. 
 
-Když je tvor vystrašený tímto kouzlem, musí v každém svém tahu provést akci Úprka vzdálit se co nejdál od tebe co nejbezpečnější a nejkratší trasou, pokud ještě je, kam se pohnout. Skončí-li tvor svůj tah na místě, kde na tebe nemá výhled, může si hodit záchranný hod na Moudrost. Uspěje-li, kouzlo pro něj skončí.
+Když je tvor vystrašený tímto kouzlem, musí v každém svém tahu provést akci Sprint a vzdálit se co nejdál od tebe co nejbezpečnější a nejkratší trasou, pokud ještě je, kam se pohnout. Skončí-li tvor svůj tah na místě, kde na tebe nemá výhled, může si hodit záchranný hod na Moudrost. Uspěje-li, kouzlo pro něj skončí.

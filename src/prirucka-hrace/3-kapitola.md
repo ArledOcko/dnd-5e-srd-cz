@@ -2608,7 +2608,7 @@ Na 17. úrovni získáš schopnost rozkazovat zvířatům a rostlinným tvorů
   
 #### Doména Světlo
   
-Bohové světla — například Helm, Latander, Pholtus, Branchala, Stříbrný plamen, Belenus, Apollón a Re — prosazují ideály znovuzrození a obnovy, pravdy, bdělosti a krásy a jejich symbolem je zpravidla slunce. Někteří z těchto bohů jsou vyobrazováni jako samotné slunce, nebo jako vozataj jedoucí po nebi se zapřaženým sluncem. Jiní jsou neúnavní strážci, jejichž oči probodávají každý stín a prohlédnou každý klam. Někteří jsou božstvy krásy a umění, kteří učí, že umění je prostředkem zdokonalování duše. Klerici boha světla jsou osvícené duše naplněné září a schopností bystrého pohledu jejich boha. Jsou pověřeni vypuzovat lži a temnotu.
+Bohové světla — například Helm, Lathander, Pholtus, Branchala, Stříbrný plamen, Belenus, Apollón a Re — prosazují ideály znovuzrození a obnovy, pravdy, bdělosti a krásy a jejich symbolem je zpravidla slunce. Někteří z těchto bohů jsou vyobrazováni jako samotné slunce, nebo jako vozataj jedoucí po nebi se zapřaženým sluncem. Jiní jsou neúnavní strážci, jejichž oči probodávají každý stín a prohlédnou každý klam. Někteří jsou božstvy krásy a umění, kteří učí, že umění je prostředkem zdokonalování duše. Klerici boha světla jsou osvícené duše naplněné září a schopností bystrého pohledu jejich boha. Jsou pověřeni vypuzovat lži a temnotu.
   
 **Tabulka kouzel domény Světlo**
 
@@ -2778,7 +2778,7 @@ Jakmile použiješ tuto schopnost, můžeš ji použít znovu, až si krátce ne
   
 #### Doména Život
   
-Doména Život se zaměřuje na chvění pozitivní energie — jedné ze základních sil vesmíru — která udržuje všechen život. Bohové života podporují vitalitu a zdraví skrz léčení nemocných a zraněných, starají se o potřebné a zahánějí síly smrti a nemrtvosti. Téměř každé nezlé božstvo může uplatňovat vliv na tuto doménu. Zejména zemědělská božstva (například Šántí, Arawai a Démétér), sluneční bohové (například Latander, Pelor a Re), bohové uzdravení či výdrže (například Ilmater, Mišakal, Apollón a Dian Cecht) a bohové domova a společenství (například Hestiá, Hathor a Boldrei).
+Doména Život se zaměřuje na chvění pozitivní energie — jedné ze základních sil vesmíru — která udržuje všechen život. Bohové života podporují vitalitu a zdraví skrz léčení nemocných a zraněných, starají se o potřebné a zahánějí síly smrti a nemrtvosti. Téměř každé nezlé božstvo může uplatňovat vliv na tuto doménu. Zejména zemědělská božstva (například Šántí, Arawai a Démétér), sluneční bohové (například Lathander, Pelor a Re), bohové uzdravení či výdrže (například Ilmater, Mišakal, Apollón a Dian Cecht) a bohové domova a společenství (například Hestiá, Hathor a Boldrei).
   
 **Tabulka kouzel domény Život**
 

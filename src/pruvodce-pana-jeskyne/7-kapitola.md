@@ -1726,7 +1726,7 @@ Tato hůlka má 7 dávek pro následující vlastnosti. Každý den za úsvitu s
   
 ***Rozkaz.*** Když držíš hůlku, můžeš použít akci k spotřebování 1 dávky a přikázat jinému tvorovi, aby utekl, nebo zalehl k zemi, jako kouzlem *rozkaz* (SO záchrany 15).
   
-Kužel strachu. Když držíš hůlku, můžeš použít akci k spotřebování 2 dávek, čímž ze špičky hůlky zasvítí kužel žlutého světla 12 sáhů. Každý tvor v kuželu musí uspět v záchranném hodu na Moudrost se SO 15, jinak bude vystrašený na 1 minutu. Zatímco je tvor tímto způsobem vystrašený, musí strávit své tahy tím, že se pokouší od tebe maximálně vzdálit a dobrovolně se nepohne na místo do 6 sáhů od tebe. Také nemůže provádět reakce. Jako svou akci může použít pouze Sprint, nebo se pokusit uniknout z účinku, který mu brání se pohnout. Pokud se tvor nemá kam pohnout, může použít akci Uhnutí. Na konci každého svého tahu může tvor zopakovat záchranný hod a při úspěchu pro něj účinek skončí.
+Kužel strachu. Když držíš hůlku, můžeš použít akci k spotřebování 2 dávek, čímž ze špičky hůlky zasvítí kužel žlutého světla 12 sáhů. Každý tvor v kuželu musí uspět v záchranném hodu na Moudrost se SO 15, jinak bude vystrašený na 1 minutu. Zatímco je tvor tímto způsobem vystrašený, musí strávit své tahy tím, že se pokouší od tebe maximálně vzdálit a dobrovolně se nepohne na místo do 6 sáhů od tebe. Také nemůže provádět reakce. Jako svou akci může použít pouze Sprint, nebo se pokusit uniknout z účinku, který mu brání se pohnout. Pokud se tvor nemá kam pohnout, může použít akci Uhýbání. Na konci každého svého tahu může tvor zopakovat záchranný hod a při úspěchu pro něj účinek skončí.
   
 #### Hůlka tajemství
   
@@ -2709,7 +2709,7 @@ Když ti padne při hodu na útok s touto zbraní 20, cíl utrpí dodatečné 
   
 *Zbraň (palcát), vzácný (vyžaduje sladění)*
   
-Tato magická zbraň má 3 dávky. Když ji držíš, můžeš použít akci k spotřebování 1 dávky a tím vypustit vlnu hrůzy. Každý tvor dle tvé volby do 6 sáhů od tebe musí uspět v záchranném hodu na Moudrost se SO 15, jinak bude tebou vystrašený na 1 minutu. Zatímco je tvor tímto způsobem vystrašený, musí strávit své tahy tím, že se pokouší od tebe maximálně vzdálit a dobrovolně se nepohne na místo do 6 sáhů od tebe. Také nemůže provádět reakce. Jako svou akci může použít pouze Sprint, nebo se pokusit uniknout z účinku, který mu brání se pohnout. Pokud se tvor nemá kam pohnout, může použít akci Uhnutí. Na konci každého svého tahu může tvor zopakovat záchranný hod a při úspěchu pro něj účinek skončí.
+Tato magická zbraň má 3 dávky. Když ji držíš, můžeš použít akci k spotřebování 1 dávky a tím vypustit vlnu hrůzy. Každý tvor dle tvé volby do 6 sáhů od tebe musí uspět v záchranném hodu na Moudrost se SO 15, jinak bude tebou vystrašený na 1 minutu. Zatímco je tvor tímto způsobem vystrašený, musí strávit své tahy tím, že se pokouší od tebe maximálně vzdálit a dobrovolně se nepohne na místo do 6 sáhů od tebe. Také nemůže provádět reakce. Jako svou akci může použít pouze Sprint, nebo se pokusit uniknout z účinku, který mu brání se pohnout. Pokud se tvor nemá kam pohnout, může použít akci Uhýbání. Na konci každého svého tahu může tvor zopakovat záchranný hod a při úspěchu pro něj účinek skončí.
   
 Každý den za úsvitu si palcát dobije 1k3 spotřebovaných dávek.
   

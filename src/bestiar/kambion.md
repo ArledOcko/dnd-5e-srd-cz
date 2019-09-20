@@ -6,9 +6,9 @@ Kambion je potomek běsa (obvykle sukuby či inkuba) a humanoida (obvykle člo
   
 ***Pěšáci mocných.*** Kambion, který je donucen sloužit svému běsovskému rodiči, to dělá z obdivu a obavy, ale i s očekáváním, že jednoho dne vystoupá na prominentní místo. Kambioni vychovaní v Devíti peklech slouží jako vojáci, velvyslanci a osobní sluhové vyšších ďáblů. V Propasti má kambion jen tolik autority, kolik dokáže nakupit pomocí čiré fyzické síly a síly vůle.
   
-***Graz‘ztův zplozenec.*** Démonický pán Graz‘zt si libuje v páření se s humanoidy, kteří uzavřeli pakt s běsy, a zplodil mnoho kambionů, jež mu pomáhají rozsévat chaos v multivesmíru. Tito kambioni jsou charakterističtí svou uhlově černou kůží, čertovským kopytem, šestiprstýma rukama a nadpozemskou krásou.
+***Graz‘ztův zplozenec.*** Démonický pán Graz‘zt si libuje v páření se s humanoidy, kteří uzavřeli pakt s běsy, a zplodil mnoho kambionů, jež mu pomáhají rozsévat chaos v mnohovesmíru. Tito kambioni jsou charakterističtí svou uhlově černou kůží, čertovským kopytem, šestiprstýma rukama a nadpozemskou krásou.
 
-> „Drápají se z lůna svých matek, aby šířili zkaženost napříč multivesmírem. No nejsou miloučcí?“
+> „Drápají se z lůna svých matek, aby šířili zkaženost napříč mnohovesmírem. No nejsou miloučcí?“
 > 
 > — Baba Jaga
 

@@ -48,7 +48,7 @@ Nejběžnější akce, které můžeš dělat, jsou popsané v části „Akce
   
 Část „Pohyb a pozice“ dále v této kapitole obsahuje pravidla pro tvůj pohyb.
   
-Ve svém tahu se můžeš vzdát pohybu, provedení akce, či provedení čehokoliv. Pokud se nemůžeš rozhodnout, co udělat ve svém tahu, zvaž provedení Přípravy akce nebo Uhnutí, jak je popsáno v „Akce v boji“.
+Ve svém tahu se můžeš vzdát pohybu, provedení akce, či provedení čehokoliv. Pokud se nemůžeš rozhodnout, co udělat ve svém tahu, zvaž provedení Přípravy akce nebo Uhýbání, jak je popsáno v „Akce v boji“.
   
 #### Bonusové akce
   
@@ -248,9 +248,9 @@ Sesilatelé kouzel, například kouzelníci a klerici, stejně jako mnohé nes
   
 Když provedeš akci Schování, hodíš si na ověření Obratnosti (Nenápadnosti) a pokusíš se schovat podle pravidel pro schování v 7. kapitole. Uspěješ-li, získáš určité benefity, jak je popsáno v části „Nevidění útočníci a cíle“ dále v této kapitole.
   
-### Uhnutí
+### Uhýbání
   
-Když použiješ akci Uhnutí, zcela se soustředíš na vyhýbání se útokům. Do začátku tvého příštího tahu má každý hod na útok proti tobě nevýhodu, pokud útočníka vidíš, a na záchranné hody na Obratnost si házíš s výhodou. Pokud se staneš neschopný (viz dodatek A), nebo klesne-li tvá rychlost na 0, přijdeš o tento užitek.
+Když použiješ akci Uhýbání, zcela se soustředíš na vyhýbání se útokům. Do začátku tvého příštího tahu má každý hod na útok proti tobě nevýhodu, pokud útočníka vidíš, a na záchranné hody na Obratnost si házíš s výhodou. Pokud se staneš neschopný (viz dodatek A), nebo klesne-li tvá rychlost na 0, přijdeš o tento užitek.
   
 ### Sprint
   
@@ -552,7 +552,7 @@ Pokud je tvoje jezdecké zvíře sraženo, když na něm sedíš, můžeš pomoc
   
 Když sedíš na jezdeckém zvířeti, máš dvě možnosti. Buď ho můžeš ovládat, nebo mu dovolit jednat nezávisle. Inteligentní tvorové, například draci, jednají nezávisle.
   
-Jezdecké zvíře můžeš ovládat, jen pokud bylo cvičeno, aby přijalo jezdce. U domestikovaných koní, oslů a podobných tvorů se bere, že takový výcvik mají. Iniciativa ovládaného jezdeckého zvířete se změní na tvou, když na něj nasedneš. Pohybuje se, jak mu přikážeš, a má jen tři možnosti akce: Odpoutání se, Uhnutí a Sprint. Ovládané jezdecké zvíře se může pohnout a jednat dokonce i v tahu, kdy na něj nasedneš.
+Jezdecké zvíře můžeš ovládat, jen pokud bylo cvičeno, aby přijalo jezdce. U domestikovaných koní, oslů a podobných tvorů se bere, že takový výcvik mají. Iniciativa ovládaného jezdeckého zvířete se změní na tvou, když na něj nasedneš. Pohybuje se, jak mu přikážeš, a má jen tři možnosti akce: Odpoutání se, Uhýbání a Sprint. Ovládané jezdecké zvíře se může pohnout a jednat dokonce i v tahu, kdy na něj nasedneš.
   
 Nezávislé jezdecké zvíře si ponechává své pořadí v iniciativě. Když má na sobě jezdce, nijak to neomezuje akce, které může provádět a pohybuje se a jedná, jak chce. Může uprchnout z boje, naběhnout do útoku, sežrat těžce zraněného nepřítele, nebo nějak jinak jednat proti tvé vůli.
   

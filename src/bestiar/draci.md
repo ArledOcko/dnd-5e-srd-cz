@@ -39,7 +39,7 @@ Bílí, černí, modří, rudí a zelení draci představují zlou stranu dra�
   
 Doupata barevných draků jsou většinou ukryta na nebezpečných a vzdálených místech, kam se dostanou jen ti nejodvážnější smrtelníci. Černý drak může sídlit v srdci obrovského močálu, zatímco rudý drak může obývat kalderu aktivní sopky. Kromě přírodních obran svých doupat barevní draci používají magické strážce, pasti a servilní tvory k ochraně svých pokladů.
   
-***Královna zlých draků.*** Dračí královna Tiamat je hlavním božstvem zlých draků. Sídlí v Avernu, první vrstvě Devíti pekel. Jako nižší bůh má moc udělovat kouzla svým uctívačům, i když se o svou moc dělí nerada. Symbolizuje lakomství zlých draků. Domnívá se, že všechny poklady v multivesmíru budou jednoho dne její a jenom její.
+***Královna zlých draků.*** Dračí královna Tiamat je hlavním božstvem zlých draků. Sídlí v Avernu, první vrstvě Devíti pekel. Jako nižší bůh má moc udělovat kouzla svým uctívačům, i když se o svou moc dělí nerada. Symbolizuje lakomství zlých draků. Domnívá se, že všechny poklady v mnohovesmíru budou jednoho dne její a jenom její.
   
 Tiamat je gigantický drak, jehož pět hlav odráží podoby barevných draků, kteří ji uctívají — bílá, černá, modrá, rudá a zelená. Je postrachem na bojišti, schopným vyhladit celé armády pěti svými dechy, hrozivým sesíláním kouzel a děsivými drápy.
   

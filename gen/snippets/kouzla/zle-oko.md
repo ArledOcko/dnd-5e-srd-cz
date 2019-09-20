@@ -20,6 +20,6 @@ Po dobu trvání kouzla se tvé oči stanou inkoustově prázdné, naplněné d�
 
 ***Nemoc.*** Cíl má nevýhodu k hodům na útok a ověřením vlastností. Na konci každého svého tahu si může znovu hodit záchranný hod na Moudrost. Uspěje-li, účinek skončí.
 
-***Panika.*** Cíl je tebou vystrašený. V každém svém tahu musí provést akci Úprk a vzdálit se co nejdál od tebe co nejbezpečnější a nejkratší trasou, pokud ještě je, kam se pohnout. Pohne-li se na místo, které je aspoň 12 sáhů od tebe a na kterém tě nevidí, účinek skončí.
+***Panika.*** Cíl je tebou vystrašený. V každém svém tahu musí provést akci Sprint a vzdálit se co nejdál od tebe co nejbezpečnější a nejkratší trasou, pokud ještě je, kam se pohnout. Pohne-li se na místo, které je aspoň 12 sáhů od tebe a na kterém tě nevidí, účinek skončí.
 
 ***Spánek.*** Cíl upadne do bezvědomí, dokud kouzlo neskončí, nebo dokud spáč neutrpí zranění, nebo dokud někdo nepoužije akci, aby s ním zatřásl, nebo ho propleskal.

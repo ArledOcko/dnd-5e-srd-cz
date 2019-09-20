@@ -2207,7 +2207,7 @@ Když vypiješ tento lektvar, získáš účinek kouzla *jasnozřivost*. V té
   
 *Lektvar, velmi vzácný*
   
-Když vypiješ tento lektvar, na 1 hodinu získáš rychlost létání rovnou tvé rychlosti chůze a můžeš se vznášet. Přestane-li lektvar účinkovat ve chvíli, kdy jsi ve vzduchu, tak spadneš, pokud nemáš nějaké jiné prostředky, které by tě držely ve vzduchu. Tento čirá kapalina lektvaru plave ve vrchní části své nádoby a proudí v ní oblačně bílé kousky.
+Když vypiješ tento lektvar, na 1 hodinu získáš rychlost létání rovnou tvé rychlosti chůze a můžeš se vznášet. Přestane-li lektvar účinkovat ve chvíli, kdy jsi ve vzduchu, tak spadneš, pokud nemáš nějaké jiné prostředky, které by tě držely ve vzduchu. Čirá kapalina tohoto lektvaru se vznáší ve vrchní části flakónku a proudí v ní oblačně bílé kousky.
   
 #### Lektvar mlžné podoby
   

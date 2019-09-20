@@ -10,7 +10,7 @@ Démon se může zrodit jako stal, potom se stát dráčem a nakonec se po nev
   
 Utracením značné kouzelné moci může démonický pán povýšit nižší démony do vyšších forem, i když takové povýšení nikdy nepramení z démonových skutků ani úspěchů. Démonický pán spíš přemění stala v raracha, když potřebuje neviditelného špeha, nebo armádu dráčů v hezry, když pochoduje proti soupeřícímu pánovi. Démoničtí páni jen vzácně povyšují démony do vyšších hodností. Bojí se, aby si bezděky nevytvořili své vlastní soupeře.
   
-***Propastný vpád.*** Všude v Propasti démoni hledají portály do jiných sfér. Vyprošují si šanci vyklouznout ze své domovské říše, rozšířit svůj temný vliv po multivesmíru, zkazit práci bohů, zpustošit civilizace a přivést vesmíru zoufalství a zkázu.
+***Propastný vpád.*** Všude v Propasti démoni hledají portály do jiných sfér. Vyprošují si šanci vyklouznout ze své domovské říše, rozšířit svůj temný vliv po mnohovesmíru, zkazit práci bohů, zpustošit civilizace a přivést vesmíru zoufalství a zkázu.
   
 Ty nejčernější legendy smrtelné říše jsou postaveny na apokalypse zaviněné démony vypuštěnými do světa. Proto i národy zapletené do hořkého konfliktu odloží své sváry, aby pomohly potlačit propuknutí démonů, nebo zatarasily propastné trhliny dřív, než se tito běsi osvobodí.
   
@@ -54,7 +54,7 @@ Kníže zvířat vypadá jako obrovský minotaurus s černou kožešinou a �
   
 ### Demogorgon
   
-Demogorgon, zvaný Sykavé zvíře a samozvaný Kníže démonů, netouží po ničem menším než zrušení řádu multivesmíru. Kníže démonů, šílená sbírka rysů, vzbuzuje strach a nenávist mezi ostatními démony a démonickými pány.
+Demogorgon, zvaný Sykavé zvíře a samozvaný Kníže démonů, netouží po ničem menším než zrušení řádu mnohovesmíru. Kníže démonů, šílená sbírka rysů, vzbuzuje strach a nenávist mezi ostatními démony a démonickými pány.
   
 Demogorgon je třikrát vyšší než člověk, jeho tělo je vlnité jako hadí a silné jako tělo velké opice. Místo rukou má chapadla. Jeho ještěří trup je na spodu zakončen rozeklaným ocasem, jehož bičíkovité cípy jsou vyzbrojeny krutými čepelemi, a blánovitýma nohama s drápy. Kníže démonů má dvě zlověstné paviání hlavy, obě šílené. Jen díky konfliktu mezi dvěma polovinami jeho dvojí povahy jsou jeho ambice drženy v šachu.
   
@@ -78,7 +78,7 @@ Když se Lolth zjevuje svým následovníkům v smrtelné říši, což dělá
   
 ### Orkus
   
-Démonického pána Orkuse, známého jako Démonický kníže nemrtvosti a Krvavý pán, uctívají nemrtví a živí tvorové, kteří ovládají moc nemrtvosti. Orkus je hloubavá a nihilistická bytost, která touží udělat z multivesmíru místo smrti a temnoty, které tak zůstane napořád, a bude se měnit jen z jeho vůle.
+Démonického pána Orkuse, známého jako Démonický kníže nemrtvosti a Krvavý pán, uctívají nemrtví a živí tvorové, kteří ovládají moc nemrtvosti. Orkus je hloubavá a nihilistická bytost, která touží udělat z mnohovesmíru místo smrti a temnoty, které tak zůstane napořád, a bude se měnit jen z jeho vůle.
   
 Démonický kníže nemrtvosti je hnusný a otylý tvor, s humanoidním trupem, silnýma kozlíma nohama a vyschlou hlavou berana. Jeho tělo plné hnisavých boláků chorobně zapáchá, ale jeho rozkládající se hlava a žhnoucí rudé oči vypadají, jako by byl tento tvor už po smrti. Z jeho zad vychází velká černá netopýří křídla, která během jeho pohybu víří páchnoucí vzduch.
   

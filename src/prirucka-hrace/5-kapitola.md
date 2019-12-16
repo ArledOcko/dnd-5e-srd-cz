@@ -567,6 +567,26 @@ Díky pomůcce můžeš udělat něco, co bys jinak nedokázal, například vyro
 ***Travičská souprava.*** Travičská souprava obsahuje flakónky, chemikálie a jiné vybavení potřebné pro tvorbu jedů. Zdatnost s touto soupravou ti umožňuje přičíst si zdatností bonus k ověření vlastnosti při výrobě nebo použití jedů.
   
 ***Zlodějské náčiní.*** Tato sada náčiní obsahuje malý pilník, sadu paklíčů, zrcátko na kovovém držadle, sadu nůžek s úzkými čepelemi a dvoje kombinačky. Zdatnost s tímto náčiním ti umožňuje přičíst si svůj zdatnostní bonus k ověření vlastnosti při zneškodňování pasti či otevírání zámku.
+
+<Card header="Balíčky vybavení">
+
+Počáteční vybavení, které dostaneš od svého povolání, obsahuje sbírku užitečné výbavy dobrodruhů, sestavenou do balíčku. Zde jsou uvedeny obsahy těchto balíčků. Pokud si počáteční vybavení nakupuješ sám, můžeš si koupit balíček za uvedenou cenu, což může být levnější než kupovat si věci jednotlivě. 
+
+***Badatelský balíček (40 zl).*** Obsahuje tornu, knihu znalostí, láhev inkoustu, inkoustové pero, 10 listů pergamenu, pytlík písku a nožík. 
+
+***Diplomatický balíček (39 zl).*** Obsahuje truhlu, 2 tubusy na mapy či svitky, zdobené oblečení, láhev inkoustu, inkoustové pero, lampu, 2 lahvice oleje, 5 listů papíru, flakónek s parfémem, pečetní vosk, mýdlo. 
+
+***Jeskyňářský balíček (12 zl).*** Obsahuje tornu, páčidlo, kladivo, 10 skob, 10 pochodní, křesadlo, zásoby na 10 dní, měch na vodu. Balíček také obsahuje 10 sáhů konopného lana připnutého k boku torny. 
+
+***Kněžský balíček (19 zl).*** Obsahuje tornu, přikrývku, 10 svíček, křesadlo, pokladnička na charitu, 2 kusy kadidla, kadidelnice, ornát, zásoby na 2 dny a měch na vodu. 
+
+***Lupičský balíček (16 zl).*** Obsahuje tornu, pytel s 1 000 kuličkovými ložisky, 2 sáhy řetězu, zvonek, 5 svíček, páčidlo, kladivo, 10 skob, lucerna s okenicemi, 2 lahvice oleje, zásoby na 5 dní, křesadlo a měch na vodu. Balíček také obsahuje 10 sáhů konopného lana připnutého k boku torny. 
+
+***Průzkumný balíček (10 zl).*** Obsahuje tornu, karimatku, nádobíčko, křesadlo, 10 pochodní, zásoby na 10 dní a měch na vodu. Balíček také obsahuje 10 sáhů konopného lana připnutého k boku torny. 
+
+***Zábavní balíček (40 zl).*** Obsahuje tornu, karimatku, 2 kostýmy, 5 svíček, zásoby na 5 dní, měch na vodu a soupravu pro přestrojování.
+
+</Card>
   
 ## Jezdecká zvířata a dopravní prostředky
   
